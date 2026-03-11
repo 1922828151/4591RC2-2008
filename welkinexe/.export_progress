@@ -1,0 +1,114 @@
+# Export Progress
+# Format: address | status (done/failed/skipped)
+401E05|done
+40100F|done
+402010|done
+401014|done
+401019|done
+40101E|done
+401E28|done
+401E2E|done
+402240|done
+401C47|done
+401E50|done
+401656|done
+401C59|done
+40165C|done
+401662|done
+401668|done
+40166E|done
+401674|done
+401E7A|done
+40167A|done
+401680|done
+401E83|done
+401686|done
+401E86|done
+40168C|done
+401E8C|done
+401A8E|done
+401692|done
+401E92|done
+401698|done
+401A98|done
+401E98|done
+40169E|done
+401E9E|done
+401CA2|done
+4016A4|done
+401CA8|done
+4016AA|done
+401CAE|done
+4016B0|done
+401CB4|done
+4016B6|done
+4016BC|done
+401CC0|done
+4016C2|done
+4016C8|done
+4016CE|done
+4016D4|done
+4016DA|done
+4016E0|done
+4016E6|done
+4016EC|done
+401CF0|done
+4016F2|done
+4016F8|done
+4016FE|done
+401704|done
+40170A|done
+401710|done
+401512|done
+401518|done
+40151E|done
+40171F|done
+401D32|done
+401F32|done
+401F38|done
+401F3E|done
+401F44|done
+401F4A|done
+401F50|done
+401F56|done
+401F5C|done
+401F62|done
+401F68|done
+401F6E|done
+401771|done
+401F74|done
+401F7A|done
+401F80|done
+401F86|done
+401F8C|done
+401F92|done
+401F98|done
+401B9C|done
+401D9E|done
+401F9E|done
+401BA2|done
+401DA4|done
+401FA4|done
+401BA8|done
+401FAA|done
+401DAC|done
+401FB0|done
+4021B0|done
+401DF1|done
+401019|skipped|_WinMain@16|library function
+401710|skipped|@__security_check_cookie@4|library function
+401771|skipped|___tmainCRTStartup|library function
+401A8E|skipped|start|library function
+401A98|skipped|___report_gsfailure|library function
+401BA8|skipped|__onexit|library function
+401C47|skipped|_atexit|library function
+401CC0|skipped|__ValidateImageBase|library function
+401CF0|skipped|__FindPESection|library function
+401D32|skipped|__IsNonwritableInCurrentImage|library function
+401DAC|skipped|__SEH_prolog4|library function
+401DF1|skipped|__SEH_epilog4|library function
+401E05|skipped|__except_handler4|library function
+401E2E|skipped|__invoke_watson_if_error|library function
+401E50|skipped|__setdefaultprecision|library function
+401E9E|skipped|___security_init_cookie|library function
+402240|skipped|_WinMain@16_0|library function

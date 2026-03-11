@@ -1,0 +1,7 @@
+# Exports
+# Format: func-addr:func-name
+#============================================================
+
+0x10004890:dllStartPlugin
+0x10004840:dllStopPlugin
+0x10019c90:DllEntryPoint

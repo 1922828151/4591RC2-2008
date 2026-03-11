@@ -1,0 +1,25 @@
+/*
+ * func-name: sub_1021FCA0
+ * func-address: 0x1021fca0
+ * callers: 0x1001a055
+ * callees: 0x1001503c, 0x10015f9b
+ */
+
+_DWORD *__thiscall sub_1021FCA0(int *this, _DWORD *a2, int a3, int a4, int a5, int a6)
+{
+  int v7; // edi
+  _DWORD *result; // eax
+
+  if ( !a3 || a3 != a5 )
+    _invalid_parameter_noinfo();
+  if ( a4 != a6 )
+  {
+    v7 = sub_10015F9B(a6, this[2], a4);
+    sub_1001503C(v7, this[2]);
+    this[2] = v7;
+  }
+  result = a2;
+  *a2 = a3;
+  a2[1] = a4;
+  return result;
+}

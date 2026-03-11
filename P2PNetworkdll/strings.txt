@@ -1,0 +1,425 @@
+# Strings exported from IDA
+# Format: address | length | type | string
+#================================================================================
+
+0x10026360 | 15 | ASCII | bad allocation
+0x10026668 | 14 | ASCII | 211.144.92.86
+0x10026678 | 16 | ASCII | DetectedNetwork
+0x10026690 | 14 | ASCII | ReportAddress
+0x100266a0 | 21 | ASCII | ReqeustRemoteConnect
+0x100266b8 | 6 | ASCII | Count
+0x100266c0 | 13 | ASCII | SAPKeepAlive
+0x100266d8 | 7 | ASCII | Enable
+0x100266e0 | 8 | ASCII | FixPort
+0x100266e8 | 9 | ASCII | ADServer
+0x100266f4 | 8 | ASCII | Address
+0x10026c00 | 14 | ASCII | Remote peer:\n
+0x10026c10 | 22 | ASCII | %s	remote addr %s:%d\n
+0x10026cd0 | 19 | ASCII | vector<T> too long
+0x10026ce4 | 17 | ASCII | list<T> too long
+0x10026cf8 | 45 | ASCII | stream operator << string<T> space not enugh
+0x10026d28 | 46 | ASCII | stream operator >> std::basic_string<T> faild
+0x10027438 | 37 | ASCII | stream operator << T space not enugh
+0x10027460 | 37 | ASCII | stream opera << const T write  faild
+0x10027488 | 27 | ASCII | stream operator >> T faild
+0x100274e4 | 15 | ASCII | InteralNetwork
+0x100274f4 | 15 | ASCII | ExteralNetwork
+0x10027504 | 15 | ASCII | UnknownNetwork
+0x10027514 | 10 | ASCII | UPNPError
+0x10027520 | 14 | ASCII | DeviceFinding
+0x10027530 | 15 | ASCII | AddressMapping
+0x10027540 | 14 | ASCII | NotFindDevice
+0x10027550 | 18 | ASCII | AddressMapSucceed
+0x10027564 | 17 | ASCII | AddressMapFailed
+0x10027578 | 12 | ASCII | UPNPUnknown
+0x100279a4 | 14 | ASCII | HTTP/1.%*d %d
+0x100279b4 | 16 | ASCII | CONTENT-LENGTH:
+0x100279d0 | 31 | ASCII | GET /%s HTTP/1.1\r\nHOST: %s\r\n\r\n
+0x100279f0 | 38 | ASCII | POST /%s HTTP/1.1\r\nHOST: %s\r\n%s%s\r\n%s
+0x10027a18 | 9 | ASCII | %s: %s\r\n
+0x10027a24 | 6 | ASCII | %s:%d
+0x10027a2c | 18 | ASCII | WANIPConnection:1
+0x10027a40 | 89 | ASCII | M-SEARCH * HTTP/1.1\r\nMX: 2\r\nHOST: 239.255.255.250:1900\r\nMAN: "ssdp:discover"\r\nST: %s\r\n\r\n
+0x10027a9c | 16 | ASCII | 239.255.255.250
+0x10027aac | 32 | ASCII | urn:schemas-upnp-org:service:%s
+0x10027acc | 19 | ASCII | WANPPPConnection:1
+0x10027ae0 | 7 | ASCII | 200 OK
+0x10027aec | 10 | ASCII | LOCATION:
+0x10027afc | 8 | ASCII | http://
+0x10027b0c | 8 | ASCII | baseURL
+0x10027b14 | 12 | ASCII | serviceType
+0x10027b20 | 11 | ASCII | controlURL
+0x10027b2c | 21 | ASCII | GetExternalIPAddress
+0x10027b44 | 21 | ASCII | NewExternalIPAddress
+0x10027b60 | 311 | ASCII | <NewRemoteHost></NewRemoteHost>\r\n<NewExternalPort>%d</NewExternalPort>\r\n<NewProtocol>%s</NewProtocol>\r\n<NewInternalPort>%d</NewInternalPort>\r\n<NewInternalClient>%s</NewInternalClient>\r\n<NewEnabled>1</NewEnabled>\r\n<NewPortMappingDescription></NewPortMappingDescription>\r\n<NewLeaseDuration>0</NewLeaseDuration>\r\n
+0x10027c98 | 15 | ASCII | AddPortMapping
+0x10027ca8 | 104 | ASCII | <NewRemoteHost></NewRemoteHost>\r\n<NewExternalPort>%d</NewExternalPort>\r\n<NewProtocol>%s</NewProtocol>\r\n
+0x10027d10 | 18 | ASCII | DeletePortMapping
+0x10027d28 | 15 | ASCII | Content-Length
+0x10027d38 | 27 | ASCII | text/xml ; charset="utf-8"
+0x10027d54 | 13 | ASCII | CONTENT-TYPE
+0x10027d64 | 37 | ASCII | "urn:schemas-upnp-org:service:%s#%s"
+0x10027d8c | 11 | ASCII | SOAPACTION
+0x10027d98 | 264 | ASCII | <?xml version="1.0" encoding="utf-8"?>\r\n<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">\r\n<s:Body>\r\n<u:%s xmlns:u="urn:schemas-upnp-org:service:%s">\r\n%s</u:%s>\r\n</s:Body>\r\n</s:Envelope>\r\n
+0x10027ea0 | 13 | ASCII | http://%511s
+0x10027eb0 | 6 | ASCII | %511s
+0x10027ec0 | 41 | ASCII | xml=http://www.w3.org/XML/1998/namespace
+0x10027eec | 9 | ASCII | windows-
+0x10027ef8 | 9 | ASCII | WINDOWS-
+0x10027f04 | 11 | ASCII | 0123456789
+0x1002851a | 6 | ASCII |  !"#$%
+0x10028611 | 6 | ASCII | DATA[
+0x10028689 | 5 | ASCII |  !"#
+0x100286e0 | 64 | ASCII | 
+0x10028750 | 6 | ASCII | 
+0x10028784 | 9 | ASCII | encoding
+0x10028801 | 5 | ASCII |  !"#
+0x10028858 | 64 | ASCII | 
+0x100288c8 | 6 | ASCII | 
+0x100288fc | 11 | ASCII | standalone
+0x10028979 | 5 | ASCII |  !"#
+0x10028ae9 | 5 | ASCII |  !"#
+0x10028be5 | 6 | ASCII | DATA[
+0x10028c61 | 5 | ASCII |  !"#
+0x10028dd1 | 5 | ASCII |  !"#
+0x10028ecd | 6 | ASCII | DATA[
+0x10028f49 | 5 | ASCII |  !"#
+0x10029044 | 11 | ASCII | ISO-8859-1
+0x100290c1 | 5 | ASCII |  !"#
+0x100291bc | 8 | ASCII | version
+0x100291c4 | 9 | ASCII | US-ASCII
+0x100291d0 | 6 | ASCII | UTF-8
+0x100291d8 | 7 | ASCII | UTF-16
+0x100291e0 | 9 | ASCII | UTF-16BE
+0x100291ec | 9 | ASCII | UTF-16LE
+0x100291fc | 8 | ASCII | ATTLIST
+0x10029204 | 6 | ASCII | CDATA
+0x1002920c | 8 | ASCII | DOCTYPE
+0x10029214 | 8 | ASCII | ELEMENT
+0x1002921c | 6 | ASCII | EMPTY
+0x10029224 | 9 | ASCII | ENTITIES
+0x10029230 | 7 | ASCII | ENTITY
+0x10029238 | 6 | ASCII | FIXED
+0x10029244 | 6 | ASCII | IDREF
+0x1002924c | 7 | ASCII | IDREFS
+0x10029254 | 7 | ASCII | IGNORE
+0x1002925c | 8 | ASCII | IMPLIED
+0x10029264 | 8 | ASCII | INCLUDE
+0x1002926c | 6 | ASCII | NDATA
+0x10029274 | 8 | ASCII | NMTOKEN
+0x1002927c | 9 | ASCII | NMTOKENS
+0x10029288 | 9 | ASCII | NOTATION
+0x10029294 | 7 | ASCII | PCDATA
+0x1002929c | 7 | ASCII | PUBLIC
+0x100292a4 | 9 | ASCII | REQUIRED
+0x100292b0 | 7 | ASCII | SYSTEM
+0x100292b8 | 27 | ASCII | document is not standalone
+0x100292d4 | 46 | ASCII | error in processing external entity reference
+0x10029304 | 23 | ASCII | unclosed CDATA section
+0x1002931c | 51 | ASCII | encoding specified in XML declaration is incorrect
+0x10029350 | 17 | ASCII | unknown encoding
+0x10029364 | 59 | ASCII | xml processing instruction not at start of external entity
+0x100293a0 | 42 | ASCII | reference to external entity in attribute
+0x100293cc | 27 | ASCII | reference to binary entity
+0x100293e8 | 38 | ASCII | reference to invalid character number
+0x10029410 | 20 | ASCII | asynchronous entity
+0x10029424 | 27 | ASCII | recursive entity reference
+0x10029440 | 17 | ASCII | undefined entity
+0x10029454 | 35 | ASCII | illegal parameter entity reference
+0x10029478 | 28 | ASCII | junk after document element
+0x10029494 | 20 | ASCII | duplicate attribute
+0x100294a8 | 15 | ASCII | mismatched tag
+0x100294b8 | 15 | ASCII | unclosed token
+0x100294c8 | 16 | ASCII | not well-formed
+0x100294d8 | 17 | ASCII | no element found
+0x100294ec | 13 | ASCII | syntax error
+0x100294fc | 14 | ASCII | out of memory
+0x10029580 | 47 | ASCII | D:\R3\OutpopGameProject\Release\P2PNetwork.pdb
+0x1002c286 | 43 | ASCII | ?release@Ref_Object@Utility@Outpop@@QAEXXZ
+0x1002c2b4 | 46 | ASCII | ?write_file@Logger@Utility@Outpop@@QAEXPA_W@Z
+0x1002c2e4 | 37 | ASCII | ??1Ref_Object@Utility@Outpop@@UAE@XZ
+0x1002c30c | 37 | ASCII | ??_7Config_Paser@Utility@Outpop@@6B@
+0x1002c334 | 37 | ASCII | ??0Ref_Object@Utility@Outpop@@QAE@XZ
+0x1002c35c | 37 | ASCII | ??1Time_Value@Utility@Outpop@@QAE@XZ
+0x1002c384 | 34 | ASCII | ?lock@Lock@Utility@Outpop@@QAEXXZ
+0x1002c3a8 | 36 | ASCII | ?unlock@Lock@Utility@Outpop@@QAEXXZ
+0x1002c3ce | 42 | ASCII | ?addref@Ref_Object@Utility@Outpop@@QAEXXZ
+0x1002c3fa | 39 | ASCII | ??1Config_Paser@Utility@Outpop@@UAE@XZ
+0x1002c424 | 45 | ASCII | ?instance@Logger@Utility@Outpop@@SAPAV123@XZ
+0x1002c454 | 42 | ASCII | ?make_dt@Logger@Utility@Outpop@@QAEPA_WXZ
+0x1002c480 | 42 | ASCII | ?make_tm@Logger@Utility@Outpop@@QAEPA_WXZ
+0x1002c4ac | 49 | ASCII | ?get_log_buffer@Logger@Utility@Outpop@@QAEPA_WXZ
+0x1002c4e0 | 37 | ASCII | ??0Time_Value@Utility@Outpop@@QAE@XZ
+0x1002c508 | 39 | ASCII | ??0Time_Value@Utility@Outpop@@QAE@JJ@Z
+0x1002c532 | 33 | ASCII | ??0Config@Utility@Outpop@@QAE@XZ
+0x1002c556 | 33 | ASCII | ??1Config@Utility@Outpop@@QAE@XZ
+0x1002c57a | 126 | ASCII | ?load_config@Config@Utility@Outpop@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAVConfig_Paser@23@@Z
+0x1002c5fa | 35 | ASCII | ??_7Ref_Object@Utility@Outpop@@6B@
+0x1002c620 | 53 | ASCII | ?gettimeofday@Time_Value@Utility@Outpop@@SA?AV123@XZ
+0x1002c658 | 39 | ASCII | ?sec@Time_Value@Utility@Outpop@@QBEJXZ
+0x1002c682 | 40 | ASCII | ?usec@Time_Value@Utility@Outpop@@QBEJXZ
+0x1002c6ac | 41 | ASCII | ??0Binary_Stream@Utility@Outpop@@QAE@H@Z
+0x1002c6d8 | 40 | ASCII | ??1Binary_Stream@Utility@Outpop@@UAE@XZ
+0x1002c702 | 51 | ASCII | ?reset_read_pos@Stream_Base@Utility@Outpop@@QAEXXZ
+0x1002c738 | 43 | ASCII | ??NUtility@Outpop@@YAHABVTime_Value@01@0@Z
+0x1002c766 | 49 | ASCII | ??GUtility@Outpop@@YA?AVTime_Value@01@ABV201@0@Z
+0x1002c79a | 40 | ASCII | ?msec@Time_Value@Utility@Outpop@@QAEKXZ
+0x1002c7c4 | 130 | ASCII | ??0StreamException@Utility@Outpop@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HPAVoutpop_exception@12@@Z
+0x1002c848 | 59 | ASCII | ?write_7bit_value@Utility@Outpop@@YAXIAAVStream_Base@12@@Z
+0x1002c886 | 46 | ASCII | ?write@Stream_Base@Utility@Outpop@@QAEHPBDH@Z
+0x1002c8b6 | 57 | ASCII | ?read_7bit_value@Utility@Outpop@@YAIAAVStream_Base@12@@Z
+0x1002c8f2 | 49 | ASCII | ?get_readable@Stream_Base@Utility@Outpop@@QAEHXZ
+0x1002c926 | 51 | ASCII | ?get_read_ptr@Stream_Base@Utility@Outpop@@QAEPADXZ
+0x1002c95c | 96 | ASCII | ?clone_stream@Stream_Base@Utility@Outpop@@UAE?AV?$Smart_Ptr@VStream_Base@Utility@Outpop@@@23@XZ
+0x1002c9be | 104 | ASCII | ?clone_shard_stream@Stream_Base@Utility@Outpop@@UAE?AV?$Smart_Ptr@VStream_Base@Utility@Outpop@@@23@HH@Z
+0x1002ca28 | 102 | ASCII | ?clone_shard_stream@Stream_Base@Utility@Outpop@@UAE?AV?$Smart_Ptr@VStream_Base@Utility@Outpop@@@23@XZ
+0x1002ca90 | 45 | ASCII | ?resize@Stream_Base@Utility@Outpop@@UAE_NH@Z
+0x1002cac0 | 50 | ASCII | ??0outpop_exception@Utility@Outpop@@QAE@ABV012@@Z
+0x1002caf4 | 45 | ASCII | ??0win32_error@Utility@Outpop@@QAE@ABV012@@Z
+0x1002cb24 | 49 | ASCII | ??0StreamException@Utility@Outpop@@QAE@ABV012@@Z
+0x1002cb58 | 42 | ASCII | ??1StreamException@Utility@Outpop@@UAE@XZ
+0x1002cb84 | 42 | ASCII | ??3Binary_Stream@Utility@Outpop@@SAXPAX@Z
+0x1002cbb0 | 42 | ASCII | ??2Binary_Stream@Utility@Outpop@@SAPAXI@Z
+0x1002cbdc | 49 | ASCII | ??HUtility@Outpop@@YA?AVTime_Value@01@ABV201@0@Z
+0x1002cc10 | 46 | ASCII | ?get_space@Stream_Base@Utility@Outpop@@QAEHXZ
+0x1002cc40 | 45 | ASCII | ?get_size@Stream_Base@Utility@Outpop@@QAEIXZ
+0x1002cc70 | 45 | ASCII | ?write@OS_Buffer@Utility@Outpop@@QAEHPBDHH@Z
+0x1002cca0 | 44 | ASCII | ?read@OS_Buffer@Utility@Outpop@@QAEHPADHH@Z
+0x1002ccce | 40 | ASCII | ??0Timer_Handler@Utility@Outpop@@QAE@XZ
+0x1002ccf8 | 40 | ASCII | ??1Timer_Handler@Utility@Outpop@@UAE@XZ
+0x1002cd22 | 31 | ASCII | ??0Task@Utility@Outpop@@QAE@XZ
+0x1002cd44 | 31 | ASCII | ??1Task@Utility@Outpop@@UAE@XZ
+0x1002cd66 | 69 | ASCII | ?activate@Task@Utility@Outpop@@QAEHHPAU_SECURITY_ATTRIBUTES@@QAK11@Z
+0x1002cdac | 12 | ASCII | Utility.dll
+0x1002cdba | 38 | ASCII | ??0INET_Addr@IONetwork@Outpop@@QAE@XZ
+0x1002cde2 | 38 | ASCII | ??1INET_Addr@IONetwork@Outpop@@UAE@XZ
+0x1002ce0a | 45 | ASCII | ??0INET_Addr@IONetwork@Outpop@@QAE@ABV012@@Z
+0x1002ce3a | 51 | ASCII | ??4INET_Addr@IONetwork@Outpop@@QAEAAV012@ABV012@@Z
+0x1002ce70 | 52 | ASCII | ?get_host_addr@INET_Addr@IONetwork@Outpop@@QAEPBDXZ
+0x1002cea6 | 117 | ASCII | ?get_host_addr_str@INET_Addr@IONetwork@Outpop@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+0x1002cf1e | 54 | ASCII | ?set_port_number@INET_Addr@IONetwork@Outpop@@QAEXGH@Z
+0x1002cf56 | 51 | ASCII | ?get_ip_address@INET_Addr@IONetwork@Outpop@@QAEIXZ
+0x1002cf8c | 52 | ASCII | ?get_port_number@INET_Addr@IONetwork@Outpop@@QAEGXZ
+0x1002cfc2 | 43 | ASCII | ??0INET_Addr@IONetwork@Outpop@@QAE@GQBDH@Z
+0x1002cff0 | 39 | ASCII | ?socket_init@IONetwork@Outpop@@YAHHH@Z
+0x1002d01a | 48 | ASCII | ??_7Channel_Error_Handler@IONetwork@Outpop@@6B@
+0x1002d04c | 47 | ASCII | ??_7P2P_Acceptor_Handler@IONetwork@Outpop@@6B@
+0x1002d07e | 44 | ASCII | ??1Channel_Handler@IONetwork@Outpop@@UAE@XZ
+0x1002d0ac | 42 | ASCII | ??_7Channel_Handler@IONetwork@Outpop@@6B@
+0x1002d0d8 | 71 | ASCII | ?get_local_addr@P2PUdpBuilder@IONetwork@Outpop@@QAEHAAVINET_Addr@23@@Z
+0x1002d122 | 121 | ASCII | ?connect@P2PUdpBuilder@IONetwork@Outpop@@QAEHAAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@Utility@3@AAVINET_Addr@23@@Z
+0x1002d19e | 75 | ASCII | ?set_channel_handle@Channel@IONetwork@Outpop@@QAEXPAVChannel_Handler@23@@Z
+0x1002d1ec | 79 | ASCII | ?set_error_handle@Channel@IONetwork@Outpop@@QAEXPAVChannel_Error_Handler@23@@Z
+0x1002d23e | 68 | ASCII | ?get_remote_address@Channel@IONetwork@Outpop@@QAEAAVINET_Addr@23@XZ
+0x1002d284 | 113 | ASCII | ?create_stream@Channel_Handler@IONetwork@Outpop@@UAE?AV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@Utility@3@I@Z
+0x1002d2f8 | 49 | ASCII | ??1P2P_Acceptor_Handler@IONetwork@Outpop@@UAE@XZ
+0x1002d32c | 50 | ASCII | ??1Channel_Error_Handler@IONetwork@Outpop@@UAE@XZ
+0x1002d360 | 99 | ASCII | ?get_act_obj@Channel@IONetwork@Outpop@@QAE?AV?$Smart_Ptr@VRef_Object@Utility@Outpop@@@Utility@3@XZ
+0x1002d3c6 | 100 | ASCII | ?set_act_obj@Channel@IONetwork@Outpop@@QAEXAAV?$Smart_Ptr@VRef_Object@Utility@Outpop@@@Utility@3@@Z
+0x1002d42c | 83 | ASCII | ?proactor_post_wakeup_completions@WIN32_IoCompletionPort@IONetwork@Outpop@@QAEHH@Z
+0x1002d482 | 64 | ASCII | ?handle_events@WIN32_IoCompletionPort@IONetwork@Outpop@@QAEHK@Z
+0x1002d4c4 | 63 | ASCII | ?handle_events@WIN32_IoCompletionPort@IONetwork@Outpop@@QAEHXZ
+0x1002d506 | 77 | ASCII | ?post@WIN32_IoCompletionPort@IONetwork@Outpop@@QAEHPAVAsynch_Result@23@PAX@Z
+0x1002d556 | 57 | ASCII | ?open@WIN32_IoCompletionPort@IONetwork@Outpop@@QAEHPAX@Z
+0x1002d592 | 51 | ASCII | ??1WIN32_IoCompletionPort@IONetwork@Outpop@@QAE@XZ
+0x1002d5c8 | 51 | ASCII | ??0WIN32_IoCompletionPort@IONetwork@Outpop@@QAE@XZ
+0x1002d5fe | 41 | ASCII | ??_7System_Handler@IONetwork@Outpop@@6B@
+0x1002d62a | 195 | ASCII | ?asynch_send_to@P2PUdpBuilder@IONetwork@Outpop@@QAEHAAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@Utility@3@AAVINET_Addr@23@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_NPAX@Z
+0x1002d6f0 | 40 | ASCII | ??0INET_Addr@IONetwork@Outpop@@QAE@GI@Z
+0x1002d71a | 71 | ASCII | ??0P2PUdpBuilder@IONetwork@Outpop@@QAE@PAVWIN32_IoCompletionPort@12@@Z
+0x1002d764 | 68 | ASCII | ?initialize@P2PUdpBuilder@IONetwork@Outpop@@QAEXAAUP2P_Config@23@@Z
+0x1002d7aa | 47 | ASCII | ?start@P2PUdpBuilder@IONetwork@Outpop@@QAE_NXZ
+0x1002d7dc | 42 | ASCII | ??1P2PUdpBuilder@IONetwork@Outpop@@UAE@XZ
+0x1002d808 | 129 | ASCII | ?handle_time_out@P2PUdpBuilder@IONetwork@Outpop@@UAEXABVTime_Value@Utility@3@0AAV?$Smart_Ptr@VRef_Object@Utility@Outpop@@@53@J@Z
+0x1002d88c | 39 | ASCII | ??1P2P_Config@IONetwork@Outpop@@QAE@XZ
+0x1002d8b6 | 43 | ASCII | ??1System_Handler@IONetwork@Outpop@@UAE@XZ
+0x1002d8e4 | 39 | ASCII | ??0P2P_Config@IONetwork@Outpop@@QAE@XZ
+0x1002d90c | 14 | ASCII | IONetwork.dll
+0x1002d91a | 11 | ASCII | WS2_32.dll
+0x1002d928 | 13 | ASCII | GetLastError
+0x1002d938 | 19 | ASCII | GetCurrentThreadId
+0x1002d94e | 20 | ASCII | GetCurrentProcessId
+0x1002d964 | 6 | ASCII | Sleep
+0x1002d96a | 13 | ASCII | KERNEL32.dll
+0x1002d97a | 71 | ASCII | ??1?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@XZ
+0x1002d9c4 | 122 | ASCII | ??$?8DU?$char_traits@D@std@@V?$allocator@D@1@@std@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@PBD@Z
+0x1002da40 | 74 | ASCII | ??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@PBD@Z
+0x1002da8c | 120 | ASCII | ??$?9DU?$char_traits@D@std@@V?$allocator@D@1@@std@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@0@Z
+0x1002db06 | 120 | ASCII | ??$?8DU?$char_traits@D@std@@V?$allocator@D@1@@std@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@0@Z
+0x1002db80 | 120 | ASCII | ??$?MDU?$char_traits@D@std@@V?$allocator@D@1@@std@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@0@Z
+0x1002dbfa | 143 | ASCII | ?end@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QBE?AV?$_String_const_iterator@DU?$char_traits@D@std@@V?$allocator@D@2@@2@XZ
+0x1002dc8c | 145 | ASCII | ?begin@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QBE?AV?$_String_const_iterator@DU?$char_traits@D@std@@V?$allocator@D@2@@2@XZ
+0x1002dd20 | 85 | ASCII | ?append@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV12@PBDI@Z
+0x1002dd78 | 82 | ASCII | ??4?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV01@ABV01@@Z
+0x1002ddcc | 77 | ASCII | ??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@ABV01@@Z
+0x1002de1c | 71 | ASCII | ??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@XZ
+0x1002de64 | 12 | ASCII | MSVCP80.dll
+0x1002de72 | 13 | ASCII | ??3@YAXPAX@Z
+0x1002de82 | 15 | ASCII | _vswprintf_c_l
+0x1002de94 | 14 | ASCII | ??_V@YAXPAX@Z
+0x1002dea4 | 8 | ASCII | wprintf
+0x1002deb6 | 30 | ASCII | ??0exception@std@@QAE@ABQBD@Z
+0x1002ded6 | 25 | ASCII | ??1exception@std@@UAE@XZ
+0x1002def2 | 13 | ASCII | ??2@YAPAXI@Z
+0x1002df02 | 25 | ASCII | ??0exception@std@@QAE@XZ
+0x1002df1e | 31 | ASCII | ??0exception@std@@QAE@ABV01@@Z
+0x1002df40 | 26 | ASCII | _invalid_parameter_noinfo
+0x1002df5c | 8 | ASCII | sprintf
+0x1002df66 | 30 | ASCII | ?what@exception@std@@UBEPBDXZ
+0x1002df86 | 10 | ASCII | _purecall
+0x1002df92 | 7 | ASCII | sscanf
+0x1002df9c | 8 | ASCII | strncmp
+0x1002dfae | 7 | ASCII | malloc
+0x1002dfb8 | 7 | ASCII | strstr
+0x1002dfc2 | 7 | ASCII | _errno
+0x1002dfcc | 7 | ASCII | strchr
+0x1002dfd6 | 8 | ASCII | strncpy
+0x1002dfe0 | 8 | ASCII | toupper
+0x1002dfea | 6 | ASCII | abort
+0x1002dff2 | 8 | ASCII | memmove
+0x1002dffc | 7 | ASCII | calloc
+0x1002e006 | 8 | ASCII | realloc
+0x1002e00e | 12 | ASCII | MSVCR80.dll
+0x1002e01c | 18 | ASCII | ?terminate@@YAXXZ
+0x1002e030 | 8 | ASCII | _unlock
+0x1002e03a | 16 | ASCII | _encode_pointer
+0x1002e04c | 12 | ASCII | __dllonexit
+0x1002e05a | 6 | ASCII | _lock
+0x1002e062 | 8 | ASCII | _onexit
+0x1002e06c | 16 | ASCII | _decode_pointer
+0x1002e07e | 12 | ASCII | _malloc_crt
+0x1002e08c | 14 | ASCII | _encoded_null
+0x1002e09c | 10 | ASCII | _initterm
+0x1002e0a8 | 12 | ASCII | _initterm_e
+0x1002e0b6 | 11 | ASCII | _amsg_exit
+0x1002e0c4 | 13 | ASCII | _adjust_fdiv
+0x1002e0d4 | 16 | ASCII | __CppXcptFilter
+0x1002e0e6 | 19 | ASCII | _crt_debugger_hook
+0x1002e0fc | 51 | ASCII | ?_type_info_dtor_internal_method@type_info@@QAEXXZ
+0x1002e132 | 24 | ASCII | _except_handler4_common
+0x1002e14c | 33 | ASCII | __clean_type_info_names_internal
+0x1002e170 | 20 | ASCII | InterlockedExchange
+0x1002e186 | 27 | ASCII | InterlockedCompareExchange
+0x1002e1a4 | 17 | ASCII | TerminateProcess
+0x1002e1b8 | 18 | ASCII | GetCurrentProcess
+0x1002e1cc | 25 | ASCII | UnhandledExceptionFilter
+0x1002e1e8 | 28 | ASCII | SetUnhandledExceptionFilter
+0x1002e206 | 18 | ASCII | IsDebuggerPresent
+0x1002e21a | 24 | ASCII | QueryPerformanceCounter
+0x1002e234 | 13 | ASCII | GetTickCount
+0x1002e244 | 24 | ASCII | GetSystemTimeAsFileTime
+0x1002e25e | 7 | ASCII | memcpy
+0x1002e268 | 19 | ASCII | __CxxFrameHandler3
+0x1002e27e | 19 | ASCII | _CxxThrowException
+0x1002e5ac | 15 | ASCII | P2PNetwork.dll
+0x1002e5bb | 41 | ASCII | ??0P2P_Context@P2P@Outpop@@QAE@ABV012@@Z
+0x1002e5e4 | 34 | ASCII | ??0P2P_Context@P2P@Outpop@@QAE@XZ
+0x1002e606 | 34 | ASCII | ??0Peer@P2P@Outpop@@QAE@ABV012@@Z
+0x1002e628 | 91 | ASCII | ??0Peer@P2P@Outpop@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+0x1002e683 | 34 | ASCII | ??1P2P_Context@P2P@Outpop@@UAE@XZ
+0x1002e6a5 | 27 | ASCII | ??1Peer@P2P@Outpop@@UAE@XZ
+0x1002e6c0 | 47 | ASCII | ??4P2P_Context@P2P@Outpop@@QAEAAV012@ABV012@@Z
+0x1002e6ef | 40 | ASCII | ??4Peer@P2P@Outpop@@QAEAAV012@ABV012@@Z
+0x1002e717 | 32 | ASCII | ??_7P2P_Context@P2P@Outpop@@6B@
+0x1002e737 | 59 | ASCII | ??_7Peer@P2P@Outpop@@6BChannel_Error_Handler@IONetwork@2@@
+0x1002e772 | 53 | ASCII | ??_7Peer@P2P@Outpop@@6BChannel_Handler@IONetwork@2@@
+0x1002e7a7 | 58 | ASCII | ??_7Peer@P2P@Outpop@@6BP2P_Acceptor_Handler@IONetwork@2@@
+0x1002e7e1 | 46 | ASCII | ??_7Peer@P2P@Outpop@@6BRef_Object@Utility@2@@
+0x1002e80f | 134 | ASCII | ?OnCooperateConnect@Peer@P2P@Outpop@@IAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAVINET_Addr@IONetwork@3@1@Z
+0x1002e895 | 48 | ASCII | ?OnDetectNetworkResult@Peer@P2P@Outpop@@IAEXH@Z
+0x1002e8c5 | 36 | ASCII | ?OnKPError@Peer@P2P@Outpop@@IAEXH@Z
+0x1002e8e9 | 41 | ASCII | ?OnReportSucceed@Peer@P2P@Outpop@@IAEXXZ
+0x1002e912 | 119 | ASCII | ?OnRequestRemoteConnectFailed@Peer@P2P@Outpop@@IAEXHABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+0x1002e989 | 52 | ASCII | ?OnSAPError@Peer@P2P@Outpop@@IAEXW4ESAPError@23@H@Z
+0x1002e9bd | 136 | ASCII | ?OnSAPGetPeerAddress@Peer@P2P@Outpop@@IAEXHABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAVINET_Addr@IONetwork@3@1@Z
+0x1002ea45 | 82 | ASCII | ?OnUPNPMapSucceed@Peer@P2P@Outpop@@IAEXW4EUPNPState@23@GPAVTSocket@IONetwork@3@@Z
+0x1002ea97 | 66 | ASCII | ?OnUPNPStateChangeResult@Peer@P2P@Outpop@@IAEXW4EUPNPState@23@G@Z
+0x1002ead9 | 64 | ASCII | ?c_network_type_to_string@P2P@Outpop@@YAPBDW4ENetworkType@12@@Z
+0x1002eb19 | 60 | ASCII | ?c_upnp_state_to_string@P2P@Outpop@@YAPBDW4EUPNPState@12@@Z
+0x1002eb55 | 104 | ASCII | ?change_peer_id@Peer@P2P@Outpop@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+0x1002ebbd | 100 | ASCII | ?close_peer@Peer@P2P@Outpop@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+0x1002ec21 | 109 | ASCII | ?connect_remote_peer@Peer@P2P@Outpop@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+0x1002ec8e | 44 | ASCII | ?enable_upnp@P2P_Context@P2P@Outpop@@QAEXXZ
+0x1002ecba | 44 | ASCII | ?g_context_@P2P_Context@P2P@Outpop@@0V123@A
+0x1002ece6 | 84 | ASCII | ?get_detector_server_address@P2P_Context@P2P@Outpop@@QAEAAVINET_Addr@IONetwork@3@XZ
+0x1002ed3a | 50 | ASCII | ?get_fix_upnp_port@P2P_Context@P2P@Outpop@@QAEGXZ
+0x1002ed6c | 53 | ASCII | ?get_keep_alive_count@P2P_Context@P2P@Outpop@@QAEHXZ
+0x1002eda1 | 75 | ASCII | ?get_keep_alive_time@P2P_Context@P2P@Outpop@@QAEAAVTime_Value@Utility@3@XZ
+0x1002edec | 91 | ASCII | ?get_network_detector_reconnect_time@P2P_Context@P2P@Outpop@@QAEAAVTime_Value@Utility@3@XZ
+0x1002ee47 | 83 | ASCII | ?get_report_address_try_time@P2P_Context@P2P@Outpop@@QAEAAVTime_Value@Utility@3@XZ
+0x1002ee9a | 65 | ASCII | ?get_request_remote_connect_count@P2P_Context@P2P@Outpop@@QAEHXZ
+0x1002eedb | 87 | ASCII | ?get_request_remote_connect_time@P2P_Context@P2P@Outpop@@QAEAAVTime_Value@Utility@3@XZ
+0x1002ef32 | 102 | ASCII | ?get_sap@P2P_Context@P2P@Outpop@@QAE?AV?$Smart_Ptr@VSimple_Address_Protocol@P2P@Outpop@@@Utility@3@XZ
+0x1002ef98 | 99 | ASCII | ?get_win32_iocp@P2P_Context@P2P@Outpop@@QAEPAV?$Timed_WIN32_IOCP@VNull_Lock@Utility@Outpop@@@23@XZ
+0x1002effb | 194 | ASCII | ?handle_accept@Peer@P2P@Outpop@@UAEXAAV?$Smart_Ptr@VChannel@IONetwork@Outpop@@@Utility@3@AAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@53@AAV?$Smart_Ptr@VP2PUdpBuilder@IONetwork@Outpop@@@53@@Z
+0x1002f0bd | 106 | ASCII | ?handle_acceptor_error@Peer@P2P@Outpop@@UAEXAAV?$Smart_Ptr@VP2PUdpBuilder@IONetwork@Outpop@@@Utility@3@@Z
+0x1002f127 | 201 | ASCII | ?handle_build_channel@Peer@P2P@Outpop@@UAEXAAV?$Smart_Ptr@VChannel@IONetwork@Outpop@@@Utility@3@AAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@53@AAV?$Smart_Ptr@VP2PUdpBuilder@IONetwork@Outpop@@@53@@Z
+0x1002f1f0 | 180 | ASCII | ?handle_build_failed@Peer@P2P@Outpop@@UAEXHABVINET_Addr@IONetwork@3@AAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@Utility@3@AAV?$Smart_Ptr@VP2PUdpBuilder@IONetwork@Outpop@@@73@@Z
+0x1002f2a4 | 92 | ASCII | ?handle_close@Peer@P2P@Outpop@@UAEXHAAV?$Smart_Ptr@VChannel@IONetwork@Outpop@@@Utility@3@@Z
+0x1002f300 | 107 | ASCII | ?handle_read_seqeuence_stream@Peer@P2P@Outpop@@UAEXAAV?$Smart_Ptr@VChannel@IONetwork@Outpop@@@Utility@3@@Z
+0x1002f36b | 256 | ASCII | ?handle_read_stream@Peer@P2P@Outpop@@UAEXAAV?$vector@V?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@Utility@Outpop@@V?$allocator@V?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@Utility@Outpop@@@std@@@std@@AAV?$Smart_Ptr@VChannel@IONetwork@Outpop@@@Utility@3@@Z
+0x1002f46b | 99 | ASCII | ?has_peer@Peer@P2P@Outpop@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+0x1002f4ce | 30 | ASCII | ?init@Peer@P2P@Outpop@@QAEXXZ
+0x1002f4ec | 46 | ASCII | ?instance@P2P_Context@P2P@Outpop@@SAPAV123@XZ
+0x1002f51a | 112 | ASCII | ?interal_change_peer_id@Peer@P2P@Outpop@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+0x1002f58a | 108 | ASCII | ?interal_close_peer@Peer@P2P@Outpop@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+0x1002f5f6 | 117 | ASCII | ?interal_connect_remote_peer@Peer@P2P@Outpop@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+0x1002f66b | 51 | ASCII | ?interal_print_remote_peer@Peer@P2P@Outpop@@IAEXXZ
+0x1002f69e | 167 | ASCII | ?interal_send_message@Peer@P2P@Outpop@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@Utility@3@@Z
+0x1002f745 | 48 | ASCII | ?is_enable_upnp@P2P_Context@P2P@Outpop@@QAE_NXZ
+0x1002f775 | 108 | ASCII | ?load_config@P2P_Context@P2P@Outpop@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+0x1002f7e1 | 65 | ASCII | ?on_item@P2P_Context@P2P@Outpop@@UAEXAAVConfig_Item@Utility@3@@Z
+0x1002f822 | 70 | ASCII | ?on_threaten_address@Peer@P2P@Outpop@@UAEXABVINET_Addr@IONetwork@3@@Z
+0x1002f868 | 43 | ASCII | ?print_remote_peer@Peer@P2P@Outpop@@QAEXXZ
+0x1002f893 | 29 | ASCII | ?run@Peer@P2P@Outpop@@QAEXXZ
+0x1002f8b0 | 159 | ASCII | ?send_message@Peer@P2P@Outpop@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@Utility@3@@Z
+0x1002f94f | 85 | ASCII | ?set_detector_server_address@P2P_Context@P2P@Outpop@@QAEXABVINET_Addr@IONetwork@3@@Z
+0x1002f9a4 | 51 | ASCII | ?set_fix_upnp_port@P2P_Context@P2P@Outpop@@QAEXG@Z
+0x1002f9d7 | 54 | ASCII | ?set_keep_alive_count@P2P_Context@P2P@Outpop@@QAEXH@Z
+0x1002fa0d | 76 | ASCII | ?set_keep_alive_time@P2P_Context@P2P@Outpop@@QAEXABVTime_Value@Utility@3@@Z
+0x1002fa59 | 92 | ASCII | ?set_network_detector_reconnect_time@P2P_Context@P2P@Outpop@@QAEXABVTime_Value@Utility@3@@Z
+0x1002fab5 | 84 | ASCII | ?set_report_address_try_time@P2P_Context@P2P@Outpop@@QAEXABVTime_Value@Utility@3@@Z
+0x1002fb09 | 66 | ASCII | ?set_request_remote_connect_count@P2P_Context@P2P@Outpop@@QAEXH@Z
+0x1002fb4b | 88 | ASCII | ?set_request_remote_connect_time@P2P_Context@P2P@Outpop@@QAEXABVTime_Value@Utility@3@@Z
+0x1002fba3 | 103 | ASCII | ?set_sap@P2P_Context@P2P@Outpop@@QAEXAAV?$Smart_Ptr@VSimple_Address_Protocol@P2P@Outpop@@@Utility@3@@Z
+0x1002fc0a | 100 | ASCII | ?set_win32_iocp@P2P_Context@P2P@Outpop@@QAEXAAV?$Timed_WIN32_IOCP@VNull_Lock@Utility@Outpop@@@23@@Z
+0x1002fc6e | 31 | ASCII | ?start@Peer@P2P@Outpop@@QAEXXZ
+0x1002fc8d | 30 | ASCII | ?stop@Peer@P2P@Outpop@@QAEXXZ
+0x1002fcab | 181 | ASCII | ?validate_connector@Peer@P2P@Outpop@@UAE_NAAV?$Smart_Ptr@VP2PUdpBuilder@IONetwork@Outpop@@@Utility@3@AAVINET_Addr@IONetwork@3@HHAAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@53@@Z
+0x1003000c | 16 | ASCII | .?AVtype_info@@
+0x1003010c | 34 | ASCII | .?AVConfig_Paser@Utility@Outpop@@
+0x10030138 | 29 | ASCII | .?AVP2P_Context@P2P@Outpop@@
+0x10030160 | 32 | ASCII | .?AVRef_Object@Utility@Outpop@@
+0x10030188 | 34 | ASCII | .?AVNetwork_Detector@P2P@Outpop@@
+0x100301b4 | 35 | ASCII | .?AVPeer_Print_Result@P2P@Outpop@@
+0x100301e0 | 45 | ASCII | .?AVChannel_Error_Handler@IONetwork@Outpop@@
+0x10030218 | 39 | ASCII | .?AVChannel_Handler@IONetwork@Outpop@@
+0x10030248 | 44 | ASCII | .?AVP2P_Acceptor_Handler@IONetwork@Outpop@@
+0x1003027c | 22 | ASCII | .?AVPeer@P2P@Outpop@@
+0x1003029c | 39 | ASCII | .?AVPeer_Change_ID_Result@P2P@Outpop@@
+0x100302cc | 35 | ASCII | .?AVClose_Peer_Result@P2P@Outpop@@
+0x100302f8 | 34 | ASCII | .?AVPeer_Send_Result@P2P@Outpop@@
+0x10030324 | 37 | ASCII | .?AVConnect_Peer_Result@P2P@Outpop@@
+0x10030354 | 33 | ASCII | .?AVStream_Base@Utility@Outpop@@
+0x10030380 | 35 | ASCII | .?AVBinary_Stream@Utility@Outpop@@
+0x100303ac | 18 | ASCII | .?AU_OVERLAPPED@@
+0x100303c8 | 37 | ASCII | .?AVAsynch_Result@IONetwork@Outpop@@
+0x100303f8 | 20 | ASCII | .?AVexception@std@@
+0x10030414 | 22 | ASCII | .?AVlogic_error@std@@
+0x10030434 | 20 | ASCII | .?AVbad_alloc@std@@
+0x10030450 | 23 | ASCII | .?AVlength_error@std@@
+0x10030470 | 37 | ASCII | .?AVStreamException@Utility@Outpop@@
+0x100304a0 | 33 | ASCII | .?AVwin32_error@Utility@Outpop@@
+0x100304cc | 38 | ASCII | .?AVoutpop_exception@Utility@Outpop@@
+0x100304fc | 29 | ASCII | .?AVRemote_Peer@P2P@Outpop@@
+0x10030528 | 113 | ASCII | .?AV?$Register_Timed_WIN32_IOCP_Result@V?$Timed_WIN32_IOCP@VNull_Lock@Utility@Outpop@@@P2P@Outpop@@@P2P@Outpop@@
+0x100305a4 | 28 | ASCII | .?AUSTimerItem@P2P@Outpop@@
+0x100305c8 | 38 | ASCII | .?AVSystem_Handler@IONetwork@Outpop@@
+0x100305f8 | 41 | ASCII | .?AVSimple_Address_Protocol@P2P@Outpop@@
+0x1003062c | 36 | ASCII | .?AUSRemoteConnectItem@P2P@Outpop@@
+0x10030658 | 35 | ASCII | .?AVTimer_Handler@Utility@Outpop@@
+0x10030684 | 37 | ASCII | .?AVP2PUdpBuilder@IONetwork@Outpop@@
+0x100306b4 | 26 | ASCII | .?AVTask@Utility@Outpop@@
+0x100306d8 | 30 | ASCII | .?AVUPNP_Network@P2P@Outpop@@
+0x10030700 | 41 | ASCII | .?AVUPNP_Map_Succeed_Result@P2P@Outpop@@
+0x10030734 | 42 | ASCII | .?AVUPNP_State_Change_Result@P2P@Outpop@@

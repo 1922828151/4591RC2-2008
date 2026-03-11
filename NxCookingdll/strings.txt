@@ -1,0 +1,487 @@
+# Strings exported from IDA
+# Format: address | length | type | string
+#================================================================================
+
+0x10049204 | 15 | ASCII | bad allocation
+0x100493a0 | 65 | ASCII | g:\scm\release\PhysX_2.8.0\novodex\SDKs\MeqRemains\meq_streams.h
+0x100493e4 | 8 | ASCII | flushed
+0x10049708 | 71 | ASCII | g:\scm\release\PhysX_2.8.0\novodex\SDKs\Core\Common\src\ConvexMesh.cpp
+0x10049754 | 18 | ASCII | Opcode is not OK.
+0x10049768 | 155 | ASCII | Loading convex mesh failed: Deprecated mesh cooking format. Please install and run the mesh converter tool to convert your mesh to the new cooking format.
+0x10049884 | 46 | ASCII | EdgeList::CreateFacesToEdges: null parameter!
+0x100498b8 | 69 | ASCII | g:\scm\release\PhysX_2.8.0\novodex\SDKs\Core\Common\src\EdgeList.cpp
+0x10049900 | 65 | ASCII | ActiveEdges::ComputeConvexEdges: no faces-by-edges in edge list!
+0x10049948 | 67 | ASCII | ActiveEdges::ComputeConvexEdges: no edge-to-triangle in edge list!
+0x1004998c | 60 | ASCII | ActiveEdges::ComputeConvexEdges: no edge data in edge list!
+0x100499c8 | 56 | ASCII | ActiveEdges::ComputeConvexEdges: no edges in edge list!
+0x10049a00 | 46 | ASCII | EdgeList::ComputeActiveEdges: null parameter!
+0x10049a38 | 75 | ASCII | g:\scm\release\PhysX_2.8.0\novodex\SDKs\Core\Common\src\IceAdjacencies.cpp
+0x10049a88 | 67 | ASCII | Adjacencies::UpdateLink: invalid edge reference in second triangle
+0x10049ad0 | 66 | ASCII | Adjacencies::UpdateLink: invalid edge reference in first triangle
+0x10049b18 | 64 | ASCII | Adjacencies::CreateDatabase: can't work on non-manifold meshes.
+0x10049ba8 | 81 | ASCII | g:\scm\release\PhysX_2.8.0\novodex\SDKs\Core\Common\src\InternalTriangleMesh.cpp
+0x10049bfc | 17 | ASCII | !mData.mVertices
+0x10049c10 | 18 | ASCII | !mData.mTriangles
+0x10049c24 | 17 | ASCII | !materialIndices
+0x10049c38 | 11 | ASCII | !faceRemap
+0x10049c78 | 75 | ASCII | g:\scm\release\PhysX_2.8.0\novodex\SDKs\Core\Common\src\PenetrationMap.cpp
+0x10049cc4 | 22 | ASCII | mesh.getOpcodeModel()
+0x10049cdc | 52 | ASCII | PenetrationMap::Create: Opcode tree creation failed
+0x10049d10 | 62 | ASCII | PenetrationMap::Create: the pmap file is invalid (bad header)
+0x10049d50 | 63 | ASCII | NxCreatePMap: PMaps are legacy objects and should not be used.
+0x10049d90 | 70 | ASCII | PenetrationMap::Create: the pmap file is invalid (bad version number)
+0x10049dd8 | 41 | ASCII | PenetrationMap::Create: no triangle mesh
+0x10049e98 | 73 | ASCII | g:\scm\release\PhysX_2.8.0\novodex\SDKs\Core\Common\src\TriangleMesh.cpp
+0x10049ee8 | 146 | ASCII | heightFieldVerticalExtent is not outside of the vertex coordinate range of the mesh along the heightFieldVerticalAxis!  HeightField mode ignored!
+0x10049f7c | 27 | ASCII | nb==mesh.getNumTriangles()
+0x10049f98 | 157 | ASCII | Loading triangle mesh failed: Deprecated mesh cooking format. Please install and run the mesh converter tool to convert your mesh to the new cooking format.
+0x1004a038 | 43 | ASCII | TriangleMesh::loadPMap: invalid pmap data!
+0x1004a064 | 46 | ASCII | TriangleMesh::loadPMap: pmap creation failed!
+0x1004a094 | 20 | ASCII | pageIndex<pageCount
+0x1004a434 | 44 | ASCII | MeshInterface::SetPointers: pointer is null
+0x1004a460 | 73 | ASCII | g:\scm\release\PhysX_2.8.0\novodex\SDKs\Opcode\src\OPC_MeshInterface.cpp
+0x1004a4d4 | 63 | ASCII | OPCODE WARNING: supports complete trees only! Use mLimit = 1.\n
+0x1004a518 | 65 | ASCII | g:\scm\release\PhysX_2.8.0\novodex\SDKs\Opcode\src\OPC_Model.cpp
+0x1004a560 | 55 | ASCII | Temporal coherence only works with First contact mode!
+0x1004a678 | 68 | ASCII | SkipPrimitiveTests not possible for RayCollider ! (not implemented)
+0x1004a6bc | 58 | ASCII | Temporal coherence can't guarantee to report closest hit!
+0x1004a6f8 | 50 | ASCII | Closest hit doesn't work with First contact mode!
+0x1004a72c | 40 | ASCII | Higher distance bound must be positive!
+0x1004a7c0 | 74 | ASCII | g:\scm\release\PhysX_2.8.0\novodex\SDKs\Cooking\src\ConvexHullBuilder.cpp
+0x1004a858 | 74 | ASCII | g:\scm\release\PhysX_2.8.0\novodex\SDKs\Cooking\src\ConvexMeshBuilder.cpp
+0x1004a8a4 | 44 | ASCII | createHull: convex hull computation failed!
+0x1004a94c | 60 | ASCII | ConvexMesh::computeConvexHull: convex hull creation failed!
+0x1004a988 | 53 | ASCII | ConvexMesh::loadConvexHull: convex hull init failed!
+0x1004a9c8 | 54 | ASCII | The hull has more than 255 vertices. This is invalid.
+0x1004aa00 | 54 | ASCII | The hull has more than 255 polygons. This is invalid.
+0x1004aa38 | 32 | ASCII | Failed to rebuild Opcode model.
+0x1004aa58 | 30 | ASCII | Failed to refit Opcode model.
+0x1004aa78 | 49 | ASCII | ConvexMesh::loadFromDesc: desc.isValid() failed!
+0x1004aaac | 34 | ASCII | desc.flags & NX_CF_COMPUTE_CONVEX
+0x1004aad0 | 118 | ASCII | ConvexMesh: Mesh has a negative volume! Is it open or do (some) faces have reversed winding? (Taking absolute value.)
+0x1004aba8 | 135 | ASCII | NxInitCooking() state stack overflow, you should call NxCloseCooking() once for each initialization. Please see the API documentation.
+0x1004ac30 | 64 | ASCII | g:\scm\release\PhysX_2.8.0\novodex\SDKs\Cooking\src\Cooking.cpp
+0x1004ad28 | 28 | ASCII | Cant normalize ZERO vector\n
+0x1004adf0 | 84 | ASCII | g:\scm\release\PhysX_2.8.0\novodex\SDKs\Cooking\src\InternalTriangleMeshBuilder.cpp
+0x1004ae4c | 45 | ASCII | builder->mesh->getNumTriangles()==nb_indices
+0x1004ae80 | 107 | ASCII | The mesh has a convex part made of more than 65536 flat parts. This is invalid. Please use a smaller mesh.
+0x1004aef0 | 87 | ASCII | The mesh has more than 65536 convex parts. This is invalid. Please use a smaller mesh.
+0x1004af48 | 45 | ASCII | TriangleMesh: mesh is too big for this algo!
+0x1004afb4 | 25 | ASCII | cleaning the mesh failed
+0x1004afd0 | 76 | ASCII | g:\scm\release\PhysX_2.8.0\novodex\SDKs\Cooking\src\TriangleMeshBuilder.cpp
+0x1004b01c | 21 | ASCII | materials[i]!=0xffff
+0x1004b034 | 51 | ASCII | TriangleMesh::loadFromDesc: desc.isValid() failed!
+0x1004b068 | 41 | ASCII | EL->GetNbFaces()==mesh.getNumTriangles()
+0x1004b134 | 19 | ASCII | vector<T> too long
+0x1004b230 | 18 | ASCII | Unknown exception
+0x1004b264 | 6 | ASCII | e+000
+0x1004b280 | 26 | ASCII | IsProcessorFeaturePresent
+0x1004b29c | 9 | ASCII | KERNEL32
+0x1004b2a8 | 15 | ASCII | CorExitProcess
+0x1004b2b8 | 12 | ASCII | mscoree.dll
+0x1004b2c4 | 15 | ASCII | runtime error 
+0x1004b2d8 | 14 | ASCII | TLOSS error\r\n
+0x1004b2e8 | 13 | ASCII | SING error\r\n
+0x1004b2f8 | 15 | ASCII | DOMAIN error\r\n
+0x1004b308 | 155 | ASCII | R6034\r\nAn application has made an attempt to load the C runtime library incorrectly.\nPlease contact the application's support team for more information.\r\n
+0x1004b3a8 | 247 | ASCII | R6033\r\n- Attempt to use MSIL code from this assembly during native code initialization\nThis indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.\r\n
+0x1004b4a0 | 51 | ASCII | R6032\r\n- not enough space for locale information\r\n
+0x1004b4d8 | 99 | ASCII | R6031\r\n- Attempt to initialize the CRT more than once.\nThis indicates a bug in your application.\r\n
+0x1004b53c | 31 | ASCII | R6030\r\n- CRT not initialized\r\n
+0x1004b55c | 37 | ASCII | R6028\r\n- unable to initialize heap\r\n
+0x1004b584 | 53 | ASCII | R6027\r\n- not enough space for lowio initialization\r\n
+0x1004b5bc | 53 | ASCII | R6026\r\n- not enough space for stdio initialization\r\n
+0x1004b5f4 | 38 | ASCII | R6025\r\n- pure virtual function call\r\n
+0x1004b61c | 53 | ASCII | R6024\r\n- not enough space for _onexit/atexit table\r\n
+0x1004b654 | 41 | ASCII | R6019\r\n- unable to open console device\r\n
+0x1004b680 | 33 | ASCII | R6018\r\n- unexpected heap error\r\n
+0x1004b6a4 | 45 | ASCII | R6017\r\n- unexpected multithread lock error\r\n
+0x1004b6d4 | 44 | ASCII | R6016\r\n- not enough space for thread data\r\n
+0x1004b700 | 150 | ASCII | \r\nThis application has requested the Runtime to terminate it in an unusual way.\nPlease contact the application's support team for more information.\r\n
+0x1004b798 | 44 | ASCII | R6009\r\n- not enough space for environment\r\n
+0x1004b7c4 | 42 | ASCII | R6008\r\n- not enough space for arguments\r\n
+0x1004b7f0 | 45 | ASCII | R6002\r\n- floating point support not loaded\r\n
+0x1004b820 | 37 | ASCII | Microsoft Visual C++ Runtime Library
+0x1004b850 | 23 | ASCII | <program name unknown>
+0x1004b868 | 26 | ASCII | Runtime Error!\n\nProgram: 
+0x1004b884 | 8 | ASCII | .mixcrt
+0x1004b88c | 14 | ASCII | EncodePointer
+0x1004b89c | 13 | ASCII | KERNEL32.DLL
+0x1004b8ac | 14 | ASCII | DecodePointer
+0x1004b8bc | 8 | ASCII | FlsFree
+0x1004b8c4 | 12 | ASCII | FlsSetValue
+0x1004b8d0 | 12 | ASCII | FlsGetValue
+0x1004b8dc | 9 | ASCII | FlsAlloc
+0x1004b8f8 | 7 | ASCII | (null)
+0x1004b921 | 8 | ASCII | ( 8PX
+0x1004b929 | 7 | ASCII | 700WP
+0x1004b938 | 8 | ASCII | `h````
+0x1004b941 | 10 | ASCII | xpxxxx
+0x1004b964 | 11 | ASCII | _nextafter
+0x1004b970 | 6 | ASCII | _logb
+0x1004b984 | 6 | ASCII | frexp
+0x1004b994 | 7 | ASCII | _hypot
+0x1004b99c | 6 | ASCII | _cabs
+0x1004b9a4 | 6 | ASCII | ldexp
+0x1004b9bc | 6 | ASCII | floor
+0x1004b9e0 | 6 | ASCII | atan2
+0x1004ba18 | 6 | ASCII | log10
+0x1004ba98 | 6 | ASCII | exp10
+0x1004baa8 | 6 | ASCII | UTF-8
+0x1004bab0 | 9 | ASCII | UTF-16LE
+0x1004babc | 8 | ASCII | UNICODE
+0x1004bb9f | 6 | ASCII | ?\r0H_
+0x1004bc79 | 5 | ASCII | 4lkQg
+0x1004be1f | 5 | ASCII | ?ju!4
+0x1004c12f | 7 | ASCII | ?!PO79
+0x1004c14f | 5 | ASCII | ?V:e:
+0x1004c381 | 5 | ASCII | 5SmT4
+0x1004c441 | 5 | ASCII | *+xi(
+0x1004c62f | 5 | ASCII | ?1-\nI
+0x1004c87f | 7 | ASCII | ?ZEM-'^
+0x1004c8af | 5 | ASCII | ?m}I
+0x1004c9a9 | 5 | ASCII | <"Q/
+0x1004c9ff | 5 | ASCII | ?>6)}
+0x1004cb1f | 6 | ASCII | ?{yK+;
+0x1004cbbf | 6 | ASCII | ?)Ao\n:
+0x1004cbff | 6 | ASCII | ?765@Z
+0x1004ccdf | 7 | ASCII | ?_0.m
+0x1004ce51 | 5 | ASCII | D<xZu
+0x1004cf67 | 5 | ASCII | ?l$G~
+0x1004cff9 | 5 | ASCII | ^\sY0
+0x1004d081 | 5 | ASCII | 7Z8>	
+0x1004d08f | 6 | ASCII | ?e')lW
+0x1004d290 | 5 | ASCII | $rxxx
+0x1004d40f | 6 | ASCII | ?\r0H_
+0x1004d4e9 | 5 | ASCII | 4lkQg
+0x1004d68f | 5 | ASCII | ?ju!4
+0x1004d99f | 7 | ASCII | ?!PO79
+0x1004d9bf | 5 | ASCII | ?V:e:
+0x1004dbf1 | 5 | ASCII | 5SmT4
+0x1004dcb1 | 5 | ASCII | *+xi(
+0x1004de9f | 5 | ASCII | ?1-\nI
+0x1004e0ef | 7 | ASCII | ?ZEM-'^
+0x1004e11f | 5 | ASCII | ?m}I
+0x1004e219 | 5 | ASCII | <"Q/
+0x1004e26f | 5 | ASCII | ?>6)}
+0x1004e38f | 6 | ASCII | ?{yK+;
+0x1004e42f | 6 | ASCII | ?)Ao\n:
+0x1004e46f | 6 | ASCII | ?765@Z
+0x1004e54f | 7 | ASCII | ?_0.m
+0x1004e6c1 | 5 | ASCII | D<xZu
+0x1004e7d7 | 5 | ASCII | ?l$G~
+0x1004e869 | 5 | ASCII | ^\sY0
+0x1004e8f1 | 5 | ASCII | 7Z8>	
+0x1004e8ff | 6 | ASCII | ?e')lW
+0x1004efd7 | 5 | ASCII | ?X&eB
+0x1004f037 | 5 | ASCII | ?h6_~
+0x1004f0b7 | 5 | ASCII | ?7Tf(
+0x1004f15b | 6 | ASCII | =\uI=
+0x1004f66a | 5 | ASCII | g:IB
+0x1004f699 | 6 | ASCII | ]vQ<)8
+0x1004fb63 | 8 | ASCII | |)P!?Ua0
+0x1004fbf3 | 5 | ASCII | \r9&\?
+0x1004fc0a | 7 | ASCII | Eb2]A=
+0x1004fc25 | 5 | ASCII | hb?O2
+0x1004fc6b | 6 | ASCII | 2ieO=
+0x1004fcab | 6 | ASCII | |W8A=
+0x1004fcc5 | 5 | ASCII | np?z 
+0x1004fccb | 6 | ASCII | m{\rM=
+0x1004fd14 | 6 | ASCII | &\rt?,&
+0x1004fd36 | 7 | ASCII | u?^p?o4
+0x1004fd66 | 5 | ASCII | w?qC
+0x1004fd74 | 5 | ASCII | Pex?0
+0x1004fdf4 | 6 | ASCII | y1~?|"
+0x1004fe4b | 6 | ASCII | V%A+=
+0x10050d75 | 5 | ASCII |  ?5O
+0x10050ef7 | 6 | ASCII | ?|I7Z#
+0x10050f1a | 7 | ASCII | >,'1D=
+0x10050f87 | 10 | ASCII | ?g)([|X>=
+0x10051033 | 5 | ASCII | fAp?
+0x10051087 | 5 | ASCII | ?IT$7
+0x100511b3 | 5 | ASCII | u8"?
+0x100511d4 | 6 | ASCII | :h"?bC
+0x10051224 | 6 | ASCII | @H#?43
+0x10051234 | 8 | ASCII | Ax#?uN}*
+0x1005124a | 7 | ASCII | r7Yr7=
+0x1005125b | 6 | ASCII | .K="=
+0x10051274 | 7 | ASCII | F0$?3=1
+0x10051284 | 6 | ASCII | H`$?h|
+0x10051316 | 6 | ASCII | &?~YK|
+0x10051323 | 6 | ASCII | sU0&?W
+0x100514ba | 5 | ASCII | :]=O>
+0x10051668 | 7 | ASCII | G"jm\n>;
+0x10051b2a | 5 | ASCII | CqTR;
+0x10051bc7 | 5 | ASCII | ?][S
+0x10051c9f | 5 | ASCII | <{Q}<
+0x10051cc9 | 5 | ASCII | hI{L[
+0x10051d1f | 7 | ASCII | <8bunz8
+0x10051dd7 | 5 | ASCII | ?(FN\
+0x10051f3c | 6 | ASCII | K<<H!
+0x10052009 | 5 | ASCII | m1WY$
+0x100520d7 | 6 | ASCII | ?#%X.y
+0x1005212c | 6 | ASCII | F||<##
+0x100521ea | 5 | ASCII | T~OXu
+0x1005235f | 7 | ASCII | <@En[vP
+0x10052470 | 14 | ASCII | bad exception
+0x10052486 | 5 | ASCII | 	\n
+0x1005249f | 95 | ASCII |  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+0x10052504 | 38 | ASCII | InitializeCriticalSectionAndSpinCount
+0x1005252c | 13 | ASCII | kernel32.dll
+0x1005253c | 24 | ASCII | GetProcessWindowStation
+0x10052554 | 26 | ASCII | GetUserObjectInformationA
+0x10052570 | 19 | ASCII | GetLastActivePopup
+0x10052584 | 16 | ASCII | GetActiveWindow
+0x10052594 | 12 | ASCII | MessageBoxA
+0x100525a0 | 11 | ASCII | USER32.DLL
+0x100525ac | 26 | ASCII |  Complete Object Locator'
+0x100525c8 | 29 | ASCII |  Class Hierarchy Descriptor'
+0x100525e8 | 19 | ASCII |  Base Class Array'
+0x100525fc | 28 | ASCII |  Base Class Descriptor at (
+0x10052618 | 18 | ASCII |  Type Descriptor'
+0x1005262c | 28 | ASCII | `local static thread guard'
+0x10052648 | 43 | ASCII | `managed vector copy constructor iterator'
+0x10052674 | 41 | ASCII | `vector vbase copy constructor iterator'
+0x100526a0 | 35 | ASCII | `vector copy constructor iterator'
+0x100526c4 | 33 | ASCII | `dynamic atexit destructor for '
+0x100526e8 | 27 | ASCII | `dynamic initializer for '
+0x10052704 | 44 | ASCII | `eh vector vbase copy constructor iterator'
+0x10052730 | 38 | ASCII | `eh vector copy constructor iterator'
+0x10052758 | 37 | ASCII | `managed vector destructor iterator'
+0x10052780 | 38 | ASCII | `managed vector constructor iterator'
+0x100527a8 | 29 | ASCII | `placement delete[] closure'
+0x100527c8 | 27 | ASCII | `placement delete closure'
+0x100527e4 | 15 | ASCII | `omni callsig'
+0x100527f4 | 10 | ASCII |  delete[]
+0x10052800 | 7 | ASCII |  new[]
+0x10052808 | 36 | ASCII | `local vftable constructor closure'
+0x1005282c | 16 | ASCII | `local vftable'
+0x1005283c | 6 | ASCII | `RTTI
+0x10052848 | 16 | ASCII | `udt returning'
+0x10052858 | 27 | ASCII | `copy constructor closure'
+0x10052874 | 39 | ASCII | `eh vector vbase constructor iterator'
+0x1005289c | 32 | ASCII | `eh vector destructor iterator'
+0x100528bc | 33 | ASCII | `eh vector constructor iterator'
+0x100528e0 | 27 | ASCII | `virtual displacement map'
+0x100528fc | 36 | ASCII | `vector vbase constructor iterator'
+0x10052920 | 29 | ASCII | `vector destructor iterator'
+0x10052940 | 30 | ASCII | `vector constructor iterator'
+0x10052960 | 29 | ASCII | `scalar deleting destructor'
+0x10052980 | 30 | ASCII | `default constructor closure'
+0x100529a0 | 29 | ASCII | `vector deleting destructor'
+0x100529c0 | 19 | ASCII | `vbase destructor'
+0x100529d4 | 9 | ASCII | `string'
+0x100529e0 | 21 | ASCII | `local static guard'
+0x100529f8 | 9 | ASCII | `typeof'
+0x10052a04 | 8 | ASCII | `vcall'
+0x10052a0c | 10 | ASCII | `vbtable'
+0x10052a18 | 10 | ASCII | `vftable'
+0x10052aa0 | 9 | ASCII | operator
+0x10052ac4 | 8 | ASCII |  delete
+0x10052ad4 | 12 | ASCII | __unaligned
+0x10052ae0 | 11 | ASCII | __restrict
+0x10052aec | 8 | ASCII | __ptr64
+0x10052af4 | 10 | ASCII | __clrcall
+0x10052b00 | 11 | ASCII | __fastcall
+0x10052b0c | 11 | ASCII | __thiscall
+0x10052b18 | 10 | ASCII | __stdcall
+0x10052b24 | 9 | ASCII | __pascal
+0x10052b30 | 8 | ASCII | __cdecl
+0x10052b38 | 9 | ASCII | __based(
+0x10052ced | 5 | ASCII | ('8PW
+0x10052cf6 | 5 | ASCII | 700PP
+0x10052d08 | 18 | ASCII | `h`hhhxppwpp
+0x100532b7 | 5 | ASCII | 	\n
+0x100532d0 | 95 | ASCII |  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+0x10053437 | 5 | ASCII | 	\n
+0x10053450 | 95 | ASCII |  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+0x10053530 | 9 | ASCII | HH:mm:ss
+0x1005353c | 20 | ASCII | dddd, MMMM dd, yyyy
+0x10053550 | 9 | ASCII | MM/dd/yy
+0x10053564 | 9 | ASCII | December
+0x10053570 | 9 | ASCII | November
+0x1005357c | 8 | ASCII | October
+0x10053584 | 10 | ASCII | September
+0x10053590 | 7 | ASCII | August
+0x100535a8 | 6 | ASCII | April
+0x100535b0 | 6 | ASCII | March
+0x100535b8 | 9 | ASCII | February
+0x100535c4 | 8 | ASCII | January
+0x100535fc | 9 | ASCII | Saturday
+0x10053608 | 7 | ASCII | Friday
+0x10053610 | 9 | ASCII | Thursday
+0x1005361c | 10 | ASCII | Wednesday
+0x10053628 | 8 | ASCII | Tuesday
+0x10053630 | 7 | ASCII | Monday
+0x10053638 | 7 | ASCII | Sunday
+0x1005365c | 7 | ASCII | 1#QNAN
+0x10053664 | 6 | ASCII | 1#INF
+0x1005366c | 6 | ASCII | 1#IND
+0x10053674 | 7 | ASCII | 1#SNAN
+0x1005367c | 8 | ASCII | CONOUT$
+0x10053684 | 22 | ASCII | SunMonTueWedThuFriSat
+0x1005369c | 37 | ASCII | JanFebMarAprMayJunJulAugSepOctNovDec
+0x100536d0 | 16 | ASCII | string too long
+0x100536e0 | 24 | ASCII | invalid string position
+0x10053758 | 59 | ASCII | g:\scm\release\PhysX_2.8.0\novodex\bin\win32\NxCooking.pdb
+0x100556e2 | 26 | ASCII | InitializeCriticalSection
+0x100556fe | 22 | ASCII | DeleteCriticalSection
+0x10055716 | 19 | ASCII | GetCurrentThreadId
+0x1005572c | 27 | ASCII | InterlockedCompareExchange
+0x1005574a | 21 | ASCII | EnterCriticalSection
+0x10055762 | 21 | ASCII | LeaveCriticalSection
+0x1005577a | 12 | ASCII | CloseHandle
+0x10055788 | 21 | ASCII | InterlockedIncrement
+0x100557a0 | 6 | ASCII | Sleep
+0x100557a8 | 12 | ASCII | TlsSetValue
+0x100557b6 | 24 | ASCII | QueryPerformanceCounter
+0x100557ce | 13 | ASCII | KERNEL32.dll
+0x100557dc | 11 | ASCII | WS2_32.dll
+0x100557ea | 10 | ASCII | HeapAlloc
+0x100557f6 | 13 | ASCII | GetLastError
+0x10055806 | 12 | ASCII | HeapReAlloc
+0x10055814 | 9 | ASCII | HeapFree
+0x10055820 | 16 | ASCII | GetCommandLineA
+0x10055832 | 14 | ASCII | GetVersionExA
+0x10055842 | 15 | ASCII | GetProcessHeap
+0x10055854 | 10 | ASCII | RtlUnwind
+0x10055860 | 17 | ASCII | TerminateProcess
+0x10055874 | 18 | ASCII | GetCurrentProcess
+0x10055888 | 25 | ASCII | UnhandledExceptionFilter
+0x100558a4 | 28 | ASCII | SetUnhandledExceptionFilter
+0x100558c2 | 18 | ASCII | IsDebuggerPresent
+0x100558d6 | 15 | ASCII | RaiseException
+0x100558e8 | 15 | ASCII | GetProcAddress
+0x100558fa | 17 | ASCII | GetModuleHandleA
+0x1005590e | 12 | ASCII | VirtualFree
+0x1005591c | 13 | ASCII | VirtualAlloc
+0x1005592c | 12 | ASCII | HeapDestroy
+0x1005593a | 11 | ASCII | HeapCreate
+0x10055948 | 12 | ASCII | ExitProcess
+0x10055956 | 10 | ASCII | WriteFile
+0x10055962 | 13 | ASCII | GetStdHandle
+0x10055972 | 19 | ASCII | GetModuleFileNameA
+0x10055988 | 9 | ASCII | HeapSize
+0x10055994 | 12 | ASCII | TlsGetValue
+0x100559a2 | 9 | ASCII | TlsAlloc
+0x100559ae | 8 | ASCII | TlsFree
+0x100559b8 | 13 | ASCII | SetLastError
+0x100559c8 | 21 | ASCII | InterlockedDecrement
+0x100559e0 | 15 | ASCII | SetHandleCount
+0x100559f2 | 12 | ASCII | GetFileType
+0x10055a00 | 16 | ASCII | GetStartupInfoA
+0x10055a12 | 15 | ASCII | SetFilePointer
+0x10055a24 | 20 | ASCII | WideCharToMultiByte
+0x10055a3a | 13 | ASCII | GetConsoleCP
+0x10055a4a | 15 | ASCII | GetConsoleMode
+0x10055a5c | 20 | ASCII | MultiByteToWideChar
+0x10055a72 | 9 | ASCII | ReadFile
+0x10055a7e | 24 | ASCII | FreeEnvironmentStringsA
+0x10055a98 | 22 | ASCII | GetEnvironmentStrings
+0x10055ab0 | 24 | ASCII | FreeEnvironmentStringsW
+0x10055aca | 23 | ASCII | GetEnvironmentStringsW
+0x10055ae4 | 13 | ASCII | GetTickCount
+0x10055af4 | 20 | ASCII | GetCurrentProcessId
+0x10055b0a | 24 | ASCII | GetSystemTimeAsFileTime
+0x10055b24 | 10 | ASCII | GetCPInfo
+0x10055b30 | 7 | ASCII | GetACP
+0x10055b3a | 9 | ASCII | GetOEMCP
+0x10055b46 | 16 | ASCII | IsValidCodePage
+0x10055b58 | 13 | ASCII | LoadLibraryA
+0x10055b68 | 15 | ASCII | GetLocaleInfoA
+0x10055b7a | 13 | ASCII | SetStdHandle
+0x10055b8a | 17 | ASCII | FlushFileBuffers
+0x10055b9e | 12 | ASCII | CreateFileA
+0x10055bac | 14 | ASCII | WriteConsoleA
+0x10055bbc | 19 | ASCII | GetConsoleOutputCP
+0x10055bd2 | 14 | ASCII | WriteConsoleW
+0x10055be2 | 13 | ASCII | LCMapStringA
+0x10055bf2 | 13 | ASCII | LCMapStringW
+0x10055c02 | 15 | ASCII | GetStringTypeA
+0x10055c14 | 15 | ASCII | GetStringTypeW
+0x10055c26 | 13 | ASCII | SetEndOfFile
+0x10055cf4 | 14 | ASCII | NxCooking.dll
+0x10055d02 | 15 | ASCII | NxCloseCooking
+0x10055d11 | 16 | ASCII | NxCookClothMesh
+0x10055d21 | 17 | ASCII | NxCookConvexMesh
+0x10055d32 | 19 | ASCII | NxCookSoftBodyMesh
+0x10055d45 | 19 | ASCII | NxCookTriangleMesh
+0x10055d58 | 13 | ASCII | NxCreatePMap
+0x10055d65 | 22 | ASCII | NxGetCookingInterface
+0x10055d7b | 19 | ASCII | NxGetCookingParams
+0x10055d8e | 14 | ASCII | NxInitCooking
+0x10055d9c | 19 | ASCII | NxPlatformMismatch
+0x10055daf | 14 | ASCII | NxReleasePMap
+0x10055dbd | 16 | ASCII | NxReportCooking
+0x10055dcd | 24 | ASCII | NxScaleCookedConvexMesh
+0x10055de5 | 19 | ASCII | NxSetCookingParams
+0x10056018 | 22 | ASCII | .?AVNxFoundationSDK@@
+0x10056038 | 22 | ASCII | .?AVNxUserAllocator@@
+0x10056058 | 29 | ASCII | .?AVNxUserAllocatorDefault@@
+0x10056080 | 30 | ASCII | .?AVObservable@NxFoundation@@
+0x100560a8 | 33 | ASCII | .?AVFoundationSDK@NxFoundation@@
+0x100560d4 | 34 | ASCII | .?AVNxAllocateable@NxFoundation@@
+0x10056124 | 23 | ASCII | .?AVNxRemoteDebugger@@
+0x10056144 | 22 | ASCII | .?AVInputStream@meq@@
+0x10056164 | 23 | ASCII | .?AVOutputStream@meq@@
+0x10056184 | 17 | ASCII | .?AVSocket@meq@@
+0x100561a0 | 22 | ASCII | .?AVSocketWin32@meq@@
+0x100561c0 | 28 | ASCII | .?AVMemoryInputStream@meq@@
+0x100561e4 | 21 | ASCII | .?AVRemoteDebugger@@
+0x10056218 | 16 | ASCII | .?AVClothMesh@@
+0x10056230 | 18 | ASCII | .?AVNvClothMesh@@
+0x10056250 | 20 | ASCII | .?AVCollisionHull@@
+0x1005626c | 17 | ASCII | .?AVConvexHull@@
+0x10056288 | 27 | ASCII | .?AVAllocateable@IceCore@@
+0x100562bc | 21 | ASCII | .?AVStream@IceCore@@
+0x100562dc | 19 | ASCII | .?AVNvConvexMesh@@
+0x100562f8 | 17 | ASCII | .?AVStreamLoad@@
+0x10056314 | 17 | ASCII | .?AVConvexMesh@@
+0x10056344 | 15 | ASCII | .?AVGaussMap@@
+0x10056360 | 23 | ASCII | .?AVSupportVertexMap@@
+0x1005639c | 21 | ASCII | .?AVPenetrationMap@@
+0x100563c8 | 21 | ASCII | .?AVNvTriangleMesh@@
+0x100563e8 | 19 | ASCII | .?AVTriangleMesh@@
+0x10056414 | 24 | ASCII | .?AVAllocator@IceCore@@
+0x10056434 | 23 | ASCII | .?AVDefaultAllocator@@
+0x1005649c | 23 | ASCII | .?AVBaseModel@Opcode@@
+0x100564c0 | 22 | ASCII | .?AVCollider@Opcode@@
+0x100564e8 | 29 | ASCII | .?AVAABBTreeBuilder@Opcode@@
+0x10056510 | 25 | ASCII | .?AVHybridModel@Opcode@@
+0x10056534 | 36 | ASCII | .?AVAABBTreeOfAABBsBuilder@Opcode@@
+0x10056560 | 40 | ASCII | .?AVAABBTreeOfTrianglesBuilder@Opcode@@
+0x10056598 | 19 | ASCII | .?AVModel@Opcode@@
+0x100565c0 | 31 | ASCII | .?AVAABBOptimizedTree@Opcode@@
+0x100565e8 | 37 | ASCII | .?AVAABBStacklessNoLeafTree@Opcode@@
+0x10056618 | 46 | ASCII | .?AVAABBStacklessQuantizedNoLeafTree@Opcode@@
+0x10056650 | 40 | ASCII | .?AVAABBStacklessCollisionTree@Opcode@@
+0x10056680 | 40 | ASCII | .?AVAABBStacklessQuantizedTree@Opcode@@
+0x100566b4 | 32 | ASCII | .?AVPointDistanceQuery@Opcode@@
+0x100566e0 | 25 | ASCII | .?AVRayCollider@Opcode@@
+0x10056704 | 31 | ASCII | .?AVHybridRayCollider@Opcode@@
+0x1005673c | 27 | ASCII | .?AVCollisionHullBuilder@@
+0x10056760 | 24 | ASCII | .?AVConvexHullBuilder@@
+0x10056798 | 24 | ASCII | .?AVConvexMeshBuilder@@
+0x100567b8 | 17 | ASCII | .?AVStreamSave@@
+0x100567ec | 25 | ASCII | .?AVNxCookingInterface@@
+0x10056810 | 26 | ASCII | .?AVTriangleMeshBuilder@@
+0x10056834 | 19 | ASCII | .?AVIceAllocator@@
+0x10056850 | 23 | ASCII | .?AVCookingInterface@@
+0x1005688c | 22 | ASCII | .?AVGaussMapBuilder@@
+0x100568ac | 30 | ASCII | .?AVSupportVertexMapBuilder@@
+0x100568fc | 20 | ASCII | .?AVbad_alloc@std@@
+0x10056918 | 20 | ASCII | .?AVexception@std@@
+0x10056934 | 22 | ASCII | .?AVlogic_error@std@@
+0x10056954 | 23 | ASCII | .?AVlength_error@std@@
+0x10056980 | 16 | ASCII | .?AVtype_info@@
+0x10057384 | 24 | ASCII | .?AVbad_exception@std@@
+0x1005741e | 27 | ASCII |                           
+0x100574fe | 27 | ASCII | abcdefghijklmnopqrstuvwxyz
+0x1005751e | 27 | ASCII | ABCDEFGHIJKLMNOPQRSTUVWXYZ
+0x10057622 | 27 | ASCII |                           
+0x10057709 | 27 | ASCII | abcdefghijklmnopqrstuvwxyz
+0x10057729 | 27 | ASCII | ABCDEFGHIJKLMNOPQRSTUVWXYZ
+0x10057f26 | 5 | ASCII | z?aUY
+0x10057f68 | 5 | ASCII | zc%C1
+0x10057fbb | 5 | ASCII | -64OS
+0x1005806c | 23 | ASCII | .?AVout_of_range@std@@

@@ -1,0 +1,27 @@
+# Skipped 23 functions
+# Format: address | function_name | reason
+#================================================================================
+
+0x10003700 | unknown_libname_1 | library function
+0x1000e0a0 | _DllMain@12 | library function
+0x100294e2 | @__security_check_cookie@4 | library function
+0x100294f2 | ??3@YAXPAX@Z | library function
+0x100294f8 | ?__ArrayUnwind@@YGXPAXIHP6EX0@Z@Z | library function
+0x10029556 | ??_M@YGXPAXIHP6EX0@Z@Z | library function
+0x100295c0 | ??2@YAPAXI@Z | library function
+0x100295d8 | ??_Etype_info@@UAEPAXI@Z | library function
+0x10029628 | __onexit | library function
+0x100296c7 | _atexit | library function
+0x100296d9 | _pre_c_init | library function
+0x10029726 | __CRT_INIT@12 | library function
+0x100298c5 | ___DllMainCRTStartup | library function
+0x100299db | DllEntryPoint | library function
+0x100299fc | ___report_gsfailure | library function
+0x10029b00 | ?terminate@@YAXXZ | library function
+0x10029b08 | __SEH_prolog4 | library function
+0x10029b4d | __SEH_epilog4 | library function
+0x10029b61 | __except_handler4 | library function
+0x10029bf0 | __ValidateImageBase | library function
+0x10029c20 | __FindPESection | library function
+0x10029c62 | __IsNonwritableInCurrentImage | library function
+0x10029ce6 | ___security_init_cookie | library function

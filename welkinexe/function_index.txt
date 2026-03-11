@@ -1,0 +1,725 @@
+# Function Index
+# Total exported functions: 78
+#================================================================================
+
+================================================================================
+Function: sub_40100F
+Address: 0x40100f
+File: 40100F.c
+
+Called by (1 callers):
+  - 0x402240 (_WinMain@16_0)
+
+Calls: none
+
+================================================================================
+Function: sub_401014
+Address: 0x401014
+File: 401014.c
+
+Called by (1 callers):
+  - 0x4021b0 (sub_4021B0) -> 4021B0.c
+
+Calls: none
+
+================================================================================
+Function: sub_40101E
+Address: 0x40101e
+File: 40101E.c
+
+Called by (1 callers):
+  - 0x402240 (_WinMain@16_0)
+
+Calls: none
+
+================================================================================
+Function: GetCurrentThread
+Address: 0x401512
+File: 401512.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: SetThreadAffinityMask
+Address: 0x401518
+File: 401518.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: GetSystemInfo
+Address: 0x40151e
+File: 40151E.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: FreeLibrary
+Address: 0x401656
+File: 401656.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: Sleep
+Address: 0x40165c
+File: 40165C.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: GetProcAddress
+Address: 0x401662
+File: 401662.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: LoadLibraryW
+Address: 0x401668
+File: 401668.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: SetCurrentDirectoryW
+Address: 0x40166e
+File: 40166E.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: UpdateWindow
+Address: 0x401674
+File: 401674.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ShowWindow
+Address: 0x40167a
+File: 40167A.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: CreateWindowExW
+Address: 0x401680
+File: 401680.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: PostQuitMessage
+Address: 0x401686
+File: 401686.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: DestroyWindow
+Address: 0x40168c
+File: 40168C.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: DefWindowProcW
+Address: 0x401692
+File: 401692.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: SendMessageW
+Address: 0x401698
+File: 401698.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: EndPaint
+Address: 0x40169e
+File: 40169E.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: BeginPaint
+Address: 0x4016a4
+File: 4016A4.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: EndDialog
+Address: 0x4016aa
+File: 4016AA.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: SetWindowPos
+Address: 0x4016b0
+File: 4016B0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: GetWindowRect
+Address: 0x4016b6
+File: 4016B6.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: GetDesktopWindow
+Address: 0x4016bc
+File: 4016BC.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: RegisterClassExW
+Address: 0x4016c2
+File: 4016C2.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: LoadCursorW
+Address: 0x4016c8
+File: 4016C8.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: LoadIconW
+Address: 0x4016ce
+File: 4016CE.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: DispatchMessageW
+Address: 0x4016d4
+File: 4016D4.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: TranslateMessage
+Address: 0x4016da
+File: 4016DA.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: TranslateAcceleratorW
+Address: 0x4016e0
+File: 4016E0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: PeekMessageW
+Address: 0x4016e6
+File: 4016E6.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: LoadAcceleratorsW
+Address: 0x4016ec
+File: 4016EC.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: MessageBoxW
+Address: 0x4016f2
+File: 4016F2.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: LoadStringW
+Address: 0x4016f8
+File: 4016F8.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: CoUninitialize
+Address: 0x4016fe
+File: 4016FE.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: CoInitialize
+Address: 0x401704
+File: 401704.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: exit
+Address: 0x40170a
+File: 40170A.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_40171F
+Address: 0x40171f
+File: 40171F.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: _amsg_exit
+Address: 0x401b9c
+File: 401B9C.c
+
+Called by (1 callers):
+  - 0x401771 (___tmainCRTStartup)
+
+Calls: none
+
+================================================================================
+Function: __getmainargs
+Address: 0x401ba2
+File: 401BA2.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_401C59
+Address: 0x401c59
+File: 401C59.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: _cexit
+Address: 0x401ca2
+File: 401CA2.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: _exit
+Address: 0x401ca8
+File: 401CA8.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: _XcptFilter
+Address: 0x401cae
+File: 401CAE.c
+
+Called by (1 callers):
+  - 0x401771 (___tmainCRTStartup)
+
+Calls: none
+
+================================================================================
+Function: _ismbblead
+Address: 0x401cb4
+File: 401CB4.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: _initterm
+Address: 0x401d9e
+File: 401D9E.c
+
+Called by (1 callers):
+  - 0x401771 (___tmainCRTStartup)
+
+Calls: none
+
+================================================================================
+Function: _initterm_e
+Address: 0x401da4
+File: 401DA4.c
+
+Called by (1 callers):
+  - 0x401771 (___tmainCRTStartup)
+
+Calls: none
+
+================================================================================
+Function: _configthreadlocale
+Address: 0x401e28
+File: 401E28.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: __setusermatherr
+Address: 0x401e7a
+File: 401E7A.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_401E83
+Address: 0x401e83
+File: 401E83.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: __p__commode
+Address: 0x401e86
+File: 401E86.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: __p__fmode
+Address: 0x401e8c
+File: 401E8C.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: _encode_pointer
+Address: 0x401e92
+File: 401E92.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: __set_app_type
+Address: 0x401e98
+File: 401E98.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: _crt_debugger_hook
+Address: 0x401f32
+File: 401F32.c
+
+Called by (1 callers):
+  - 0x401a98 (___report_gsfailure)
+
+Calls: none
+
+================================================================================
+Function: _unlock
+Address: 0x401f38
+File: 401F38.c
+
+Called by (1 callers):
+  - 0x401ba8 (__onexit)
+
+Calls: none
+
+================================================================================
+Function: __dllonexit
+Address: 0x401f3e
+File: 401F3E.c
+
+Called by (1 callers):
+  - 0x401ba8 (__onexit)
+
+Calls: none
+
+================================================================================
+Function: _lock
+Address: 0x401f44
+File: 401F44.c
+
+Called by (1 callers):
+  - 0x401ba8 (__onexit)
+
+Calls: none
+
+================================================================================
+Function: _decode_pointer
+Address: 0x401f4a
+File: 401F4A.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: _except_handler4_common
+Address: 0x401f50
+File: 401F50.c
+
+Called by (1 callers):
+  - 0x401e05 (__except_handler4)
+
+Calls: none
+
+================================================================================
+Function: _invoke_watson
+Address: 0x401f56
+File: 401F56.c
+
+Called by (2 callers):
+  - 0x401e2e (__invoke_watson_if_error)
+  - 0x401e50 (__setdefaultprecision)
+
+Calls: none
+
+================================================================================
+Function: _controlfp_s
+Address: 0x401f5c
+File: 401F5C.c
+
+Called by (1 callers):
+  - 0x401e50 (__setdefaultprecision)
+
+Calls: none
+
+================================================================================
+Function: InterlockedExchange
+Address: 0x401f62
+File: 401F62.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: InterlockedCompareExchange
+Address: 0x401f68
+File: 401F68.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: GetStartupInfoA
+Address: 0x401f6e
+File: 401F6E.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: TerminateProcess
+Address: 0x401f74
+File: 401F74.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: GetCurrentProcess
+Address: 0x401f7a
+File: 401F7A.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: UnhandledExceptionFilter
+Address: 0x401f80
+File: 401F80.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: SetUnhandledExceptionFilter
+Address: 0x401f86
+File: 401F86.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: IsDebuggerPresent
+Address: 0x401f8c
+File: 401F8C.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: QueryPerformanceCounter
+Address: 0x401f92
+File: 401F92.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: GetTickCount
+Address: 0x401f98
+File: 401F98.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: GetCurrentThreadId
+Address: 0x401f9e
+File: 401F9E.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: GetCurrentProcessId
+Address: 0x401fa4
+File: 401FA4.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: GetSystemTimeAsFileTime
+Address: 0x401faa
+File: 401FAA.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_401FB0
+Address: 0x401fb0
+File: 401FB0.c
+
+Called by (1 callers):
+  - 0x40100f (sub_40100F) -> 40100F.c
+
+Calls: none
+
+================================================================================
+Function: sub_402010
+Address: 0x402010
+File: 402010.c
+
+Called by (1 callers):
+  - 0x401014 (sub_401014) -> 401014.c
+
+Calls (1 callees):
+  - 0x401710 (@__security_check_cookie@4)
+
+================================================================================
+Function: sub_4021B0
+Address: 0x4021b0
+File: 4021B0.c
+
+Called by (1 callers):
+  - 0x40101e (sub_40101E) -> 40101E.c
+
+Calls: none
+

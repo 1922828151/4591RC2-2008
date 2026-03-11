@@ -1,0 +1,41 @@
+# Skipped 37 functions
+# Format: address | function_name | reason
+#================================================================================
+
+0x10001000 | _DllMain@12 | library function
+0x10001ef0 | unknown_libname_1 | library function
+0x1000c300 | ??0Process_mutex@Utility@Outpop@@QAE@XZ | library function
+0x10017530 | ??0Ref_Object@Utility@Outpop@@QAE@XZ | library function
+0x10018c31 | @__security_check_cookie@4 | library function
+0x10018c40 | __onexit | library function
+0x10018cdf | _atexit | library function
+0x10018cf2 | ??3@YAXPAX@Z | library function
+0x10018cf8 | ?__ArrayUnwind@@YGXPAXIHP6EX0@Z@Z | library function
+0x10018d56 | ??_M@YGXPAXIHP6EX0@Z@Z | library function
+0x10018dc0 | ??_Etype_info@@UAEPAXI@Z | library function
+0x10018e10 | ??2@YAPAXI@Z | library function
+0x10018e2d | ??2@YAPAXIABUnothrow_t@std@@@Z | library function
+0x10018e5c | ??3@YAXPAXABUnothrow_t@std@@@Z | library function
+0x10018e6e | _pre_c_init | library function
+0x10018ebb | __CRT_INIT@12 | library function
+0x1001905a | ___DllMainCRTStartup | library function
+0x10019170 | DllEntryPoint | library function
+0x10019191 | ___report_gsfailure | library function
+0x100192a8 | __SEH_prolog4 | library function
+0x100192ed | __SEH_epilog4 | library function
+0x10019301 | __except_handler4 | library function
+0x10019324 | ?terminate@@YAXXZ | library function
+0x10019330 | __EH_prolog3_catch | library function
+0x10019366 | __EH_epilog3 | library function
+0x100193d0 | __ValidateImageBase | library function
+0x10019400 | __FindPESection | library function
+0x10019442 | __IsNonwritableInCurrentImage | library function
+0x100194c6 | ___security_init_cookie | library function
+0x10019590 | __alldvrm | library function
+0x10019670 | __alldiv | library function
+0x10019720 | __allmul | library function
+0x10019760 | __aulldiv | library function
+0x100197d0 | __aulldvrm | library function
+0x10019870 | __ftol2_sse | library function
+0x1001991b | _has_osfxsr_set | library function
+0x1001996b | __get_sse2_info | library function

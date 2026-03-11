@@ -1,0 +1,19 @@
+/*
+ * func-name: ?performCreate@?$ProductorTemplate@VFSuspendVehicle@GameClient@@@GameClient@@UAEPAVSerializeObject@@XZ_0
+ * func-address: 0x10241500
+ * callers: 0x100023bf
+ * callees: 0x1000876f, 0x102c9d98
+ */
+
+int __thiscall GameClient::ProductorTemplate<GameClient::FSuspendVehicle>::performCreate(char *this)
+{
+  GameClient::FSuspendVehicle *v2; // eax
+  int v3; // esi
+
+  v2 = (GameClient::FSuspendVehicle *)operator new(0x4F8u);
+  v3 = 0;
+  if ( v2 )
+    v3 = GameClient::FSuspendVehicle::FSuspendVehicle(v2);
+  std::string::operator=(v3 + 4, this + 4);
+  return v3;
+}

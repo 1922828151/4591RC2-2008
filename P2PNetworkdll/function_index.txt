@@ -1,0 +1,6253 @@
+# Function Index
+# Total exported functions: 522
+#================================================================================
+
+================================================================================
+Function: ?instance@P2P_Context@P2P@Outpop@@SAPAV123@XZ
+Address: 0x10001000
+File: 10001000.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?set_win32_iocp@P2P_Context@P2P@Outpop@@QAEXAAV?$Timed_WIN32_IOCP@VNull_Lock@Utility@Outpop@@@23@@Z
+Address: 0x10001010
+File: 10001010.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?get_win32_iocp@P2P_Context@P2P@Outpop@@QAEPAV?$Timed_WIN32_IOCP@VNull_Lock@Utility@Outpop@@@23@XZ
+Address: 0x10001020
+File: 10001020.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?get_detector_server_address@P2P_Context@P2P@Outpop@@QAEAAVINET_Addr@IONetwork@3@XZ
+Address: 0x10001030
+File: 10001030.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?set_detector_server_address@P2P_Context@P2P@Outpop@@QAEXABVINET_Addr@IONetwork@3@@Z
+Address: 0x10001040
+File: 10001040.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?get_sap@P2P_Context@P2P@Outpop@@QAE?AV?$Smart_Ptr@VSimple_Address_Protocol@P2P@Outpop@@@Utility@3@XZ
+Address: 0x10001050
+File: 10001050.c
+
+Called by (9 callers):
+  - 0x10003100 (?start@Peer@P2P@Outpop@@QAEXXZ) -> 10003100.c
+  - 0x100031a0 (?OnDetectNetworkResult@Peer@P2P@Outpop@@IAEXH@Z) -> 100031A0.c
+  - 0x100037e0 (?OnReportSucceed@Peer@P2P@Outpop@@IAEXXZ) -> 100037E0.c
+  - 0x10003870 (?OnUPNPStateChangeResult@Peer@P2P@Outpop@@IAEXW4EUPNPState@23@G@Z) -> 10003870.c
+  - 0x10003ae0 (?OnUPNPMapSucceed@Peer@P2P@Outpop@@IAEXW4EUPNPState@23@GPAVTSocket@IONetwork@3@@Z) -> 10003AE0.c
+  - 0x10003f10 (?interal_connect_remote_peer@Peer@P2P@Outpop@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 10003F10.c
+  - 0x100041d0 (?interal_close_peer@Peer@P2P@Outpop@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 100041D0.c
+  - 0x10005230 (?OnKPError@Peer@P2P@Outpop@@IAEXH@Z) -> 10005230.c
+  - 0x100054c0 (?interal_change_peer_id@Peer@P2P@Outpop@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 100054C0.c
+
+Calls: none
+
+================================================================================
+Function: ?set_sap@P2P_Context@P2P@Outpop@@QAEXAAV?$Smart_Ptr@VSimple_Address_Protocol@P2P@Outpop@@@Utility@3@@Z
+Address: 0x10001080
+File: 10001080.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?get_fix_upnp_port@P2P_Context@P2P@Outpop@@QAEGXZ
+Address: 0x100010b0
+File: 100010B0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?set_fix_upnp_port@P2P_Context@P2P@Outpop@@QAEXG@Z
+Address: 0x100010c0
+File: 100010C0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?get_network_detector_reconnect_time@P2P_Context@P2P@Outpop@@QAEAAVTime_Value@Utility@3@XZ
+Address: 0x100010d0
+File: 100010D0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?set_network_detector_reconnect_time@P2P_Context@P2P@Outpop@@QAEXABVTime_Value@Utility@3@@Z
+Address: 0x100010e0
+File: 100010E0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?get_report_address_try_time@P2P_Context@P2P@Outpop@@QAEAAVTime_Value@Utility@3@XZ
+Address: 0x10001100
+File: 10001100.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?set_report_address_try_time@P2P_Context@P2P@Outpop@@QAEXABVTime_Value@Utility@3@@Z
+Address: 0x10001110
+File: 10001110.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?get_request_remote_connect_time@P2P_Context@P2P@Outpop@@QAEAAVTime_Value@Utility@3@XZ
+Address: 0x10001130
+File: 10001130.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?set_request_remote_connect_time@P2P_Context@P2P@Outpop@@QAEXABVTime_Value@Utility@3@@Z
+Address: 0x10001140
+File: 10001140.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?get_request_remote_connect_count@P2P_Context@P2P@Outpop@@QAEHXZ
+Address: 0x10001160
+File: 10001160.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?set_request_remote_connect_count@P2P_Context@P2P@Outpop@@QAEXH@Z
+Address: 0x10001170
+File: 10001170.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?get_keep_alive_time@P2P_Context@P2P@Outpop@@QAEAAVTime_Value@Utility@3@XZ
+Address: 0x10001180
+File: 10001180.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?set_keep_alive_time@P2P_Context@P2P@Outpop@@QAEXABVTime_Value@Utility@3@@Z
+Address: 0x10001190
+File: 10001190.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?get_keep_alive_count@P2P_Context@P2P@Outpop@@QAEHXZ
+Address: 0x100011b0
+File: 100011B0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?set_keep_alive_count@P2P_Context@P2P@Outpop@@QAEXH@Z
+Address: 0x100011c0
+File: 100011C0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?enable_upnp@P2P_Context@P2P@Outpop@@QAEXXZ
+Address: 0x100011d0
+File: 100011D0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?is_enable_upnp@P2P_Context@P2P@Outpop@@QAE_NXZ
+Address: 0x100011e0
+File: 100011E0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ??0P2P_Context@P2P@Outpop@@QAE@ABV012@@Z
+Address: 0x100011f0
+File: 100011F0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ??4P2P_Context@P2P@Outpop@@QAEAAV012@ABV012@@Z
+Address: 0x100012c0
+File: 100012C0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_10001350
+Address: 0x10001350
+File: 10001350.c
+
+Called by: none
+
+Calls (4 callees):
+  - 0x10001de0 (??1P2P_Context@P2P@Outpop@@UAE@XZ) -> 10001DE0.c
+  - 0x10023306 (??3@YAXPAX@Z)
+  - 0x10023356 (??_V@YAXPAX@Z) -> 10023356.c
+  - 0x100233ba (??_M@YGXPAXIHP6EX0@Z@Z)
+
+================================================================================
+Function: sub_100013B0
+Address: 0x100013b0
+File: 100013B0.c
+
+Called by (1 callers):
+  - 0x10002d60 (??0Peer@P2P@Outpop@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 10002D60.c
+
+Calls: none
+
+================================================================================
+Function: sub_10001460
+Address: 0x10001460
+File: 10001460.c
+
+Called by (1 callers):
+  - 0x10001440 (sub_10001440)
+
+Calls: none
+
+================================================================================
+Function: sub_100014F0
+Address: 0x100014f0
+File: 100014F0.c
+
+Called by (1 callers):
+  - 0x10003100 (?start@Peer@P2P@Outpop@@QAEXXZ) -> 10003100.c
+
+Calls (4 callees):
+  - 0x1000a570 (sub_1000A570) -> 1000A570.c
+  - 0x1000ab00 (sub_1000AB00) -> 1000AB00.c
+  - 0x1000cc10 (sub_1000CC10) -> 1000CC10.c
+  - 0x100232f7 (@__security_check_cookie@4)
+
+================================================================================
+Function: sub_10001BD0
+Address: 0x10001bd0
+File: 10001BD0.c
+
+Called by (1 callers):
+  - 0x10001c60 (sub_10001C60) -> 10001C60.c
+
+Calls: none
+
+================================================================================
+Function: sub_10001C60
+Address: 0x10001c60
+File: 10001C60.c
+
+Called by (1 callers):
+  - 0x100014f0 (sub_100014F0) -> 100014F0.c
+
+Calls (1 callees):
+  - 0x10001bd0 (sub_10001BD0) -> 10001BD0.c
+
+================================================================================
+Function: ??0P2P_Context@P2P@Outpop@@QAE@XZ
+Address: 0x10001c80
+File: 10001C80.c
+
+Called by (1 callers):
+  - 0x100256d0 (sub_100256D0) -> 100256D0.c
+
+Calls: none
+
+================================================================================
+Function: ??1P2P_Context@P2P@Outpop@@UAE@XZ
+Address: 0x10001de0
+File: 10001DE0.c
+
+Called by (2 callers):
+  - 0x10001350 (sub_10001350) -> 10001350.c
+  - 0x100256f0 (sub_100256F0) -> 100256F0.c
+
+Calls: none
+
+================================================================================
+Function: ?load_config@P2P_Context@P2P@Outpop@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+Address: 0x10001e80
+File: 10001E80.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?on_item@P2P_Context@P2P@Outpop@@UAEXAAVConfig_Item@Utility@3@@Z
+Address: 0x10001ef0
+File: 10001EF0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_10002440
+Address: 0x10002440
+File: 10002440.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_10002450
+Address: 0x10002450
+File: 10002450.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10023306 (??3@YAXPAX@Z)
+
+================================================================================
+Function: ?init@Peer@P2P@Outpop@@QAEXXZ
+Address: 0x10002480
+File: 10002480.c
+
+Called by (5 callers):
+  - 0x10008e30 (sub_10008E30) -> 10008E30.c
+  - 0x10008fa0 (sub_10008FA0) -> 10008FA0.c
+  - 0x10009fd0 (sub_10009FD0) -> 10009FD0.c
+  - 0x1000a3a0 (sub_1000A3A0) -> 1000A3A0.c
+  - 0x1000eba0 (sub_1000EBA0) -> 1000EBA0.c
+
+Calls: none
+
+================================================================================
+Function: sub_10002490
+Address: 0x10002490
+File: 10002490.c
+
+Called by (4 callers):
+  - 0x10008430 (sub_10008430) -> 10008430.c
+  - 0x10008860 (sub_10008860) -> 10008860.c
+  - 0x10008ed0 (sub_10008ED0) -> 10008ED0.c
+  - 0x1000e530 (sub_1000E530) -> 1000E530.c
+
+Calls: none
+
+================================================================================
+Function: sub_10002500
+Address: 0x10002500
+File: 10002500.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10023306 (??3@YAXPAX@Z)
+
+================================================================================
+Function: sub_10002530
+Address: 0x10002530
+File: 10002530.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_10002550
+Address: 0x10002550
+File: 10002550.c
+
+Called by (1 callers):
+  - 0x10008da0 (sub_10008DA0) -> 10008DA0.c
+
+Calls: none
+
+================================================================================
+Function: sub_100025D0
+Address: 0x100025d0
+File: 100025D0.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10023306 (??3@YAXPAX@Z)
+
+================================================================================
+Function: sub_100025F0
+Address: 0x100025f0
+File: 100025F0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_10002610
+Address: 0x10002610
+File: 10002610.c
+
+Called by (3 callers):
+  - 0x100031a0 (?OnDetectNetworkResult@Peer@P2P@Outpop@@IAEXH@Z) -> 100031A0.c
+  - 0x10003870 (?OnUPNPStateChangeResult@Peer@P2P@Outpop@@IAEXW4EUPNPState@23@G@Z) -> 10003870.c
+  - 0x10003ae0 (?OnUPNPMapSucceed@Peer@P2P@Outpop@@IAEXW4EUPNPState@23@GPAVTSocket@IONetwork@3@@Z) -> 10003AE0.c
+
+Calls: none
+
+================================================================================
+Function: ??0Peer@P2P@Outpop@@QAE@ABV012@@Z
+Address: 0x10002630
+File: 10002630.c
+
+Called by: none
+
+Calls (2 callees):
+  - 0x100063d0 (sub_100063D0) -> 100063D0.c
+  - 0x10006ab0 (sub_10006AB0) -> 10006AB0.c
+
+================================================================================
+Function: ??4Peer@P2P@Outpop@@QAEAAV012@ABV012@@Z
+Address: 0x10002770
+File: 10002770.c
+
+Called by: none
+
+Calls (2 callees):
+  - 0x100079c0 (sub_100079C0) -> 100079C0.c
+  - 0x10007e60 (sub_10007E60) -> 10007E60.c
+
+================================================================================
+Function: sub_10002870
+Address: 0x10002870
+File: 10002870.c
+
+Called by: none
+
+Calls (4 callees):
+  - 0x10002f90 (??1Peer@P2P@Outpop@@UAE@XZ) -> 10002F90.c
+  - 0x10023306 (??3@YAXPAX@Z)
+  - 0x10023356 (??_V@YAXPAX@Z) -> 10023356.c
+  - 0x100233ba (??_M@YGXPAXIHP6EX0@Z@Z)
+
+================================================================================
+Function: sub_10002910
+Address: 0x10002910
+File: 10002910.c
+
+Called by (1 callers):
+  - 0x10003d20 (?connect_remote_peer@Peer@P2P@Outpop@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 10003D20.c
+
+Calls: none
+
+================================================================================
+Function: sub_10002980
+Address: 0x10002980
+File: 10002980.c
+
+Called by (1 callers):
+  - 0x100029f0 (sub_100029F0) -> 100029F0.c
+
+Calls: none
+
+================================================================================
+Function: sub_100029E0
+Address: 0x100029e0
+File: 100029E0.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10003f10 (?interal_connect_remote_peer@Peer@P2P@Outpop@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 10003F10.c
+
+================================================================================
+Function: sub_100029F0
+Address: 0x100029f0
+File: 100029F0.c
+
+Called by: none
+
+Calls (2 callees):
+  - 0x10002980 (sub_10002980) -> 10002980.c
+  - 0x10023306 (??3@YAXPAX@Z)
+
+================================================================================
+Function: sub_10002A10
+Address: 0x10002a10
+File: 10002A10.c
+
+Called by (1 callers):
+  - 0x10004000 (?close_peer@Peer@P2P@Outpop@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 10004000.c
+
+Calls: none
+
+================================================================================
+Function: sub_10002A80
+Address: 0x10002a80
+File: 10002A80.c
+
+Called by (1 callers):
+  - 0x10002af0 (sub_10002AF0) -> 10002AF0.c
+
+Calls: none
+
+================================================================================
+Function: sub_10002AE0
+Address: 0x10002ae0
+File: 10002AE0.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x100041d0 (?interal_close_peer@Peer@P2P@Outpop@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 100041D0.c
+
+================================================================================
+Function: sub_10002AF0
+Address: 0x10002af0
+File: 10002AF0.c
+
+Called by: none
+
+Calls (2 callees):
+  - 0x10002a80 (sub_10002A80) -> 10002A80.c
+  - 0x10023306 (??3@YAXPAX@Z)
+
+================================================================================
+Function: sub_10002B10
+Address: 0x10002b10
+File: 10002B10.c
+
+Called by (1 callers):
+  - 0x10004ea0 (?send_message@Peer@P2P@Outpop@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@Utility@3@@Z) -> 10004EA0.c
+
+Calls: none
+
+================================================================================
+Function: sub_10002BA0
+Address: 0x10002ba0
+File: 10002BA0.c
+
+Called by (1 callers):
+  - 0x10002c30 (sub_10002C30) -> 10002C30.c
+
+Calls: none
+
+================================================================================
+Function: sub_10002C10
+Address: 0x10002c10
+File: 10002C10.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10004f40 (?interal_send_message@Peer@P2P@Outpop@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@Utility@3@@Z) -> 10004F40.c
+
+================================================================================
+Function: sub_10002C30
+Address: 0x10002c30
+File: 10002C30.c
+
+Called by: none
+
+Calls (2 callees):
+  - 0x10002ba0 (sub_10002BA0) -> 10002BA0.c
+  - 0x10023306 (??3@YAXPAX@Z)
+
+================================================================================
+Function: sub_10002C50
+Address: 0x10002c50
+File: 10002C50.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10005b40 (?interal_print_remote_peer@Peer@P2P@Outpop@@IAEXXZ) -> 10005B40.c
+
+================================================================================
+Function: sub_10002C60
+Address: 0x10002c60
+File: 10002C60.c
+
+Called by (1 callers):
+  - 0x100052c0 (?change_peer_id@Peer@P2P@Outpop@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 100052C0.c
+
+Calls: none
+
+================================================================================
+Function: sub_10002CD0
+Address: 0x10002cd0
+File: 10002CD0.c
+
+Called by (1 callers):
+  - 0x10002d40 (sub_10002D40) -> 10002D40.c
+
+Calls: none
+
+================================================================================
+Function: sub_10002D30
+Address: 0x10002d30
+File: 10002D30.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x100054c0 (?interal_change_peer_id@Peer@P2P@Outpop@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 100054C0.c
+
+================================================================================
+Function: sub_10002D40
+Address: 0x10002d40
+File: 10002D40.c
+
+Called by: none
+
+Calls (2 callees):
+  - 0x10002cd0 (sub_10002CD0) -> 10002CD0.c
+  - 0x10023306 (??3@YAXPAX@Z)
+
+================================================================================
+Function: ??0Peer@P2P@Outpop@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+Address: 0x10002d60
+File: 10002D60.c
+
+Called by: none
+
+Calls (6 callees):
+  - 0x100013b0 (sub_100013B0) -> 100013B0.c
+  - 0x10007310 (sub_10007310) -> 10007310.c
+  - 0x100076e0 (sub_100076E0) -> 100076E0.c
+  - 0x10007ba0 (sub_10007BA0) -> 10007BA0.c
+  - 0x1000a7c0 (sub_1000A7C0) -> 1000A7C0.c
+  - 0x100234ce (??2@YAPAXI@Z)
+
+================================================================================
+Function: ??1Peer@P2P@Outpop@@UAE@XZ
+Address: 0x10002f90
+File: 10002F90.c
+
+Called by (1 callers):
+  - 0x10002870 (sub_10002870) -> 10002870.c
+
+Calls (3 callees):
+  - 0x100087a0 (sub_100087A0) -> 100087A0.c
+  - 0x1000e470 (sub_1000E470) -> 1000E470.c
+  - 0x10023306 (??3@YAXPAX@Z)
+
+================================================================================
+Function: ?start@Peer@P2P@Outpop@@QAEXXZ
+Address: 0x10003100
+File: 10003100.c
+
+Called by (2 callers):
+  - 0x10005230 (?OnKPError@Peer@P2P@Outpop@@IAEXH@Z) -> 10005230.c
+  - 0x100054c0 (?interal_change_peer_id@Peer@P2P@Outpop@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 100054C0.c
+
+Calls (2 callees):
+  - 0x10001050 (?get_sap@P2P_Context@P2P@Outpop@@QAE?AV?$Smart_Ptr@VSimple_Address_Protocol@P2P@Outpop@@@Utility@3@XZ) -> 10001050.c
+  - 0x100014f0 (sub_100014F0) -> 100014F0.c
+
+================================================================================
+Function: ?OnDetectNetworkResult@Peer@P2P@Outpop@@IAEXH@Z
+Address: 0x100031a0
+File: 100031A0.c
+
+Called by (1 callers):
+  - 0x10009c30 (sub_10009C30) -> 10009C30.c
+
+Calls (9 callees):
+  - 0x10001050 (?get_sap@P2P_Context@P2P@Outpop@@QAE?AV?$Smart_Ptr@VSimple_Address_Protocol@P2P@Outpop@@@Utility@3@XZ) -> 10001050.c
+  - 0x10002610 (sub_10002610) -> 10002610.c
+  - 0x10006390 (sub_10006390) -> 10006390.c
+  - 0x1000a570 (sub_1000A570) -> 1000A570.c
+  - 0x1000ac90 (sub_1000AC90) -> 1000AC90.c
+  - 0x1000ef10 (sub_1000EF10) -> 1000EF10.c
+  - 0x1000f070 (sub_1000F070) -> 1000F070.c
+  - 0x100232f7 (@__security_check_cookie@4)
+  - 0x100234ce (??2@YAPAXI@Z)
+
+================================================================================
+Function: ?OnReportSucceed@Peer@P2P@Outpop@@IAEXXZ
+Address: 0x100037e0
+File: 100037E0.c
+
+Called by (1 callers):
+  - 0x10009be0 (sub_10009BE0) -> 10009BE0.c
+
+Calls (2 callees):
+  - 0x10001050 (?get_sap@P2P_Context@P2P@Outpop@@QAE?AV?$Smart_Ptr@VSimple_Address_Protocol@P2P@Outpop@@@Utility@3@XZ) -> 10001050.c
+  - 0x1000afe0 (sub_1000AFE0) -> 1000AFE0.c
+
+================================================================================
+Function: ?OnUPNPStateChangeResult@Peer@P2P@Outpop@@IAEXW4EUPNPState@23@G@Z
+Address: 0x10003870
+File: 10003870.c
+
+Called by (1 callers):
+  - 0x10009c40 (sub_10009C40)
+
+Calls (4 callees):
+  - 0x10001050 (?get_sap@P2P_Context@P2P@Outpop@@QAE?AV?$Smart_Ptr@VSimple_Address_Protocol@P2P@Outpop@@@Utility@3@XZ) -> 10001050.c
+  - 0x10002610 (sub_10002610) -> 10002610.c
+  - 0x1000ac90 (sub_1000AC90) -> 1000AC90.c
+  - 0x100232f7 (@__security_check_cookie@4)
+
+================================================================================
+Function: ?OnUPNPMapSucceed@Peer@P2P@Outpop@@IAEXW4EUPNPState@23@GPAVTSocket@IONetwork@3@@Z
+Address: 0x10003ae0
+File: 10003AE0.c
+
+Called by (1 callers):
+  - 0x10009c60 (sub_10009C60) -> 10009C60.c
+
+Calls (3 callees):
+  - 0x10001050 (?get_sap@P2P_Context@P2P@Outpop@@QAE?AV?$Smart_Ptr@VSimple_Address_Protocol@P2P@Outpop@@@Utility@3@XZ) -> 10001050.c
+  - 0x10002610 (sub_10002610) -> 10002610.c
+  - 0x1000ac90 (sub_1000AC90) -> 1000AC90.c
+
+================================================================================
+Function: ?stop@Peer@P2P@Outpop@@QAEXXZ
+Address: 0x10003cc0
+File: 10003CC0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?run@Peer@P2P@Outpop@@QAEXXZ
+Address: 0x10003ce0
+File: 10003CE0.c
+
+Called by: none
+
+Calls (2 callees):
+  - 0x100073a0 (sub_100073A0) -> 100073A0.c
+  - 0x10010fd0 (sub_10010FD0) -> 10010FD0.c
+
+================================================================================
+Function: ?connect_remote_peer@Peer@P2P@Outpop@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+Address: 0x10003d20
+File: 10003D20.c
+
+Called by: none
+
+Calls (3 callees):
+  - 0x10002910 (sub_10002910) -> 10002910.c
+  - 0x1000a570 (sub_1000A570) -> 1000A570.c
+  - 0x100234ce (??2@YAPAXI@Z)
+
+================================================================================
+Function: ?interal_connect_remote_peer@Peer@P2P@Outpop@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+Address: 0x10003f10
+File: 10003F10.c
+
+Called by (1 callers):
+  - 0x100029e0 (sub_100029E0) -> 100029E0.c
+
+Calls (3 callees):
+  - 0x10001050 (?get_sap@P2P_Context@P2P@Outpop@@QAE?AV?$Smart_Ptr@VSimple_Address_Protocol@P2P@Outpop@@@Utility@3@XZ) -> 10001050.c
+  - 0x10007d00 (sub_10007D00) -> 10007D00.c
+  - 0x1000b090 (sub_1000B090) -> 1000B090.c
+
+================================================================================
+Function: ?close_peer@Peer@P2P@Outpop@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+Address: 0x10004000
+File: 10004000.c
+
+Called by: none
+
+Calls (3 callees):
+  - 0x10002a10 (sub_10002A10) -> 10002A10.c
+  - 0x1000a570 (sub_1000A570) -> 1000A570.c
+  - 0x100234ce (??2@YAPAXI@Z)
+
+================================================================================
+Function: ?interal_close_peer@Peer@P2P@Outpop@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+Address: 0x100041d0
+File: 100041D0.c
+
+Called by (1 callers):
+  - 0x10002ae0 (sub_10002AE0) -> 10002AE0.c
+
+Calls (3 callees):
+  - 0x10001050 (?get_sap@P2P_Context@P2P@Outpop@@QAE?AV?$Smart_Ptr@VSimple_Address_Protocol@P2P@Outpop@@@Utility@3@XZ) -> 10001050.c
+  - 0x10007d00 (sub_10007D00) -> 10007D00.c
+  - 0x1000b300 (sub_1000B300) -> 1000B300.c
+
+================================================================================
+Function: ?OnSAPGetPeerAddress@Peer@P2P@Outpop@@IAEXHABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAVINET_Addr@IONetwork@3@1@Z
+Address: 0x100042e0
+File: 100042E0.c
+
+Called by (1 callers):
+  - 0x10009b90 (sub_10009B90)
+
+Calls (6 callees):
+  - 0x100046c0 (sub_100046C0) -> 100046C0.c
+  - 0x10006b20 (sub_10006B20) -> 10006B20.c
+  - 0x100075d0 (sub_100075D0) -> 100075D0.c
+  - 0x10007d00 (sub_10007D00) -> 10007D00.c
+  - 0x100096f0 (sub_100096F0) -> 100096F0.c
+  - 0x1000a570 (sub_1000A570) -> 1000A570.c
+
+================================================================================
+Function: sub_100046A0
+Address: 0x100046a0
+File: 100046A0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_100046C0
+Address: 0x100046c0
+File: 100046C0.c
+
+Called by (3 callers):
+  - 0x100042e0 (?OnSAPGetPeerAddress@Peer@P2P@Outpop@@IAEXHABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAVINET_Addr@IONetwork@3@1@Z) -> 100042E0.c
+  - 0x10005580 (?OnCooperateConnect@Peer@P2P@Outpop@@IAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAVINET_Addr@IONetwork@3@1@Z) -> 10005580.c
+  - 0x10008060 (sub_10008060) -> 10008060.c
+
+Calls: none
+
+================================================================================
+Function: ?handle_accept@Peer@P2P@Outpop@@UAEXAAV?$Smart_Ptr@VChannel@IONetwork@Outpop@@@Utility@3@AAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@53@AAV?$Smart_Ptr@VP2PUdpBuilder@IONetwork@Outpop@@@53@@Z
+Address: 0x10004720
+File: 10004720.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?handle_build_channel@Peer@P2P@Outpop@@UAEXAAV?$Smart_Ptr@VChannel@IONetwork@Outpop@@@Utility@3@AAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@53@AAV?$Smart_Ptr@VP2PUdpBuilder@IONetwork@Outpop@@@53@@Z
+Address: 0x10004730
+File: 10004730.c
+
+Called by: none
+
+Calls (9 callees):
+  - 0x10004ad0 (sub_10004AD0) -> 10004AD0.c
+  - 0x10006440 (sub_10006440) -> 10006440.c
+  - 0x100072a0 (sub_100072A0) -> 100072A0.c
+  - 0x100097a0 (sub_100097A0) -> 100097A0.c
+  - 0x1000a480 (sub_1000A480) -> 1000A480.c
+  - 0x1000a570 (sub_1000A570) -> 1000A570.c
+  - 0x1000d8e0 (sub_1000D8E0) -> 1000D8E0.c
+  - 0x100232f7 (@__security_check_cookie@4)
+  - 0x100234ce (??2@YAPAXI@Z)
+
+================================================================================
+Function: sub_10004AD0
+Address: 0x10004ad0
+File: 10004AD0.c
+
+Called by (3 callers):
+  - 0x10004730 (?handle_build_channel@Peer@P2P@Outpop@@UAEXAAV?$Smart_Ptr@VChannel@IONetwork@Outpop@@@Utility@3@AAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@53@AAV?$Smart_Ptr@VP2PUdpBuilder@IONetwork@Outpop@@@53@@Z) -> 10004730.c
+  - 0x10008dc0 (sub_10008DC0) -> 10008DC0.c
+  - 0x1000b090 (sub_1000B090) -> 1000B090.c
+
+Calls: none
+
+================================================================================
+Function: ?handle_build_failed@Peer@P2P@Outpop@@UAEXHABVINET_Addr@IONetwork@3@AAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@Utility@3@AAV?$Smart_Ptr@VP2PUdpBuilder@IONetwork@Outpop@@@73@@Z
+Address: 0x10004b30
+File: 10004B30.c
+
+Called by: none
+
+Calls (5 callees):
+  - 0x10007120 (sub_10007120) -> 10007120.c
+  - 0x10007d00 (sub_10007D00) -> 10007D00.c
+  - 0x100097a0 (sub_100097A0) -> 100097A0.c
+  - 0x1000a570 (sub_1000A570) -> 1000A570.c
+  - 0x100232f7 (@__security_check_cookie@4)
+
+================================================================================
+Function: ?on_threaten_address@Peer@P2P@Outpop@@UAEXABVINET_Addr@IONetwork@3@@Z
+Address: 0x10004e80
+File: 10004E80.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?validate_connector@Peer@P2P@Outpop@@UAE_NAAV?$Smart_Ptr@VP2PUdpBuilder@IONetwork@Outpop@@@Utility@3@AAVINET_Addr@IONetwork@3@HHAAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@53@@Z
+Address: 0x10004e90
+File: 10004E90.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?send_message@Peer@P2P@Outpop@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@Utility@3@@Z
+Address: 0x10004ea0
+File: 10004EA0.c
+
+Called by: none
+
+Calls (2 callees):
+  - 0x10002b10 (sub_10002B10) -> 10002B10.c
+  - 0x100234ce (??2@YAPAXI@Z)
+
+================================================================================
+Function: ?interal_send_message@Peer@P2P@Outpop@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@Utility@3@@Z
+Address: 0x10004f40
+File: 10004F40.c
+
+Called by (1 callers):
+  - 0x10002c10 (sub_10002C10) -> 10002C10.c
+
+Calls (1 callees):
+  - 0x10007d00 (sub_10007D00) -> 10007D00.c
+
+================================================================================
+Function: ?handle_read_stream@Peer@P2P@Outpop@@UAEXAAV?$vector@V?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@Utility@Outpop@@V?$allocator@V?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@Utility@Outpop@@@std@@@std@@AAV?$Smart_Ptr@VChannel@IONetwork@Outpop@@@Utility@3@@Z
+Address: 0x10004fc0
+File: 10004FC0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?handle_read_seqeuence_stream@Peer@P2P@Outpop@@UAEXAAV?$Smart_Ptr@VChannel@IONetwork@Outpop@@@Utility@3@@Z
+Address: 0x100050c0
+File: 100050C0.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10023306 (??3@YAXPAX@Z)
+
+================================================================================
+Function: ?OnKPError@Peer@P2P@Outpop@@IAEXH@Z
+Address: 0x10005230
+File: 10005230.c
+
+Called by (2 callers):
+  - 0x100054c0 (?interal_change_peer_id@Peer@P2P@Outpop@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 100054C0.c
+  - 0x10009bb0 (sub_10009BB0)
+
+Calls (3 callees):
+  - 0x10001050 (?get_sap@P2P_Context@P2P@Outpop@@QAE?AV?$Smart_Ptr@VSimple_Address_Protocol@P2P@Outpop@@@Utility@3@XZ) -> 10001050.c
+  - 0x10003100 (?start@Peer@P2P@Outpop@@QAEXXZ) -> 10003100.c
+  - 0x1000a930 (sub_1000A930) -> 1000A930.c
+
+================================================================================
+Function: ?change_peer_id@Peer@P2P@Outpop@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+Address: 0x100052c0
+File: 100052C0.c
+
+Called by: none
+
+Calls (3 callees):
+  - 0x10002c60 (sub_10002C60) -> 10002C60.c
+  - 0x1000a570 (sub_1000A570) -> 1000A570.c
+  - 0x100234ce (??2@YAPAXI@Z)
+
+================================================================================
+Function: ?interal_change_peer_id@Peer@P2P@Outpop@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+Address: 0x100054c0
+File: 100054C0.c
+
+Called by (1 callers):
+  - 0x10002d30 (sub_10002D30) -> 10002D30.c
+
+Calls (3 callees):
+  - 0x10001050 (?get_sap@P2P_Context@P2P@Outpop@@QAE?AV?$Smart_Ptr@VSimple_Address_Protocol@P2P@Outpop@@@Utility@3@XZ) -> 10001050.c
+  - 0x10003100 (?start@Peer@P2P@Outpop@@QAEXXZ) -> 10003100.c
+  - 0x10005230 (?OnKPError@Peer@P2P@Outpop@@IAEXH@Z) -> 10005230.c
+
+================================================================================
+Function: ?OnCooperateConnect@Peer@P2P@Outpop@@IAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAVINET_Addr@IONetwork@3@1@Z
+Address: 0x10005580
+File: 10005580.c
+
+Called by (1 callers):
+  - 0x10009bc0 (sub_10009BC0)
+
+Calls (6 callees):
+  - 0x100046c0 (sub_100046C0) -> 100046C0.c
+  - 0x10006b20 (sub_10006B20) -> 10006B20.c
+  - 0x100075d0 (sub_100075D0) -> 100075D0.c
+  - 0x10007d00 (sub_10007D00) -> 10007D00.c
+  - 0x100096f0 (sub_100096F0) -> 100096F0.c
+  - 0x1000a570 (sub_1000A570) -> 1000A570.c
+
+================================================================================
+Function: ?interal_print_remote_peer@Peer@P2P@Outpop@@IAEXXZ
+Address: 0x10005b40
+File: 10005B40.c
+
+Called by (1 callers):
+  - 0x10002c50 (sub_10002C50) -> 10002C50.c
+
+Calls (4 callees):
+  - 0x1000a570 (sub_1000A570) -> 1000A570.c
+  - 0x100232f2 (j_??2@YAPAXI@Z) -> 100232F2.c
+  - 0x100232f7 (@__security_check_cookie@4)
+  - 0x10023356 (??_V@YAXPAX@Z) -> 10023356.c
+
+================================================================================
+Function: ?print_remote_peer@Peer@P2P@Outpop@@QAEXXZ
+Address: 0x10005e10
+File: 10005E10.c
+
+Called by: none
+
+Calls (2 callees):
+  - 0x1000a570 (sub_1000A570) -> 1000A570.c
+  - 0x100234ce (??2@YAPAXI@Z)
+
+================================================================================
+Function: ?handle_close@Peer@P2P@Outpop@@UAEXHAAV?$Smart_Ptr@VChannel@IONetwork@Outpop@@@Utility@3@@Z
+Address: 0x10005fe0
+File: 10005FE0.c
+
+Called by: none
+
+Calls (2 callees):
+  - 0x10006a40 (sub_10006A40) -> 10006A40.c
+  - 0x1000a570 (sub_1000A570) -> 1000A570.c
+
+================================================================================
+Function: ?OnRequestRemoteConnectFailed@Peer@P2P@Outpop@@IAEXHABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+Address: 0x100061a0
+File: 100061A0.c
+
+Called by (1 callers):
+  - 0x10009bf0 (sub_10009BF0) -> 10009BF0.c
+
+Calls: none
+
+================================================================================
+Function: ?has_peer@Peer@P2P@Outpop@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+Address: 0x100061c0
+File: 100061C0.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10007d00 (sub_10007D00) -> 10007D00.c
+
+================================================================================
+Function: ?OnSAPError@Peer@P2P@Outpop@@IAEXW4ESAPError@23@H@Z
+Address: 0x10006210
+File: 10006210.c
+
+Called by (1 callers):
+  - 0x10009c10 (sub_10009C10) -> 10009C10.c
+
+Calls (1 callees):
+  - 0x1000a570 (sub_1000A570) -> 1000A570.c
+
+================================================================================
+Function: sub_10006390
+Address: 0x10006390
+File: 10006390.c
+
+Called by (1 callers):
+  - 0x100031a0 (?OnDetectNetworkResult@Peer@P2P@Outpop@@IAEXH@Z) -> 100031A0.c
+
+Calls: none
+
+================================================================================
+Function: sub_100063D0
+Address: 0x100063d0
+File: 100063D0.c
+
+Called by (1 callers):
+  - 0x10002630 (??0Peer@P2P@Outpop@@QAE@ABV012@@Z) -> 10002630.c
+
+Calls (2 callees):
+  - 0x100079c0 (sub_100079C0) -> 100079C0.c
+  - 0x1000e510 (sub_1000E510) -> 1000E510.c
+
+================================================================================
+Function: sub_10006440
+Address: 0x10006440
+File: 10006440.c
+
+Called by (1 callers):
+  - 0x10004730 (?handle_build_channel@Peer@P2P@Outpop@@UAEXAAV?$Smart_Ptr@VChannel@IONetwork@Outpop@@@Utility@3@AAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@53@AAV?$Smart_Ptr@VP2PUdpBuilder@IONetwork@Outpop@@@53@@Z) -> 10004730.c
+
+Calls (4 callees):
+  - 0x100080d0 (sub_100080D0) -> 100080D0.c
+  - 0x10008430 (sub_10008430) -> 10008430.c
+  - 0x10008e30 (sub_10008E30) -> 10008E30.c
+  - 0x10009cc0 (sub_10009CC0) -> 10009CC0.c
+
+================================================================================
+Function: sub_10006A40
+Address: 0x10006a40
+File: 10006A40.c
+
+Called by (1 callers):
+  - 0x10005fe0 (?handle_close@Peer@P2P@Outpop@@UAEXHAAV?$Smart_Ptr@VChannel@IONetwork@Outpop@@@Utility@3@@Z) -> 10005FE0.c
+
+Calls (3 callees):
+  - 0x10007760 (sub_10007760) -> 10007760.c
+  - 0x10007840 (sub_10007840) -> 10007840.c
+  - 0x10009c80 (sub_10009C80) -> 10009C80.c
+
+================================================================================
+Function: sub_10006AB0
+Address: 0x10006ab0
+File: 10006AB0.c
+
+Called by (1 callers):
+  - 0x10002630 (??0Peer@P2P@Outpop@@QAE@ABV012@@Z) -> 10002630.c
+
+Calls (2 callees):
+  - 0x10007e60 (sub_10007E60) -> 10007E60.c
+  - 0x10008840 (sub_10008840) -> 10008840.c
+
+================================================================================
+Function: sub_10006B20
+Address: 0x10006b20
+File: 10006B20.c
+
+Called by (2 callers):
+  - 0x100042e0 (?OnSAPGetPeerAddress@Peer@P2P@Outpop@@IAEXHABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAVINET_Addr@IONetwork@3@1@Z) -> 100042E0.c
+  - 0x10005580 (?OnCooperateConnect@Peer@P2P@Outpop@@IAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAVINET_Addr@IONetwork@3@1@Z) -> 10005580.c
+
+Calls (4 callees):
+  - 0x100080d0 (sub_100080D0) -> 100080D0.c
+  - 0x10008860 (sub_10008860) -> 10008860.c
+  - 0x10008fa0 (sub_10008FA0) -> 10008FA0.c
+  - 0x10009cc0 (sub_10009CC0) -> 10009CC0.c
+
+================================================================================
+Function: sub_10007120
+Address: 0x10007120
+File: 10007120.c
+
+Called by (2 callers):
+  - 0x10004b30 (?handle_build_failed@Peer@P2P@Outpop@@UAEXHABVINET_Addr@IONetwork@3@AAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@Utility@3@AAV?$Smart_Ptr@VP2PUdpBuilder@IONetwork@Outpop@@@73@@Z) -> 10004B30.c
+  - 0x10007c20 (sub_10007C20) -> 10007C20.c
+
+Calls (2 callees):
+  - 0x10007680 (sub_10007680) -> 10007680.c
+  - 0x10023306 (??3@YAXPAX@Z)
+
+================================================================================
+Function: sub_100072A0
+Address: 0x100072a0
+File: 100072A0.c
+
+Called by (1 callers):
+  - 0x10004730 (?handle_build_channel@Peer@P2P@Outpop@@UAEXAAV?$Smart_Ptr@VChannel@IONetwork@Outpop@@@Utility@3@AAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@53@AAV?$Smart_Ptr@VP2PUdpBuilder@IONetwork@Outpop@@@53@@Z) -> 10004730.c
+
+Calls (3 callees):
+  - 0x10007840 (sub_10007840) -> 10007840.c
+  - 0x10007c20 (sub_10007C20) -> 10007C20.c
+  - 0x10009c80 (sub_10009C80) -> 10009C80.c
+
+================================================================================
+Function: sub_10007310
+Address: 0x10007310
+File: 10007310.c
+
+Called by (1 callers):
+  - 0x10002d60 (??0Peer@P2P@Outpop@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 10002D60.c
+
+Calls (1 callees):
+  - 0x10008960 (sub_10008960) -> 10008960.c
+
+================================================================================
+Function: sub_100073A0
+Address: 0x100073a0
+File: 100073A0.c
+
+Called by (1 callers):
+  - 0x10003ce0 (?run@Peer@P2P@Outpop@@QAEXXZ) -> 10003CE0.c
+
+Calls (4 callees):
+  - 0x10008190 (sub_10008190) -> 10008190.c
+  - 0x10008200 (sub_10008200) -> 10008200.c
+  - 0x10008d00 (sub_10008D00) -> 10008D00.c
+  - 0x10009940 (sub_10009940) -> 10009940.c
+
+================================================================================
+Function: sub_100075A0
+Address: 0x100075a0
+File: 100075A0.c
+
+Called by (2 callers):
+  - 0x10009d70 (sub_10009D70) -> 10009D70.c
+  - 0x10009e90 (sub_10009E90) -> 10009E90.c
+
+Calls: none
+
+================================================================================
+Function: sub_100075D0
+Address: 0x100075d0
+File: 100075D0.c
+
+Called by (2 callers):
+  - 0x100042e0 (?OnSAPGetPeerAddress@Peer@P2P@Outpop@@IAEXHABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAVINET_Addr@IONetwork@3@1@Z) -> 100042E0.c
+  - 0x10005580 (?OnCooperateConnect@Peer@P2P@Outpop@@IAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAVINET_Addr@IONetwork@3@1@Z) -> 10005580.c
+
+Calls: none
+
+================================================================================
+Function: sub_10007680
+Address: 0x10007680
+File: 10007680.c
+
+Called by (6 callers):
+  - 0x10007120 (sub_10007120) -> 10007120.c
+  - 0x10007840 (sub_10007840) -> 10007840.c
+  - 0x10007d00 (sub_10007D00) -> 10007D00.c
+  - 0x100082a0 (sub_100082A0) -> 100082A0.c
+  - 0x1000d390 (sub_1000D390) -> 1000D390.c
+  - 0x1000da30 (sub_1000DA30) -> 1000DA30.c
+
+Calls (1 callees):
+  - 0x10009cc0 (sub_10009CC0) -> 10009CC0.c
+
+================================================================================
+Function: sub_100076E0
+Address: 0x100076e0
+File: 100076E0.c
+
+Called by (2 callers):
+  - 0x10002d60 (??0Peer@P2P@Outpop@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 10002D60.c
+  - 0x1000a7c0 (sub_1000A7C0) -> 1000A7C0.c
+
+Calls (2 callees):
+  - 0x10009360 (sub_10009360) -> 10009360.c
+  - 0x1000e510 (sub_1000E510) -> 1000E510.c
+
+================================================================================
+Function: sub_10007760
+Address: 0x10007760
+File: 10007760.c
+
+Called by (1 callers):
+  - 0x10006a40 (sub_10006A40) -> 10006A40.c
+
+Calls (3 callees):
+  - 0x100082a0 (sub_100082A0) -> 100082A0.c
+  - 0x10009290 (sub_10009290) -> 10009290.c
+  - 0x1000e470 (sub_1000E470) -> 1000E470.c
+
+================================================================================
+Function: sub_10007840
+Address: 0x10007840
+File: 10007840.c
+
+Called by (3 callers):
+  - 0x10006a40 (sub_10006A40) -> 10006A40.c
+  - 0x100072a0 (sub_100072A0) -> 100072A0.c
+  - 0x1000d530 (sub_1000D530) -> 1000D530.c
+
+Calls (1 callees):
+  - 0x10007680 (sub_10007680) -> 10007680.c
+
+================================================================================
+Function: sub_100079C0
+Address: 0x100079c0
+File: 100079C0.c
+
+Called by (2 callers):
+  - 0x10002770 (??4Peer@P2P@Outpop@@QAEAAV012@ABV012@@Z) -> 10002770.c
+  - 0x100063d0 (sub_100063D0) -> 100063D0.c
+
+Calls (6 callees):
+  - 0x100080d0 (sub_100080D0) -> 100080D0.c
+  - 0x100084c0 (sub_100084C0) -> 100084C0.c
+  - 0x100084e0 (sub_100084E0) -> 100084E0.c
+  - 0x10009850 (sub_10009850) -> 10009850.c
+  - 0x1000e470 (sub_1000E470) -> 1000E470.c
+  - 0x10023bc6 (_CxxThrowException) -> 10023BC6.c
+
+================================================================================
+Function: sub_10007BA0
+Address: 0x10007ba0
+File: 10007BA0.c
+
+Called by (1 callers):
+  - 0x10002d60 (??0Peer@P2P@Outpop@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 10002D60.c
+
+Calls (2 callees):
+  - 0x10008840 (sub_10008840) -> 10008840.c
+  - 0x10009360 (sub_10009360) -> 10009360.c
+
+================================================================================
+Function: sub_10007C20
+Address: 0x10007c20
+File: 10007C20.c
+
+Called by (1 callers):
+  - 0x100072a0 (sub_100072A0) -> 100072A0.c
+
+Calls (3 callees):
+  - 0x10007120 (sub_10007120) -> 10007120.c
+  - 0x100087a0 (sub_100087A0) -> 100087A0.c
+  - 0x10009290 (sub_10009290) -> 10009290.c
+
+================================================================================
+Function: sub_10007D00
+Address: 0x10007d00
+File: 10007D00.c
+
+Called by (7 callers):
+  - 0x10003f10 (?interal_connect_remote_peer@Peer@P2P@Outpop@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 10003F10.c
+  - 0x100041d0 (?interal_close_peer@Peer@P2P@Outpop@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 100041D0.c
+  - 0x100042e0 (?OnSAPGetPeerAddress@Peer@P2P@Outpop@@IAEXHABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAVINET_Addr@IONetwork@3@1@Z) -> 100042E0.c
+  - 0x10004b30 (?handle_build_failed@Peer@P2P@Outpop@@UAEXHABVINET_Addr@IONetwork@3@AAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@Utility@3@AAV?$Smart_Ptr@VP2PUdpBuilder@IONetwork@Outpop@@@73@@Z) -> 10004B30.c
+  - 0x10004f40 (?interal_send_message@Peer@P2P@Outpop@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@Utility@3@@Z) -> 10004F40.c
+  - 0x10005580 (?OnCooperateConnect@Peer@P2P@Outpop@@IAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAVINET_Addr@IONetwork@3@1@Z) -> 10005580.c
+  - 0x100061c0 (?has_peer@Peer@P2P@Outpop@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 100061C0.c
+
+Calls (1 callees):
+  - 0x10007680 (sub_10007680) -> 10007680.c
+
+================================================================================
+Function: sub_10007E60
+Address: 0x10007e60
+File: 10007E60.c
+
+Called by (2 callers):
+  - 0x10002770 (??4Peer@P2P@Outpop@@QAEAAV012@ABV012@@Z) -> 10002770.c
+  - 0x10006ab0 (sub_10006AB0) -> 10006AB0.c
+
+Calls (6 callees):
+  - 0x100080d0 (sub_100080D0) -> 100080D0.c
+  - 0x100084c0 (sub_100084C0) -> 100084C0.c
+  - 0x100084e0 (sub_100084E0) -> 100084E0.c
+  - 0x100087a0 (sub_100087A0) -> 100087A0.c
+  - 0x10009890 (sub_10009890) -> 10009890.c
+  - 0x10023bc6 (_CxxThrowException) -> 10023BC6.c
+
+================================================================================
+Function: sub_10008060
+Address: 0x10008060
+File: 10008060.c
+
+Called by (1 callers):
+  - 0x10009e90 (sub_10009E90) -> 10009E90.c
+
+Calls (2 callees):
+  - 0x100046c0 (sub_100046C0) -> 100046C0.c
+  - 0x10023306 (??3@YAXPAX@Z)
+
+================================================================================
+Function: sub_100080D0
+Address: 0x100080d0
+File: 100080D0.c
+
+Called by (4 callers):
+  - 0x10006440 (sub_10006440) -> 10006440.c
+  - 0x10006b20 (sub_10006B20) -> 10006B20.c
+  - 0x100079c0 (sub_100079C0) -> 100079C0.c
+  - 0x10007e60 (sub_10007E60) -> 10007E60.c
+
+Calls (2 callees):
+  - 0x10008500 (sub_10008500) -> 10008500.c
+  - 0x100088f0 (sub_100088F0) -> 100088F0.c
+
+================================================================================
+Function: sub_10008190
+Address: 0x10008190
+File: 10008190.c
+
+Called by (1 callers):
+  - 0x100073a0 (sub_100073A0) -> 100073A0.c
+
+Calls (3 callees):
+  - 0x100089e0 (sub_100089E0) -> 100089E0.c
+  - 0x10008ad0 (sub_10008AD0) -> 10008AD0.c
+  - 0x10009c80 (sub_10009C80) -> 10009C80.c
+
+================================================================================
+Function: sub_10008200
+Address: 0x10008200
+File: 10008200.c
+
+Called by (1 callers):
+  - 0x100073a0 (sub_100073A0) -> 100073A0.c
+
+Calls (2 callees):
+  - 0x10008c80 (sub_10008C80) -> 10008C80.c
+  - 0x100098d0 (sub_100098D0) -> 100098D0.c
+
+================================================================================
+Function: sub_10008240
+Address: 0x10008240
+File: 10008240.c
+
+Called by (2 callers):
+  - 0x10009d70 (sub_10009D70) -> 10009D70.c
+  - 0x10009e90 (sub_10009E90) -> 10009E90.c
+
+Calls: none
+
+================================================================================
+Function: sub_10008270
+Address: 0x10008270
+File: 10008270.c
+
+Called by (2 callers):
+  - 0x10009d70 (sub_10009D70) -> 10009D70.c
+  - 0x10009e90 (sub_10009E90) -> 10009E90.c
+
+Calls: none
+
+================================================================================
+Function: sub_100082A0
+Address: 0x100082a0
+File: 100082A0.c
+
+Called by (1 callers):
+  - 0x10007760 (sub_10007760) -> 10007760.c
+
+Calls (2 callees):
+  - 0x10007680 (sub_10007680) -> 10007680.c
+  - 0x10023306 (??3@YAXPAX@Z)
+
+================================================================================
+Function: sub_10008430
+Address: 0x10008430
+File: 10008430.c
+
+Called by (3 callers):
+  - 0x10006440 (sub_10006440) -> 10006440.c
+  - 0x10009d70 (sub_10009D70) -> 10009D70.c
+  - 0x1000cd90 (sub_1000CD90) -> 1000CD90.c
+
+Calls (2 callees):
+  - 0x10002490 (sub_10002490) -> 10002490.c
+  - 0x10023bc6 (_CxxThrowException) -> 10023BC6.c
+
+================================================================================
+Function: sub_100084C0
+Address: 0x100084c0
+File: 100084C0.c
+
+Called by (2 callers):
+  - 0x100079c0 (sub_100079C0) -> 100079C0.c
+  - 0x10007e60 (sub_10007E60) -> 10007E60.c
+
+Calls: none
+
+================================================================================
+Function: sub_100084E0
+Address: 0x100084e0
+File: 100084E0.c
+
+Called by (2 callers):
+  - 0x100079c0 (sub_100079C0) -> 100079C0.c
+  - 0x10007e60 (sub_10007E60) -> 10007E60.c
+
+Calls: none
+
+================================================================================
+Function: sub_10008500
+Address: 0x10008500
+File: 10008500.c
+
+Called by (3 callers):
+  - 0x100080d0 (sub_100080D0) -> 100080D0.c
+  - 0x10009290 (sub_10009290) -> 10009290.c
+  - 0x1000dbc0 (sub_1000DBC0) -> 1000DBC0.c
+
+Calls (8 callees):
+  - 0x10008ed0 (sub_10008ED0) -> 10008ED0.c
+  - 0x10008f40 (sub_10008F40) -> 10008F40.c
+  - 0x100099a0 (sub_100099A0) -> 100099A0.c
+  - 0x100099e0 (sub_100099E0) -> 100099E0.c
+  - 0x10009fb0 (sub_10009FB0) -> 10009FB0.c
+  - 0x1000ec00 (sub_1000EC00) -> 1000EC00.c
+  - 0x10023306 (??3@YAXPAX@Z)
+  - 0x10023bc6 (_CxxThrowException) -> 10023BC6.c
+
+================================================================================
+Function: sub_100087A0
+Address: 0x100087a0
+File: 100087A0.c
+
+Called by (5 callers):
+  - 0x10002630 (??0Peer@P2P@Outpop@@QAE@ABV012@@Z) -> 10002630.c
+  - 0x10002f90 (??1Peer@P2P@Outpop@@UAE@XZ) -> 10002F90.c
+  - 0x10007ba0 (sub_10007BA0) -> 10007BA0.c
+  - 0x10007c20 (sub_10007C20) -> 10007C20.c
+  - 0x10007e60 (sub_10007E60) -> 10007E60.c
+
+Calls (1 callees):
+  - 0x10023306 (??3@YAXPAX@Z)
+
+================================================================================
+Function: sub_10008840
+Address: 0x10008840
+File: 10008840.c
+
+Called by (2 callers):
+  - 0x10006ab0 (sub_10006AB0) -> 10006AB0.c
+  - 0x10007ba0 (sub_10007BA0) -> 10007BA0.c
+
+Calls (1 callees):
+  - 0x100234ce (??2@YAPAXI@Z)
+
+================================================================================
+Function: sub_10008860
+Address: 0x10008860
+File: 10008860.c
+
+Called by (2 callers):
+  - 0x10006b20 (sub_10006B20) -> 10006B20.c
+  - 0x10009e90 (sub_10009E90) -> 10009E90.c
+
+Calls (2 callees):
+  - 0x10002490 (sub_10002490) -> 10002490.c
+  - 0x10023bc6 (_CxxThrowException) -> 10023BC6.c
+
+================================================================================
+Function: sub_100088F0
+Address: 0x100088f0
+File: 100088F0.c
+
+Called by (3 callers):
+  - 0x100080d0 (sub_100080D0) -> 100080D0.c
+  - 0x10009290 (sub_10009290) -> 10009290.c
+  - 0x1000dbc0 (sub_1000DBC0) -> 1000DBC0.c
+
+Calls: none
+
+================================================================================
+Function: sub_10008960
+Address: 0x10008960
+File: 10008960.c
+
+Called by (1 callers):
+  - 0x10007310 (sub_10007310) -> 10007310.c
+
+Calls (2 callees):
+  - 0x10009340 (sub_10009340) -> 10009340.c
+  - 0x10009360 (sub_10009360) -> 10009360.c
+
+================================================================================
+Function: sub_100089E0
+Address: 0x100089e0
+File: 100089E0.c
+
+Called by (1 callers):
+  - 0x10008190 (sub_10008190) -> 10008190.c
+
+Calls (3 callees):
+  - 0x10009040 (sub_10009040) -> 10009040.c
+  - 0x10009290 (sub_10009290) -> 10009290.c
+  - 0x100092f0 (sub_100092F0) -> 100092F0.c
+
+================================================================================
+Function: sub_10008AD0
+Address: 0x10008ad0
+File: 10008AD0.c
+
+Called by (1 callers):
+  - 0x10008190 (sub_10008190) -> 10008190.c
+
+Calls: none
+
+================================================================================
+Function: sub_10008C80
+Address: 0x10008c80
+File: 10008C80.c
+
+Called by (2 callers):
+  - 0x10008200 (sub_10008200) -> 10008200.c
+  - 0x1000d5a0 (sub_1000D5A0) -> 1000D5A0.c
+
+Calls (2 callees):
+  - 0x100091d0 (sub_100091D0) -> 100091D0.c
+  - 0x10009fd0 (sub_10009FD0) -> 10009FD0.c
+
+================================================================================
+Function: sub_10008D00
+Address: 0x10008d00
+File: 10008D00.c
+
+Called by (1 callers):
+  - 0x100073a0 (sub_100073A0) -> 100073A0.c
+
+Calls: none
+
+================================================================================
+Function: sub_10008DA0
+Address: 0x10008da0
+File: 10008DA0.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10002550 (sub_10002550) -> 10002550.c
+
+================================================================================
+Function: sub_10008DC0
+Address: 0x10008dc0
+File: 10008DC0.c
+
+Called by (1 callers):
+  - 0x10009d70 (sub_10009D70) -> 10009D70.c
+
+Calls (2 callees):
+  - 0x10004ad0 (sub_10004AD0) -> 10004AD0.c
+  - 0x10023306 (??3@YAXPAX@Z)
+
+================================================================================
+Function: sub_10008E30
+Address: 0x10008e30
+File: 10008E30.c
+
+Called by (3 callers):
+  - 0x10006440 (sub_10006440) -> 10006440.c
+  - 0x10009d70 (sub_10009D70) -> 10009D70.c
+  - 0x1000cd90 (sub_1000CD90) -> 1000CD90.c
+
+Calls (4 callees):
+  - 0x10009ac0 (sub_10009AC0) -> 10009AC0.c
+  - 0x1000eb40 (sub_1000EB40) -> 1000EB40.c
+  - 0x10023306 (??3@YAXPAX@Z)
+  - 0x10023bc6 (_CxxThrowException) -> 10023BC6.c
+
+================================================================================
+Function: sub_10008ED0
+Address: 0x10008ed0
+File: 10008ED0.c
+
+Called by (2 callers):
+  - 0x10008500 (sub_10008500) -> 10008500.c
+  - 0x10009400 (sub_10009400) -> 10009400.c
+
+Calls (2 callees):
+  - 0x10002490 (sub_10002490) -> 10002490.c
+  - 0x10023bc6 (_CxxThrowException) -> 10023BC6.c
+
+================================================================================
+Function: sub_10008F40
+Address: 0x10008f40
+File: 10008F40.c
+
+Called by (2 callers):
+  - 0x10008500 (sub_10008500) -> 10008500.c
+  - 0x10009360 (sub_10009360) -> 10009360.c
+
+Calls (2 callees):
+  - 0x100234ce (??2@YAPAXI@Z)
+  - 0x10023bc6 (_CxxThrowException) -> 10023BC6.c
+
+================================================================================
+Function: sub_10008FA0
+Address: 0x10008fa0
+File: 10008FA0.c
+
+Called by (2 callers):
+  - 0x10006b20 (sub_10006B20) -> 10006B20.c
+  - 0x10009e90 (sub_10009E90) -> 10009E90.c
+
+Calls (4 callees):
+  - 0x10009b20 (sub_10009B20) -> 10009B20.c
+  - 0x10023306 (??3@YAXPAX@Z)
+  - 0x100234ce (??2@YAPAXI@Z)
+  - 0x10023bc6 (_CxxThrowException) -> 10023BC6.c
+
+================================================================================
+Function: sub_10009040
+Address: 0x10009040
+File: 10009040.c
+
+Called by (2 callers):
+  - 0x100089e0 (sub_100089E0) -> 100089E0.c
+  - 0x1000d7a0 (sub_1000D7A0) -> 1000D7A0.c
+
+Calls (1 callees):
+  - 0x10023306 (??3@YAXPAX@Z)
+
+================================================================================
+Function: sub_100091A0
+Address: 0x100091a0
+File: 100091A0.c
+
+Called by (3 callers):
+  - 0x100063d0 (sub_100063D0) -> 100063D0.c
+  - 0x10006ab0 (sub_10006AB0) -> 10006AB0.c
+  - 0x10009360 (sub_10009360) -> 10009360.c
+
+Calls (1 callees):
+  - 0x10023306 (??3@YAXPAX@Z)
+
+================================================================================
+Function: sub_100091D0
+Address: 0x100091d0
+File: 100091D0.c
+
+Called by (1 callers):
+  - 0x10008c80 (sub_10008C80) -> 10008C80.c
+
+Calls (1 callees):
+  - 0x10009400 (sub_10009400) -> 10009400.c
+
+================================================================================
+Function: sub_10009260
+Address: 0x10009260
+File: 10009260.c
+
+Called by (1 callers):
+  - 0x10009400 (sub_10009400) -> 10009400.c
+
+Calls: none
+
+================================================================================
+Function: sub_10009290
+Address: 0x10009290
+File: 10009290.c
+
+Called by (4 callers):
+  - 0x10007760 (sub_10007760) -> 10007760.c
+  - 0x10007c20 (sub_10007C20) -> 10007C20.c
+  - 0x100089e0 (sub_100089E0) -> 100089E0.c
+  - 0x1000d950 (sub_1000D950) -> 1000D950.c
+
+Calls (2 callees):
+  - 0x10008500 (sub_10008500) -> 10008500.c
+  - 0x100088f0 (sub_100088F0) -> 100088F0.c
+
+================================================================================
+Function: sub_100092F0
+Address: 0x100092f0
+File: 100092F0.c
+
+Called by (3 callers):
+  - 0x10007310 (sub_10007310) -> 10007310.c
+  - 0x10008960 (sub_10008960) -> 10008960.c
+  - 0x100089e0 (sub_100089E0) -> 100089E0.c
+
+Calls (1 callees):
+  - 0x10023306 (??3@YAXPAX@Z)
+
+================================================================================
+Function: sub_10009340
+Address: 0x10009340
+File: 10009340.c
+
+Called by (1 callers):
+  - 0x10008960 (sub_10008960) -> 10008960.c
+
+Calls (1 callees):
+  - 0x100234ce (??2@YAPAXI@Z)
+
+================================================================================
+Function: sub_10009360
+Address: 0x10009360
+File: 10009360.c
+
+Called by (3 callers):
+  - 0x100076e0 (sub_100076E0) -> 100076E0.c
+  - 0x10007ba0 (sub_10007BA0) -> 10007BA0.c
+  - 0x10008960 (sub_10008960) -> 10008960.c
+
+Calls (4 callees):
+  - 0x10008f40 (sub_10008F40) -> 10008F40.c
+  - 0x100091a0 (sub_100091A0) -> 100091A0.c
+  - 0x10009fb0 (sub_10009FB0) -> 10009FB0.c
+  - 0x10023bc6 (_CxxThrowException) -> 10023BC6.c
+
+================================================================================
+Function: sub_10009400
+Address: 0x10009400
+File: 10009400.c
+
+Called by (1 callers):
+  - 0x100091d0 (sub_100091D0) -> 100091D0.c
+
+Calls (10 callees):
+  - 0x10008ed0 (sub_10008ED0) -> 10008ED0.c
+  - 0x10009260 (sub_10009260) -> 10009260.c
+  - 0x10009690 (sub_10009690) -> 10009690.c
+  - 0x10009a10 (sub_10009A10) -> 10009A10.c
+  - 0x10009a40 (sub_10009A40) -> 10009A40.c
+  - 0x10009a70 (sub_10009A70) -> 10009A70.c
+  - 0x10009fd0 (sub_10009FD0) -> 10009FD0.c
+  - 0x1000a3a0 (sub_1000A3A0) -> 1000A3A0.c
+  - 0x10023306 (??3@YAXPAX@Z)
+  - 0x10023bc6 (_CxxThrowException) -> 10023BC6.c
+
+================================================================================
+Function: sub_10009690
+Address: 0x10009690
+File: 10009690.c
+
+Called by (1 callers):
+  - 0x10009400 (sub_10009400) -> 10009400.c
+
+Calls (2 callees):
+  - 0x100234ce (??2@YAPAXI@Z)
+  - 0x10023bc6 (_CxxThrowException) -> 10023BC6.c
+
+================================================================================
+Function: sub_100096F0
+Address: 0x100096f0
+File: 100096F0.c
+
+Called by (6 callers):
+  - 0x100042e0 (?OnSAPGetPeerAddress@Peer@P2P@Outpop@@IAEXHABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAVINET_Addr@IONetwork@3@1@Z) -> 100042E0.c
+  - 0x10005580 (?OnCooperateConnect@Peer@P2P@Outpop@@IAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAVINET_Addr@IONetwork@3@1@Z) -> 10005580.c
+  - 0x1000ab00 (sub_1000AB00) -> 1000AB00.c
+  - 0x1000ac90 (sub_1000AC90) -> 1000AC90.c
+  - 0x1000b090 (sub_1000B090) -> 1000B090.c
+  - 0x1000b380 (sub_1000B380) -> 1000B380.c
+
+Calls (1 callees):
+  - 0x10023bc6 (_CxxThrowException) -> 10023BC6.c
+
+================================================================================
+Function: sub_100097A0
+Address: 0x100097a0
+File: 100097A0.c
+
+Called by (3 callers):
+  - 0x10004730 (?handle_build_channel@Peer@P2P@Outpop@@UAEXAAV?$Smart_Ptr@VChannel@IONetwork@Outpop@@@Utility@3@AAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@53@AAV?$Smart_Ptr@VP2PUdpBuilder@IONetwork@Outpop@@@53@@Z) -> 10004730.c
+  - 0x10004b30 (?handle_build_failed@Peer@P2P@Outpop@@UAEXHABVINET_Addr@IONetwork@3@AAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@Utility@3@AAV?$Smart_Ptr@VP2PUdpBuilder@IONetwork@Outpop@@@73@@Z) -> 10004B30.c
+  - 0x1000c0c0 (sub_1000C0C0) -> 1000C0C0.c
+
+Calls (1 callees):
+  - 0x10023bc6 (_CxxThrowException) -> 10023BC6.c
+
+================================================================================
+Function: sub_10009850
+Address: 0x10009850
+File: 10009850.c
+
+Called by (1 callers):
+  - 0x100079c0 (sub_100079C0) -> 100079C0.c
+
+Calls (1 callees):
+  - 0x10009d70 (sub_10009D70) -> 10009D70.c
+
+================================================================================
+Function: sub_10009890
+Address: 0x10009890
+File: 10009890.c
+
+Called by (1 callers):
+  - 0x10007e60 (sub_10007E60) -> 10007E60.c
+
+Calls (1 callees):
+  - 0x10009e90 (sub_10009E90) -> 10009E90.c
+
+================================================================================
+Function: sub_100098D0
+Address: 0x100098d0
+File: 100098D0.c
+
+Called by (2 callers):
+  - 0x10008200 (sub_10008200) -> 10008200.c
+  - 0x1000d5a0 (sub_1000D5A0) -> 1000D5A0.c
+
+Calls (1 callees):
+  - 0x1000a080 (sub_1000A080) -> 1000A080.c
+
+================================================================================
+Function: sub_10009940
+Address: 0x10009940
+File: 10009940.c
+
+Called by (1 callers):
+  - 0x100073a0 (sub_100073A0) -> 100073A0.c
+
+Calls (1 callees):
+  - 0x1000a150 (sub_1000A150) -> 1000A150.c
+
+================================================================================
+Function: sub_100099A0
+Address: 0x100099a0
+File: 100099A0.c
+
+Called by (1 callers):
+  - 0x10008500 (sub_10008500) -> 10008500.c
+
+Calls: none
+
+================================================================================
+Function: sub_100099E0
+Address: 0x100099e0
+File: 100099E0.c
+
+Called by (1 callers):
+  - 0x10008500 (sub_10008500) -> 10008500.c
+
+Calls (1 callees):
+  - 0x1000ec00 (sub_1000EC00) -> 1000EC00.c
+
+================================================================================
+Function: sub_10009A10
+Address: 0x10009a10
+File: 10009A10.c
+
+Called by (1 callers):
+  - 0x10009400 (sub_10009400) -> 10009400.c
+
+Calls (1 callees):
+  - 0x1000a3a0 (sub_1000A3A0) -> 1000A3A0.c
+
+================================================================================
+Function: sub_10009A40
+Address: 0x10009a40
+File: 10009A40.c
+
+Called by (1 callers):
+  - 0x10009400 (sub_10009400) -> 10009400.c
+
+Calls: none
+
+================================================================================
+Function: sub_10009A70
+Address: 0x10009a70
+File: 10009A70.c
+
+Called by (1 callers):
+  - 0x10009400 (sub_10009400) -> 10009400.c
+
+Calls (1 callees):
+  - 0x1000a360 (sub_1000A360) -> 1000A360.c
+
+================================================================================
+Function: sub_10009AC0
+Address: 0x10009ac0
+File: 10009AC0.c
+
+Called by (1 callers):
+  - 0x10008e30 (sub_10008E30) -> 10008E30.c
+
+Calls: none
+
+================================================================================
+Function: sub_10009B20
+Address: 0x10009b20
+File: 10009B20.c
+
+Called by (1 callers):
+  - 0x10008fa0 (sub_10008FA0) -> 10008FA0.c
+
+Calls: none
+
+================================================================================
+Function: sub_10009BE0
+Address: 0x10009be0
+File: 10009BE0.c
+
+Called by (1 callers):
+  - 0x10002d60 (??0Peer@P2P@Outpop@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 10002D60.c
+
+Calls: none
+
+================================================================================
+Function: sub_10009BF0
+Address: 0x10009bf0
+File: 10009BF0.c
+
+Called by (1 callers):
+  - 0x10002d60 (??0Peer@P2P@Outpop@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 10002D60.c
+
+Calls (1 callees):
+  - 0x100061a0 (?OnRequestRemoteConnectFailed@Peer@P2P@Outpop@@IAEXHABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 100061A0.c
+
+================================================================================
+Function: sub_10009C10
+Address: 0x10009c10
+File: 10009C10.c
+
+Called by (1 callers):
+  - 0x10002d60 (??0Peer@P2P@Outpop@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 10002D60.c
+
+Calls (1 callees):
+  - 0x10006210 (?OnSAPError@Peer@P2P@Outpop@@IAEXW4ESAPError@23@H@Z) -> 10006210.c
+
+================================================================================
+Function: sub_10009C30
+Address: 0x10009c30
+File: 10009C30.c
+
+Called by (1 callers):
+  - 0x10003100 (?start@Peer@P2P@Outpop@@QAEXXZ) -> 10003100.c
+
+Calls (1 callees):
+  - 0x100031a0 (?OnDetectNetworkResult@Peer@P2P@Outpop@@IAEXH@Z) -> 100031A0.c
+
+================================================================================
+Function: sub_10009C60
+Address: 0x10009c60
+File: 10009C60.c
+
+Called by (1 callers):
+  - 0x100031a0 (?OnDetectNetworkResult@Peer@P2P@Outpop@@IAEXH@Z) -> 100031A0.c
+
+Calls (1 callees):
+  - 0x10003ae0 (?OnUPNPMapSucceed@Peer@P2P@Outpop@@IAEXW4EUPNPState@23@GPAVTSocket@IONetwork@3@@Z) -> 10003AE0.c
+
+================================================================================
+Function: sub_10009C80
+Address: 0x10009c80
+File: 10009C80.c
+
+Called by (4 callers):
+  - 0x10006a40 (sub_10006A40) -> 10006A40.c
+  - 0x100072a0 (sub_100072A0) -> 100072A0.c
+  - 0x10008190 (sub_10008190) -> 10008190.c
+  - 0x1000d530 (sub_1000D530) -> 1000D530.c
+
+Calls: none
+
+================================================================================
+Function: sub_10009CC0
+Address: 0x10009cc0
+File: 10009CC0.c
+
+Called by (4 callers):
+  - 0x10006440 (sub_10006440) -> 10006440.c
+  - 0x10006b20 (sub_10006B20) -> 10006B20.c
+  - 0x10007680 (sub_10007680) -> 10007680.c
+  - 0x1000cd90 (sub_1000CD90) -> 1000CD90.c
+
+Calls: none
+
+================================================================================
+Function: sub_10009D70
+Address: 0x10009d70
+File: 10009D70.c
+
+Called by (1 callers):
+  - 0x10009850 (sub_10009850) -> 10009850.c
+
+Calls (7 callees):
+  - 0x100075a0 (sub_100075A0) -> 100075A0.c
+  - 0x10008240 (sub_10008240) -> 10008240.c
+  - 0x10008270 (sub_10008270) -> 10008270.c
+  - 0x10008430 (sub_10008430) -> 10008430.c
+  - 0x10008dc0 (sub_10008DC0) -> 10008DC0.c
+  - 0x10008e30 (sub_10008E30) -> 10008E30.c
+  - 0x10023bc6 (_CxxThrowException) -> 10023BC6.c
+
+================================================================================
+Function: sub_10009E90
+Address: 0x10009e90
+File: 10009E90.c
+
+Called by (1 callers):
+  - 0x10009890 (sub_10009890) -> 10009890.c
+
+Calls (7 callees):
+  - 0x100075a0 (sub_100075A0) -> 100075A0.c
+  - 0x10008060 (sub_10008060) -> 10008060.c
+  - 0x10008240 (sub_10008240) -> 10008240.c
+  - 0x10008270 (sub_10008270) -> 10008270.c
+  - 0x10008860 (sub_10008860) -> 10008860.c
+  - 0x10008fa0 (sub_10008FA0) -> 10008FA0.c
+  - 0x10023bc6 (_CxxThrowException) -> 10023BC6.c
+
+================================================================================
+Function: sub_10009FB0
+Address: 0x10009fb0
+File: 10009FB0.c
+
+Called by (2 callers):
+  - 0x10008500 (sub_10008500) -> 10008500.c
+  - 0x10009360 (sub_10009360) -> 10009360.c
+
+Calls: none
+
+================================================================================
+Function: sub_10009FD0
+Address: 0x10009fd0
+File: 10009FD0.c
+
+Called by (2 callers):
+  - 0x10008c80 (sub_10008C80) -> 10008C80.c
+  - 0x10009400 (sub_10009400) -> 10009400.c
+
+Calls (1 callees):
+  - 0x10023bc6 (_CxxThrowException) -> 10023BC6.c
+
+================================================================================
+Function: sub_1000A080
+Address: 0x1000a080
+File: 1000A080.c
+
+Called by (2 callers):
+  - 0x100098d0 (sub_100098D0) -> 100098D0.c
+  - 0x1000a270 (sub_1000A270) -> 1000A270.c
+
+Calls (1 callees):
+  - 0x1000a1f0 (sub_1000A1F0) -> 1000A1F0.c
+
+================================================================================
+Function: sub_1000A150
+Address: 0x1000a150
+File: 1000A150.c
+
+Called by (1 callers):
+  - 0x10009940 (sub_10009940) -> 10009940.c
+
+Calls (1 callees):
+  - 0x1000a270 (sub_1000A270) -> 1000A270.c
+
+================================================================================
+Function: sub_1000A1F0
+Address: 0x1000a1f0
+File: 1000A1F0.c
+
+Called by (2 callers):
+  - 0x1000a080 (sub_1000A080) -> 1000A080.c
+  - 0x1000a270 (sub_1000A270) -> 1000A270.c
+
+Calls: none
+
+================================================================================
+Function: sub_1000A270
+Address: 0x1000a270
+File: 1000A270.c
+
+Called by (1 callers):
+  - 0x1000a150 (sub_1000A150) -> 1000A150.c
+
+Calls (2 callees):
+  - 0x1000a080 (sub_1000A080) -> 1000A080.c
+  - 0x1000a1f0 (sub_1000A1F0) -> 1000A1F0.c
+
+================================================================================
+Function: sub_1000A360
+Address: 0x1000a360
+File: 1000A360.c
+
+Called by (1 callers):
+  - 0x10009a70 (sub_10009A70) -> 10009A70.c
+
+Calls: none
+
+================================================================================
+Function: sub_1000A3A0
+Address: 0x1000a3a0
+File: 1000A3A0.c
+
+Called by (2 callers):
+  - 0x10009400 (sub_10009400) -> 10009400.c
+  - 0x10009a10 (sub_10009A10) -> 10009A10.c
+
+Calls (1 callees):
+  - 0x10023bc6 (_CxxThrowException) -> 10023BC6.c
+
+================================================================================
+Function: sub_1000A480
+Address: 0x1000a480
+File: 1000A480.c
+
+Called by (1 callers):
+  - 0x10004730 (?handle_build_channel@Peer@P2P@Outpop@@UAEXAAV?$Smart_Ptr@VChannel@IONetwork@Outpop@@@Utility@3@AAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@53@AAV?$Smart_Ptr@VP2PUdpBuilder@IONetwork@Outpop@@@53@@Z) -> 10004730.c
+
+Calls: none
+
+================================================================================
+Function: sub_1000A510
+Address: 0x1000a510
+File: 1000A510.c
+
+Called by (1 callers):
+  - 0x1000a4f0 (sub_1000A4F0)
+
+Calls: none
+
+================================================================================
+Function: sub_1000A570
+Address: 0x1000a570
+File: 1000A570.c
+
+Called by (19 callers):
+  - 0x100014f0 (sub_100014F0) -> 100014F0.c
+  - 0x100031a0 (?OnDetectNetworkResult@Peer@P2P@Outpop@@IAEXH@Z) -> 100031A0.c
+  - 0x10003d20 (?connect_remote_peer@Peer@P2P@Outpop@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 10003D20.c
+  - 0x10004000 (?close_peer@Peer@P2P@Outpop@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 10004000.c
+  - 0x100042e0 (?OnSAPGetPeerAddress@Peer@P2P@Outpop@@IAEXHABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAVINET_Addr@IONetwork@3@1@Z) -> 100042E0.c
+  - 0x10004730 (?handle_build_channel@Peer@P2P@Outpop@@UAEXAAV?$Smart_Ptr@VChannel@IONetwork@Outpop@@@Utility@3@AAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@53@AAV?$Smart_Ptr@VP2PUdpBuilder@IONetwork@Outpop@@@53@@Z) -> 10004730.c
+  - 0x10004b30 (?handle_build_failed@Peer@P2P@Outpop@@UAEXHABVINET_Addr@IONetwork@3@AAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@Utility@3@AAV?$Smart_Ptr@VP2PUdpBuilder@IONetwork@Outpop@@@73@@Z) -> 10004B30.c
+  - 0x100052c0 (?change_peer_id@Peer@P2P@Outpop@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 100052C0.c
+  - 0x10005580 (?OnCooperateConnect@Peer@P2P@Outpop@@IAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAVINET_Addr@IONetwork@3@1@Z) -> 10005580.c
+  - 0x10005b40 (?interal_print_remote_peer@Peer@P2P@Outpop@@IAEXXZ) -> 10005B40.c
+  - 0x10005e10 (?print_remote_peer@Peer@P2P@Outpop@@QAEXXZ) -> 10005E10.c
+  - 0x10005fe0 (?handle_close@Peer@P2P@Outpop@@UAEXHAAV?$Smart_Ptr@VChannel@IONetwork@Outpop@@@Utility@3@@Z) -> 10005FE0.c
+  - 0x10006210 (?OnSAPError@Peer@P2P@Outpop@@IAEXW4ESAPError@23@H@Z) -> 10006210.c
+  - 0x1000ac90 (sub_1000AC90) -> 1000AC90.c
+  - 0x1000b380 (sub_1000B380) -> 1000B380.c
+  - 0x1000c0c0 (sub_1000C0C0) -> 1000C0C0.c
+  - 0x1000f070 (sub_1000F070) -> 1000F070.c
+  - 0x1000f1f0 (sub_1000F1F0) -> 1000F1F0.c
+  - 0x10010fd0 (sub_10010FD0) -> 10010FD0.c
+
+Calls: none
+
+================================================================================
+Function: sub_1000A590
+Address: 0x1000a590
+File: 1000A590.c
+
+Called by (1 callers):
+  - 0x1000b090 (sub_1000B090) -> 1000B090.c
+
+Calls: none
+
+================================================================================
+Function: sub_1000A600
+Address: 0x1000a600
+File: 1000A600.c
+
+Called by: none
+
+Calls (2 callees):
+  - 0x1000a620 (sub_1000A620) -> 1000A620.c
+  - 0x10023306 (??3@YAXPAX@Z)
+
+================================================================================
+Function: sub_1000A620
+Address: 0x1000a620
+File: 1000A620.c
+
+Called by (1 callers):
+  - 0x1000a600 (sub_1000A600) -> 1000A600.c
+
+Calls: none
+
+================================================================================
+Function: sub_1000A680
+Address: 0x1000a680
+File: 1000A680.c
+
+Called by (1 callers):
+  - 0x1000d5a0 (sub_1000D5A0) -> 1000D5A0.c
+
+Calls: none
+
+================================================================================
+Function: sub_1000A720
+Address: 0x1000a720
+File: 1000A720.c
+
+Called by: none
+
+Calls (2 callees):
+  - 0x1000a740 (sub_1000A740) -> 1000A740.c
+  - 0x10023306 (??3@YAXPAX@Z)
+
+================================================================================
+Function: sub_1000A740
+Address: 0x1000a740
+File: 1000A740.c
+
+Called by (1 callers):
+  - 0x1000a720 (sub_1000A720) -> 1000A720.c
+
+Calls: none
+
+================================================================================
+Function: sub_1000A7C0
+Address: 0x1000a7c0
+File: 1000A7C0.c
+
+Called by (1 callers):
+  - 0x10002d60 (??0Peer@P2P@Outpop@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 10002D60.c
+
+Calls (1 callees):
+  - 0x100076e0 (sub_100076E0) -> 100076E0.c
+
+================================================================================
+Function: sub_1000A8D0
+Address: 0x1000a8d0
+File: 1000A8D0.c
+
+Called by (1 callers):
+  - 0x1000ec20 (sub_1000EC20) -> 1000EC20.c
+
+Calls (2 callees):
+  - 0x1000a9d0 (sub_1000A9D0) -> 1000A9D0.c
+  - 0x10023306 (??3@YAXPAX@Z)
+
+================================================================================
+Function: sub_1000A930
+Address: 0x1000a930
+File: 1000A930.c
+
+Called by (1 callers):
+  - 0x10005230 (?OnKPError@Peer@P2P@Outpop@@IAEXH@Z) -> 10005230.c
+
+Calls (1 callees):
+  - 0x1000d7a0 (sub_1000D7A0) -> 1000D7A0.c
+
+================================================================================
+Function: sub_1000A9D0
+Address: 0x1000a9d0
+File: 1000A9D0.c
+
+Called by (1 callers):
+  - 0x1000a8d0 (sub_1000A8D0) -> 1000A8D0.c
+
+Calls (3 callees):
+  - 0x1000d7a0 (sub_1000D7A0) -> 1000D7A0.c
+  - 0x1000e470 (sub_1000E470) -> 1000E470.c
+  - 0x10023306 (??3@YAXPAX@Z)
+
+================================================================================
+Function: sub_1000AB00
+Address: 0x1000ab00
+File: 1000AB00.c
+
+Called by (1 callers):
+  - 0x100014f0 (sub_100014F0) -> 100014F0.c
+
+Calls (3 callees):
+  - 0x100096f0 (sub_100096F0) -> 100096F0.c
+  - 0x1000d5a0 (sub_1000D5A0) -> 1000D5A0.c
+  - 0x1000e660 (sub_1000E660) -> 1000E660.c
+
+================================================================================
+Function: sub_1000AC90
+Address: 0x1000ac90
+File: 1000AC90.c
+
+Called by (3 callers):
+  - 0x100031a0 (?OnDetectNetworkResult@Peer@P2P@Outpop@@IAEXH@Z) -> 100031A0.c
+  - 0x10003870 (?OnUPNPStateChangeResult@Peer@P2P@Outpop@@IAEXW4EUPNPState@23@G@Z) -> 10003870.c
+  - 0x10003ae0 (?OnUPNPMapSucceed@Peer@P2P@Outpop@@IAEXW4EUPNPState@23@GPAVTSocket@IONetwork@3@@Z) -> 10003AE0.c
+
+Calls (6 callees):
+  - 0x100096f0 (sub_100096F0) -> 100096F0.c
+  - 0x1000a570 (sub_1000A570) -> 1000A570.c
+  - 0x1000d5a0 (sub_1000D5A0) -> 1000D5A0.c
+  - 0x1000e660 (sub_1000E660) -> 1000E660.c
+  - 0x1000e760 (sub_1000E760) -> 1000E760.c
+  - 0x1000e860 (sub_1000E860) -> 1000E860.c
+
+================================================================================
+Function: sub_1000AFE0
+Address: 0x1000afe0
+File: 1000AFE0.c
+
+Called by (1 callers):
+  - 0x100037e0 (?OnReportSucceed@Peer@P2P@Outpop@@IAEXXZ) -> 100037E0.c
+
+Calls (1 callees):
+  - 0x1000d5a0 (sub_1000D5A0) -> 1000D5A0.c
+
+================================================================================
+Function: sub_1000B090
+Address: 0x1000b090
+File: 1000B090.c
+
+Called by (1 callers):
+  - 0x10003f10 (?interal_connect_remote_peer@Peer@P2P@Outpop@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 10003F10.c
+
+Calls (9 callees):
+  - 0x10004ad0 (sub_10004AD0) -> 10004AD0.c
+  - 0x100096f0 (sub_100096F0) -> 100096F0.c
+  - 0x1000a590 (sub_1000A590) -> 1000A590.c
+  - 0x1000cd90 (sub_1000CD90) -> 1000CD90.c
+  - 0x1000d5a0 (sub_1000D5A0) -> 1000D5A0.c
+  - 0x1000d8e0 (sub_1000D8E0) -> 1000D8E0.c
+  - 0x1000da30 (sub_1000DA30) -> 1000DA30.c
+  - 0x1000e660 (sub_1000E660) -> 1000E660.c
+  - 0x100234ce (??2@YAPAXI@Z)
+
+================================================================================
+Function: sub_1000B300
+Address: 0x1000b300
+File: 1000B300.c
+
+Called by (1 callers):
+  - 0x100041d0 (?interal_close_peer@Peer@P2P@Outpop@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 100041D0.c
+
+Calls (2 callees):
+  - 0x1000d390 (sub_1000D390) -> 1000D390.c
+  - 0x1000da30 (sub_1000DA30) -> 1000DA30.c
+
+================================================================================
+Function: sub_1000B380
+Address: 0x1000b380
+File: 1000B380.c
+
+Called by: none
+
+Calls (7 callees):
+  - 0x100096f0 (sub_100096F0) -> 100096F0.c
+  - 0x1000a570 (sub_1000A570) -> 1000A570.c
+  - 0x1000d530 (sub_1000D530) -> 1000D530.c
+  - 0x1000d5a0 (sub_1000D5A0) -> 1000D5A0.c
+  - 0x1000e660 (sub_1000E660) -> 1000E660.c
+  - 0x1000e760 (sub_1000E760) -> 1000E760.c
+  - 0x1000e860 (sub_1000E860) -> 1000E860.c
+
+================================================================================
+Function: sub_1000C0C0
+Address: 0x1000c0c0
+File: 1000C0C0.c
+
+Called by: none
+
+Calls (10 callees):
+  - 0x100097a0 (sub_100097A0) -> 100097A0.c
+  - 0x1000a570 (sub_1000A570) -> 1000A570.c
+  - 0x1000d390 (sub_1000D390) -> 1000D390.c
+  - 0x1000d7a0 (sub_1000D7A0) -> 1000D7A0.c
+  - 0x1000d8b0 (sub_1000D8B0) -> 1000D8B0.c
+  - 0x1000da30 (sub_1000DA30) -> 1000DA30.c
+  - 0x1000e960 (sub_1000E960) -> 1000E960.c
+  - 0x1000ea00 (sub_1000EA00) -> 1000EA00.c
+  - 0x1000eaa0 (sub_1000EAA0) -> 1000EAA0.c
+  - 0x100232f7 (@__security_check_cookie@4)
+
+================================================================================
+Function: sub_1000CC10
+Address: 0x1000cc10
+File: 1000CC10.c
+
+Called by (1 callers):
+  - 0x100014f0 (sub_100014F0) -> 100014F0.c
+
+Calls (2 callees):
+  - 0x100232f7 (@__security_check_cookie@4)
+  - 0x100234ce (??2@YAPAXI@Z)
+
+================================================================================
+Function: sub_1000CD70
+Address: 0x1000cd70
+File: 1000CD70.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10023306 (??3@YAXPAX@Z)
+
+================================================================================
+Function: sub_1000CD90
+Address: 0x1000cd90
+File: 1000CD90.c
+
+Called by (1 callers):
+  - 0x1000b090 (sub_1000B090) -> 1000B090.c
+
+Calls (4 callees):
+  - 0x10008430 (sub_10008430) -> 10008430.c
+  - 0x10008e30 (sub_10008E30) -> 10008E30.c
+  - 0x10009cc0 (sub_10009CC0) -> 10009CC0.c
+  - 0x1000dbc0 (sub_1000DBC0) -> 1000DBC0.c
+
+================================================================================
+Function: sub_1000D390
+Address: 0x1000d390
+File: 1000D390.c
+
+Called by (3 callers):
+  - 0x1000b300 (sub_1000B300) -> 1000B300.c
+  - 0x1000c0c0 (sub_1000C0C0) -> 1000C0C0.c
+  - 0x1000d950 (sub_1000D950) -> 1000D950.c
+
+Calls (2 callees):
+  - 0x10007680 (sub_10007680) -> 10007680.c
+  - 0x10023306 (??3@YAXPAX@Z)
+
+================================================================================
+Function: sub_1000D530
+Address: 0x1000d530
+File: 1000D530.c
+
+Called by (1 callers):
+  - 0x1000b380 (sub_1000B380) -> 1000B380.c
+
+Calls (3 callees):
+  - 0x10007840 (sub_10007840) -> 10007840.c
+  - 0x10009c80 (sub_10009C80) -> 10009C80.c
+  - 0x1000d950 (sub_1000D950) -> 1000D950.c
+
+================================================================================
+Function: sub_1000D5A0
+Address: 0x1000d5a0
+File: 1000D5A0.c
+
+Called by (5 callers):
+  - 0x1000ab00 (sub_1000AB00) -> 1000AB00.c
+  - 0x1000ac90 (sub_1000AC90) -> 1000AC90.c
+  - 0x1000afe0 (sub_1000AFE0) -> 1000AFE0.c
+  - 0x1000b090 (sub_1000B090) -> 1000B090.c
+  - 0x1000b380 (sub_1000B380) -> 1000B380.c
+
+Calls (6 callees):
+  - 0x10008c80 (sub_10008C80) -> 10008C80.c
+  - 0x100098d0 (sub_100098D0) -> 100098D0.c
+  - 0x1000a680 (sub_1000A680) -> 1000A680.c
+  - 0x1000dc70 (sub_1000DC70) -> 1000DC70.c
+  - 0x1000e200 (sub_1000E200) -> 1000E200.c
+  - 0x100234ce (??2@YAPAXI@Z)
+
+================================================================================
+Function: sub_1000D7A0
+Address: 0x1000d7a0
+File: 1000D7A0.c
+
+Called by (3 callers):
+  - 0x1000a930 (sub_1000A930) -> 1000A930.c
+  - 0x1000a9d0 (sub_1000A9D0) -> 1000A9D0.c
+  - 0x1000c0c0 (sub_1000C0C0) -> 1000C0C0.c
+
+Calls (2 callees):
+  - 0x10009040 (sub_10009040) -> 10009040.c
+  - 0x1000e300 (sub_1000E300) -> 1000E300.c
+
+================================================================================
+Function: sub_1000D8B0
+Address: 0x1000d8b0
+File: 1000D8B0.c
+
+Called by (1 callers):
+  - 0x1000c0c0 (sub_1000C0C0) -> 1000C0C0.c
+
+Calls: none
+
+================================================================================
+Function: sub_1000D8E0
+Address: 0x1000d8e0
+File: 1000D8E0.c
+
+Called by (2 callers):
+  - 0x10004730 (?handle_build_channel@Peer@P2P@Outpop@@UAEXAAV?$Smart_Ptr@VChannel@IONetwork@Outpop@@@Utility@3@AAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@53@AAV?$Smart_Ptr@VP2PUdpBuilder@IONetwork@Outpop@@@53@@Z) -> 10004730.c
+  - 0x1000b090 (sub_1000B090) -> 1000B090.c
+
+Calls: none
+
+================================================================================
+Function: sub_1000D950
+Address: 0x1000d950
+File: 1000D950.c
+
+Called by (1 callers):
+  - 0x1000d530 (sub_1000D530) -> 1000D530.c
+
+Calls (3 callees):
+  - 0x10009290 (sub_10009290) -> 10009290.c
+  - 0x1000d390 (sub_1000D390) -> 1000D390.c
+  - 0x1000e470 (sub_1000E470) -> 1000E470.c
+
+================================================================================
+Function: sub_1000DA30
+Address: 0x1000da30
+File: 1000DA30.c
+
+Called by (3 callers):
+  - 0x1000b090 (sub_1000B090) -> 1000B090.c
+  - 0x1000b300 (sub_1000B300) -> 1000B300.c
+  - 0x1000c0c0 (sub_1000C0C0) -> 1000C0C0.c
+
+Calls (1 callees):
+  - 0x10007680 (sub_10007680) -> 10007680.c
+
+================================================================================
+Function: sub_1000DBC0
+Address: 0x1000dbc0
+File: 1000DBC0.c
+
+Called by (2 callers):
+  - 0x1000cd90 (sub_1000CD90) -> 1000CD90.c
+  - 0x1000dc70 (sub_1000DC70) -> 1000DC70.c
+
+Calls (2 callees):
+  - 0x10008500 (sub_10008500) -> 10008500.c
+  - 0x100088f0 (sub_100088F0) -> 100088F0.c
+
+================================================================================
+Function: sub_1000DC70
+Address: 0x1000dc70
+File: 1000DC70.c
+
+Called by (1 callers):
+  - 0x1000d5a0 (sub_1000D5A0) -> 1000D5A0.c
+
+Calls (3 callees):
+  - 0x1000dbc0 (sub_1000DBC0) -> 1000DBC0.c
+  - 0x1000e530 (sub_1000E530) -> 1000E530.c
+  - 0x1000e5c0 (sub_1000E5C0) -> 1000E5C0.c
+
+================================================================================
+Function: sub_1000E200
+Address: 0x1000e200
+File: 1000E200.c
+
+Called by (1 callers):
+  - 0x1000d5a0 (sub_1000D5A0) -> 1000D5A0.c
+
+Calls: none
+
+================================================================================
+Function: sub_1000E270
+Address: 0x1000e270
+File: 1000E270.c
+
+Called by (1 callers):
+  - 0x1000e2e0 (sub_1000E2E0) -> 1000E2E0.c
+
+Calls: none
+
+================================================================================
+Function: nullsub_1
+Address: 0x1000e2d0
+File: 1000E2D0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_1000E2E0
+Address: 0x1000e2e0
+File: 1000E2E0.c
+
+Called by: none
+
+Calls (2 callees):
+  - 0x1000e270 (sub_1000E270) -> 1000E270.c
+  - 0x10023306 (??3@YAXPAX@Z)
+
+================================================================================
+Function: sub_1000E300
+Address: 0x1000e300
+File: 1000E300.c
+
+Called by (1 callers):
+  - 0x1000d7a0 (sub_1000D7A0) -> 1000D7A0.c
+
+Calls: none
+
+================================================================================
+Function: sub_1000E470
+Address: 0x1000e470
+File: 1000E470.c
+
+Called by (7 callers):
+  - 0x10002630 (??0Peer@P2P@Outpop@@QAE@ABV012@@Z) -> 10002630.c
+  - 0x10002f90 (??1Peer@P2P@Outpop@@UAE@XZ) -> 10002F90.c
+  - 0x100076e0 (sub_100076E0) -> 100076E0.c
+  - 0x10007760 (sub_10007760) -> 10007760.c
+  - 0x100079c0 (sub_100079C0) -> 100079C0.c
+  - 0x1000a9d0 (sub_1000A9D0) -> 1000A9D0.c
+  - 0x1000d950 (sub_1000D950) -> 1000D950.c
+
+Calls (1 callees):
+  - 0x10023306 (??3@YAXPAX@Z)
+
+================================================================================
+Function: sub_1000E510
+Address: 0x1000e510
+File: 1000E510.c
+
+Called by (2 callers):
+  - 0x100063d0 (sub_100063D0) -> 100063D0.c
+  - 0x100076e0 (sub_100076E0) -> 100076E0.c
+
+Calls (1 callees):
+  - 0x1000eb40 (sub_1000EB40) -> 1000EB40.c
+
+================================================================================
+Function: sub_1000E530
+Address: 0x1000e530
+File: 1000E530.c
+
+Called by (1 callers):
+  - 0x1000dc70 (sub_1000DC70) -> 1000DC70.c
+
+Calls (2 callees):
+  - 0x10002490 (sub_10002490) -> 10002490.c
+  - 0x10023bc6 (_CxxThrowException) -> 10023BC6.c
+
+================================================================================
+Function: sub_1000E5C0
+Address: 0x1000e5c0
+File: 1000E5C0.c
+
+Called by (1 callers):
+  - 0x1000dc70 (sub_1000DC70) -> 1000DC70.c
+
+Calls (4 callees):
+  - 0x1000eba0 (sub_1000EBA0) -> 1000EBA0.c
+  - 0x10023306 (??3@YAXPAX@Z)
+  - 0x100234ce (??2@YAPAXI@Z)
+  - 0x10023bc6 (_CxxThrowException) -> 10023BC6.c
+
+================================================================================
+Function: sub_1000E660
+Address: 0x1000e660
+File: 1000E660.c
+
+Called by (4 callers):
+  - 0x1000ab00 (sub_1000AB00) -> 1000AB00.c
+  - 0x1000ac90 (sub_1000AC90) -> 1000AC90.c
+  - 0x1000b090 (sub_1000B090) -> 1000B090.c
+  - 0x1000b380 (sub_1000B380) -> 1000B380.c
+
+Calls (1 callees):
+  - 0x10023bc6 (_CxxThrowException) -> 10023BC6.c
+
+================================================================================
+Function: sub_1000E760
+Address: 0x1000e760
+File: 1000E760.c
+
+Called by (2 callers):
+  - 0x1000ac90 (sub_1000AC90) -> 1000AC90.c
+  - 0x1000b380 (sub_1000B380) -> 1000B380.c
+
+Calls (1 callees):
+  - 0x10023bc6 (_CxxThrowException) -> 10023BC6.c
+
+================================================================================
+Function: sub_1000E860
+Address: 0x1000e860
+File: 1000E860.c
+
+Called by (2 callers):
+  - 0x1000ac90 (sub_1000AC90) -> 1000AC90.c
+  - 0x1000b380 (sub_1000B380) -> 1000B380.c
+
+Calls (1 callees):
+  - 0x10023bc6 (_CxxThrowException) -> 10023BC6.c
+
+================================================================================
+Function: sub_1000E960
+Address: 0x1000e960
+File: 1000E960.c
+
+Called by (1 callers):
+  - 0x1000c0c0 (sub_1000C0C0) -> 1000C0C0.c
+
+Calls (1 callees):
+  - 0x10023bc6 (_CxxThrowException) -> 10023BC6.c
+
+================================================================================
+Function: sub_1000EA00
+Address: 0x1000ea00
+File: 1000EA00.c
+
+Called by (1 callers):
+  - 0x1000c0c0 (sub_1000C0C0) -> 1000C0C0.c
+
+Calls (1 callees):
+  - 0x10023bc6 (_CxxThrowException) -> 10023BC6.c
+
+================================================================================
+Function: sub_1000EAA0
+Address: 0x1000eaa0
+File: 1000EAA0.c
+
+Called by (1 callers):
+  - 0x1000c0c0 (sub_1000C0C0) -> 1000C0C0.c
+
+Calls (1 callees):
+  - 0x10023bc6 (_CxxThrowException) -> 10023BC6.c
+
+================================================================================
+Function: sub_1000EB40
+Address: 0x1000eb40
+File: 1000EB40.c
+
+Called by (2 callers):
+  - 0x10008e30 (sub_10008E30) -> 10008E30.c
+  - 0x1000e510 (sub_1000E510) -> 1000E510.c
+
+Calls (2 callees):
+  - 0x100234ce (??2@YAPAXI@Z)
+  - 0x10023bc6 (_CxxThrowException) -> 10023BC6.c
+
+================================================================================
+Function: sub_1000EBA0
+Address: 0x1000eba0
+File: 1000EBA0.c
+
+Called by (1 callers):
+  - 0x1000e5c0 (sub_1000E5C0) -> 1000E5C0.c
+
+Calls: none
+
+================================================================================
+Function: sub_1000EC00
+Address: 0x1000ec00
+File: 1000EC00.c
+
+Called by (2 callers):
+  - 0x10008500 (sub_10008500) -> 10008500.c
+  - 0x100099e0 (sub_100099E0) -> 100099E0.c
+
+Calls: none
+
+================================================================================
+Function: sub_1000EC20
+Address: 0x1000ec20
+File: 1000EC20.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?c_network_type_to_string@P2P@Outpop@@YAPBDW4ENetworkType@12@@Z
+Address: 0x1000ec30
+File: 1000EC30.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?c_upnp_state_to_string@P2P@Outpop@@YAPBDW4EUPNPState@12@@Z
+Address: 0x1000ec50
+File: 1000EC50.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_1000ECB0
+Address: 0x1000ecb0
+File: 1000ECB0.c
+
+Called by (1 callers):
+  - 0x1000f1f0 (sub_1000F1F0) -> 1000F1F0.c
+
+Calls: none
+
+================================================================================
+Function: sub_1000ED30
+Address: 0x1000ed30
+File: 1000ED30.c
+
+Called by (1 callers):
+  - 0x1000edc0 (sub_1000EDC0) -> 1000EDC0.c
+
+Calls: none
+
+================================================================================
+Function: sub_1000ED90
+Address: 0x1000ed90
+File: 1000ED90.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_1000EDC0
+Address: 0x1000edc0
+File: 1000EDC0.c
+
+Called by: none
+
+Calls (2 callees):
+  - 0x1000ed30 (sub_1000ED30) -> 1000ED30.c
+  - 0x10023306 (??3@YAXPAX@Z)
+
+================================================================================
+Function: sub_1000EDE0
+Address: 0x1000ede0
+File: 1000EDE0.c
+
+Called by (1 callers):
+  - 0x1000f1f0 (sub_1000F1F0) -> 1000F1F0.c
+
+Calls: none
+
+================================================================================
+Function: sub_1000EE60
+Address: 0x1000ee60
+File: 1000EE60.c
+
+Called by (1 callers):
+  - 0x1000eef0 (sub_1000EEF0) -> 1000EEF0.c
+
+Calls: none
+
+================================================================================
+Function: sub_1000EEC0
+Address: 0x1000eec0
+File: 1000EEC0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_1000EEF0
+Address: 0x1000eef0
+File: 1000EEF0.c
+
+Called by: none
+
+Calls (2 callees):
+  - 0x1000ee60 (sub_1000EE60) -> 1000EE60.c
+  - 0x10023306 (??3@YAXPAX@Z)
+
+================================================================================
+Function: sub_1000EF10
+Address: 0x1000ef10
+File: 1000EF10.c
+
+Called by (1 callers):
+  - 0x100031a0 (?OnDetectNetworkResult@Peer@P2P@Outpop@@IAEXH@Z) -> 100031A0.c
+
+Calls: none
+
+================================================================================
+Function: sub_1000EFE0
+Address: 0x1000efe0
+File: 1000EFE0.c
+
+Called by (1 callers):
+  - 0x1000efc0 (sub_1000EFC0)
+
+Calls: none
+
+================================================================================
+Function: sub_1000F070
+Address: 0x1000f070
+File: 1000F070.c
+
+Called by (1 callers):
+  - 0x100031a0 (?OnDetectNetworkResult@Peer@P2P@Outpop@@IAEXH@Z) -> 100031A0.c
+
+Calls (1 callees):
+  - 0x1000a570 (sub_1000A570) -> 1000A570.c
+
+================================================================================
+Function: sub_1000F1F0
+Address: 0x1000f1f0
+File: 1000F1F0.c
+
+Called by: none
+
+Calls (9 callees):
+  - 0x1000a570 (sub_1000A570) -> 1000A570.c
+  - 0x1000ecb0 (sub_1000ECB0) -> 1000ECB0.c
+  - 0x1000ede0 (sub_1000EDE0) -> 1000EDE0.c
+  - 0x10012870 (sub_10012870) -> 10012870.c
+  - 0x100132c0 (sub_100132C0) -> 100132C0.c
+  - 0x100134b0 (sub_100134B0) -> 100134B0.c
+  - 0x10013690 (sub_10013690) -> 10013690.c
+  - 0x100232f7 (@__security_check_cookie@4)
+  - 0x100234ce (??2@YAPAXI@Z)
+
+================================================================================
+Function: sub_10010FD0
+Address: 0x10010fd0
+File: 10010FD0.c
+
+Called by (1 callers):
+  - 0x10003ce0 (?run@Peer@P2P@Outpop@@QAEXXZ) -> 10003CE0.c
+
+Calls (2 callees):
+  - 0x1000a570 (sub_1000A570) -> 1000A570.c
+  - 0x10013690 (sub_10013690) -> 10013690.c
+
+================================================================================
+Function: sub_10011190
+Address: 0x10011190
+File: 10011190.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_100111A0
+Address: 0x100111a0
+File: 100111A0.c
+
+Called by (1 callers):
+  - 0x10012d90 (sub_10012D90) -> 10012D90.c
+
+Calls: none
+
+================================================================================
+Function: sub_100112B0
+Address: 0x100112b0
+File: 100112B0.c
+
+Called by (1 callers):
+  - 0x10012d90 (sub_10012D90) -> 10012D90.c
+
+Calls: none
+
+================================================================================
+Function: sub_100112F0
+Address: 0x100112f0
+File: 100112F0.c
+
+Called by (1 callers):
+  - 0x10013790 (sub_10013790) -> 10013790.c
+
+Calls: none
+
+================================================================================
+Function: sub_10011460
+Address: 0x10011460
+File: 10011460.c
+
+Called by (1 callers):
+  - 0x10013790 (sub_10013790) -> 10013790.c
+
+Calls: none
+
+================================================================================
+Function: sub_10011530
+Address: 0x10011530
+File: 10011530.c
+
+Called by (1 callers):
+  - 0x10013790 (sub_10013790) -> 10013790.c
+
+Calls: none
+
+================================================================================
+Function: sub_100115F0
+Address: 0x100115f0
+File: 100115F0.c
+
+Called by (1 callers):
+  - 0x10012d90 (sub_10012D90) -> 10012D90.c
+
+Calls (2 callees):
+  - 0x100116b0 (sub_100116B0) -> 100116B0.c
+  - 0x100119f0 (sub_100119F0) -> 100119F0.c
+
+================================================================================
+Function: sub_10011650
+Address: 0x10011650
+File: 10011650.c
+
+Called by (1 callers):
+  - 0x10013790 (sub_10013790) -> 10013790.c
+
+Calls (2 callees):
+  - 0x100116b0 (sub_100116B0) -> 100116B0.c
+  - 0x10011aa0 (sub_10011AA0) -> 10011AA0.c
+
+================================================================================
+Function: sub_100116B0
+Address: 0x100116b0
+File: 100116B0.c
+
+Called by (2 callers):
+  - 0x100115f0 (sub_100115F0) -> 100115F0.c
+  - 0x10011650 (sub_10011650) -> 10011650.c
+
+Calls (5 callees):
+  - 0x10011770 (sub_10011770) -> 10011770.c
+  - 0x10012040 (sub_10012040) -> 10012040.c
+  - 0x10012390 (sub_10012390) -> 10012390.c
+  - 0x10023292 (closesocket) -> 10023292.c
+  - 0x100232d4 (WSACleanup) -> 100232D4.c
+
+================================================================================
+Function: sub_10011770
+Address: 0x10011770
+File: 10011770.c
+
+Called by (1 callers):
+  - 0x100116b0 (sub_100116B0) -> 100116B0.c
+
+Calls (3 callees):
+  - 0x10011820 (sub_10011820) -> 10011820.c
+  - 0x10011890 (sub_10011890) -> 10011890.c
+  - 0x10011910 (sub_10011910) -> 10011910.c
+
+================================================================================
+Function: sub_10011820
+Address: 0x10011820
+File: 10011820.c
+
+Called by (1 callers):
+  - 0x10011770 (sub_10011770) -> 10011770.c
+
+Calls (1 callees):
+  - 0x10012090 (sub_10012090) -> 10012090.c
+
+================================================================================
+Function: sub_10011890
+Address: 0x10011890
+File: 10011890.c
+
+Called by (1 callers):
+  - 0x10011770 (sub_10011770) -> 10011770.c
+
+Calls (1 callees):
+  - 0x10013b70 (sub_10013B70) -> 10013B70.c
+
+================================================================================
+Function: sub_10011910
+Address: 0x10011910
+File: 10011910.c
+
+Called by (1 callers):
+  - 0x10011770 (sub_10011770) -> 10011770.c
+
+Calls (1 callees):
+  - 0x10012090 (sub_10012090) -> 10012090.c
+
+================================================================================
+Function: sub_100119F0
+Address: 0x100119f0
+File: 100119F0.c
+
+Called by (1 callers):
+  - 0x100115f0 (sub_100115F0) -> 100115F0.c
+
+Calls (1 callees):
+  - 0x10011de0 (sub_10011DE0) -> 10011DE0.c
+
+================================================================================
+Function: sub_10011AA0
+Address: 0x10011aa0
+File: 10011AA0.c
+
+Called by (1 callers):
+  - 0x10011650 (sub_10011650) -> 10011650.c
+
+Calls (3 callees):
+  - 0x10011c40 (sub_10011C40) -> 10011C40.c
+  - 0x10011d10 (sub_10011D10) -> 10011D10.c
+  - 0x10011de0 (sub_10011DE0) -> 10011DE0.c
+
+================================================================================
+Function: sub_10011C40
+Address: 0x10011c40
+File: 10011C40.c
+
+Called by (1 callers):
+  - 0x10011aa0 (sub_10011AA0) -> 10011AA0.c
+
+Calls: none
+
+================================================================================
+Function: sub_10011D10
+Address: 0x10011d10
+File: 10011D10.c
+
+Called by (1 callers):
+  - 0x10011aa0 (sub_10011AA0) -> 10011AA0.c
+
+Calls: none
+
+================================================================================
+Function: sub_10011DE0
+Address: 0x10011de0
+File: 10011DE0.c
+
+Called by (2 callers):
+  - 0x100119f0 (sub_100119F0) -> 100119F0.c
+  - 0x10011aa0 (sub_10011AA0) -> 10011AA0.c
+
+Calls: none
+
+================================================================================
+Function: sub_10011E40
+Address: 0x10011e40
+File: 10011E40.c
+
+Called by (1 callers):
+  - 0x10012770 (sub_10012770) -> 10012770.c
+
+Calls (5 callees):
+  - 0x100232a4 (gethostbyname) -> 100232A4.c
+  - 0x100232b6 (sendto) -> 100232B6.c
+  - 0x100232bc (htons) -> 100232BC.c
+  - 0x100232f7 (@__security_check_cookie@4)
+  - 0x10023bb2 (memcpy) -> 10023BB2.c
+
+================================================================================
+Function: sub_10011F30
+Address: 0x10011f30
+File: 10011F30.c
+
+Called by (1 callers):
+  - 0x10012800 (sub_10012800) -> 10012800.c
+
+Calls (7 callees):
+  - 0x10012120 (sub_10012120) -> 10012120.c
+  - 0x10023298 (getsockname) -> 10023298.c
+  - 0x100232a4 (gethostbyname) -> 100232A4.c
+  - 0x100232bc (htons) -> 100232BC.c
+  - 0x100232c8 (recvfrom) -> 100232C8.c
+  - 0x100232f7 (@__security_check_cookie@4)
+  - 0x10023bb2 (memcpy) -> 10023BB2.c
+
+================================================================================
+Function: sub_10012040
+Address: 0x10012040
+File: 10012040.c
+
+Called by (1 callers):
+  - 0x100116b0 (sub_100116B0) -> 100116B0.c
+
+Calls (1 callees):
+  - 0x1002329e (send) -> 1002329E.c
+
+================================================================================
+Function: sub_10012090
+Address: 0x10012090
+File: 10012090.c
+
+Called by (2 callers):
+  - 0x10011820 (sub_10011820) -> 10011820.c
+  - 0x10011910 (sub_10011910) -> 10011910.c
+
+Calls (2 callees):
+  - 0x10012120 (sub_10012120) -> 10012120.c
+  - 0x100232b0 (recv) -> 100232B0.c
+
+================================================================================
+Function: sub_10012120
+Address: 0x10012120
+File: 10012120.c
+
+Called by (2 callers):
+  - 0x10011f30 (sub_10011F30) -> 10011F30.c
+  - 0x10012090 (sub_10012090) -> 10012090.c
+
+Calls (2 callees):
+  - 0x100232aa (__WSAFDIsSet) -> 100232AA.c
+  - 0x100232c2 (select) -> 100232C2.c
+
+================================================================================
+Function: sub_100121B0
+Address: 0x100121b0
+File: 100121B0.c
+
+Called by (1 callers):
+  - 0x10012390 (sub_10012390) -> 10012390.c
+
+Calls (2 callees):
+  - 0x100232aa (__WSAFDIsSet) -> 100232AA.c
+  - 0x100232c2 (select) -> 100232C2.c
+
+================================================================================
+Function: sub_10012240
+Address: 0x10012240
+File: 10012240.c
+
+Called by (1 callers):
+  - 0x100135f0 (sub_100135F0) -> 100135F0.c
+
+Calls (4 callees):
+  - 0x10023298 (getsockname) -> 10023298.c
+  - 0x100232ce (inet_ntoa) -> 100232CE.c
+  - 0x100232f7 (@__security_check_cookie@4)
+  - 0x100234ec (malloc) -> 100234EC.c
+
+================================================================================
+Function: sub_100122F0
+Address: 0x100122f0
+File: 100122F0.c
+
+Called by (1 callers):
+  - 0x10012640 (sub_10012640) -> 10012640.c
+
+Calls (5 callees):
+  - 0x10012520 (sub_10012520) -> 10012520.c
+  - 0x10023286 (socket) -> 10023286.c
+  - 0x100232d4 (WSACleanup) -> 100232D4.c
+  - 0x100232e0 (ioctlsocket) -> 100232E0.c
+  - 0x100234ec (malloc) -> 100234EC.c
+
+================================================================================
+Function: sub_10012390
+Address: 0x10012390
+File: 10012390.c
+
+Called by (2 callers):
+  - 0x100116b0 (sub_100116B0) -> 100116B0.c
+  - 0x100135f0 (sub_100135F0) -> 100135F0.c
+
+Calls (9 callees):
+  - 0x100121b0 (sub_100121B0) -> 100121B0.c
+  - 0x10012520 (sub_10012520) -> 10012520.c
+  - 0x100125e0 (sub_100125E0) -> 100125E0.c
+  - 0x10023286 (socket) -> 10023286.c
+  - 0x1002328c (connect) -> 1002328C.c
+  - 0x100232d4 (WSACleanup) -> 100232D4.c
+  - 0x100232e0 (ioctlsocket) -> 100232E0.c
+  - 0x100232f7 (@__security_check_cookie@4)
+  - 0x100234ec (malloc) -> 100234EC.c
+
+================================================================================
+Function: sub_10012520
+Address: 0x10012520
+File: 10012520.c
+
+Called by (2 callers):
+  - 0x100122f0 (sub_100122F0) -> 100122F0.c
+  - 0x10012390 (sub_10012390) -> 10012390.c
+
+Calls (3 callees):
+  - 0x100232d4 (WSACleanup) -> 100232D4.c
+  - 0x100232da (WSAStartup) -> 100232DA.c
+  - 0x100232f7 (@__security_check_cookie@4)
+
+================================================================================
+Function: sub_100125E0
+Address: 0x100125e0
+File: 100125E0.c
+
+Called by (1 callers):
+  - 0x10012390 (sub_10012390) -> 10012390.c
+
+Calls (3 callees):
+  - 0x100232a4 (gethostbyname) -> 100232A4.c
+  - 0x100232bc (htons) -> 100232BC.c
+  - 0x10023bb2 (memcpy) -> 10023BB2.c
+
+================================================================================
+Function: sub_10012640
+Address: 0x10012640
+File: 10012640.c
+
+Called by (1 callers):
+  - 0x10012a20 (sub_10012A20) -> 10012A20.c
+
+Calls (8 callees):
+  - 0x100122f0 (sub_100122F0) -> 100122F0.c
+  - 0x10012770 (sub_10012770) -> 10012770.c
+  - 0x10012800 (sub_10012800) -> 10012800.c
+  - 0x10023292 (closesocket) -> 10023292.c
+  - 0x100232d4 (WSACleanup) -> 100232D4.c
+  - 0x100232e6 (bind) -> 100232E6.c
+  - 0x100232ec (inet_addr) -> 100232EC.c
+  - 0x100232f7 (@__security_check_cookie@4)
+
+================================================================================
+Function: sub_10012770
+Address: 0x10012770
+File: 10012770.c
+
+Called by (1 callers):
+  - 0x10012640 (sub_10012640) -> 10012640.c
+
+Calls (3 callees):
+  - 0x10011e40 (sub_10011E40) -> 10011E40.c
+  - 0x100234da (sprintf)
+  - 0x100234ec (malloc) -> 100234EC.c
+
+================================================================================
+Function: sub_10012800
+Address: 0x10012800
+File: 10012800.c
+
+Called by (1 callers):
+  - 0x10012640 (sub_10012640) -> 10012640.c
+
+Calls (2 callees):
+  - 0x10011f30 (sub_10011F30) -> 10011F30.c
+  - 0x100234ec (malloc) -> 100234EC.c
+
+================================================================================
+Function: sub_10012870
+Address: 0x10012870
+File: 10012870.c
+
+Called by (1 callers):
+  - 0x1000f1f0 (sub_1000F1F0) -> 1000F1F0.c
+
+Calls (4 callees):
+  - 0x10012a20 (sub_10012A20) -> 10012A20.c
+  - 0x10012c10 (sub_10012C10) -> 10012C10.c
+  - 0x10012d90 (sub_10012D90) -> 10012D90.c
+  - 0x10012e40 (sub_10012E40) -> 10012E40.c
+
+================================================================================
+Function: sub_10012A20
+Address: 0x10012a20
+File: 10012A20.c
+
+Called by (1 callers):
+  - 0x10012870 (sub_10012870) -> 10012870.c
+
+Calls (3 callees):
+  - 0x10012640 (sub_10012640) -> 10012640.c
+  - 0x100234da (sprintf)
+  - 0x100234ec (malloc) -> 100234EC.c
+
+================================================================================
+Function: sub_10012C10
+Address: 0x10012c10
+File: 10012C10.c
+
+Called by (1 callers):
+  - 0x10012870 (sub_10012870) -> 10012870.c
+
+Calls (2 callees):
+  - 0x10013b70 (sub_10013B70) -> 10013B70.c
+  - 0x100234ec (malloc) -> 100234EC.c
+
+================================================================================
+Function: sub_10012D90
+Address: 0x10012d90
+File: 10012D90.c
+
+Called by (1 callers):
+  - 0x10012870 (sub_10012870) -> 10012870.c
+
+Calls (5 callees):
+  - 0x100111a0 (sub_100111A0) -> 100111A0.c
+  - 0x100112b0 (sub_100112B0) -> 100112B0.c
+  - 0x100115f0 (sub_100115F0) -> 100115F0.c
+  - 0x10013a20 (sub_10013A20) -> 10013A20.c
+  - 0x100232f7 (@__security_check_cookie@4)
+
+================================================================================
+Function: sub_10012E40
+Address: 0x10012e40
+File: 10012E40.c
+
+Called by (1 callers):
+  - 0x10012870 (sub_10012870) -> 10012870.c
+
+Calls (8 callees):
+  - 0x10013130 (sub_10013130) -> 10013130.c
+  - 0x10013a20 (sub_10013A20) -> 10013A20.c
+  - 0x1001ef60 (sub_1001EF60) -> 1001EF60.c
+  - 0x1001f170 (sub_1001F170) -> 1001F170.c
+  - 0x1001f2a0 (sub_1001F2A0) -> 1001F2A0.c
+  - 0x100232f7 (@__security_check_cookie@4)
+  - 0x100234da (sprintf)
+  - 0x100234ec (malloc) -> 100234EC.c
+
+================================================================================
+Function: sub_10013130
+Address: 0x10013130
+File: 10013130.c
+
+Called by (1 callers):
+  - 0x10012e40 (sub_10012E40) -> 10012E40.c
+
+Calls: none
+
+================================================================================
+Function: sub_10013170
+Address: 0x10013170
+File: 10013170.c
+
+Called by (1 callers):
+  - 0x10012e40 (sub_10012E40) -> 10012E40.c
+
+Calls: none
+
+================================================================================
+Function: sub_100131E0
+Address: 0x100131e0
+File: 100131E0.c
+
+Called by (1 callers):
+  - 0x10012e40 (sub_10012E40) -> 10012E40.c
+
+Calls: none
+
+================================================================================
+Function: sub_10013210
+Address: 0x10013210
+File: 10013210.c
+
+Called by (1 callers):
+  - 0x10012e40 (sub_10012E40) -> 10012E40.c
+
+Calls (1 callees):
+  - 0x100234ec (malloc) -> 100234EC.c
+
+================================================================================
+Function: sub_100132C0
+Address: 0x100132c0
+File: 100132C0.c
+
+Called by (1 callers):
+  - 0x1000f1f0 (sub_1000F1F0) -> 1000F1F0.c
+
+Calls (3 callees):
+  - 0x10013360 (sub_10013360) -> 10013360.c
+  - 0x10013790 (sub_10013790) -> 10013790.c
+  - 0x10013970 (sub_10013970) -> 10013970.c
+
+================================================================================
+Function: sub_10013360
+Address: 0x10013360
+File: 10013360.c
+
+Called by (1 callers):
+  - 0x100132c0 (sub_100132C0) -> 100132C0.c
+
+Calls (3 callees):
+  - 0x1001ef60 (sub_1001EF60) -> 1001EF60.c
+  - 0x1001f170 (sub_1001F170) -> 1001F170.c
+  - 0x1001f2a0 (sub_1001F2A0) -> 1001F2A0.c
+
+================================================================================
+Function: sub_10013430
+Address: 0x10013430
+File: 10013430.c
+
+Called by (1 callers):
+  - 0x10013360 (sub_10013360) -> 10013360.c
+
+Calls: none
+
+================================================================================
+Function: sub_10013460
+Address: 0x10013460
+File: 10013460.c
+
+Called by (1 callers):
+  - 0x10013360 (sub_10013360) -> 10013360.c
+
+Calls: none
+
+================================================================================
+Function: sub_100134B0
+Address: 0x100134b0
+File: 100134B0.c
+
+Called by (1 callers):
+  - 0x1000f1f0 (sub_1000F1F0) -> 1000F1F0.c
+
+Calls (5 callees):
+  - 0x100135f0 (sub_100135F0) -> 100135F0.c
+  - 0x10013790 (sub_10013790) -> 10013790.c
+  - 0x10013970 (sub_10013970) -> 10013970.c
+  - 0x100234da (sprintf)
+  - 0x100234ec (malloc) -> 100234EC.c
+
+================================================================================
+Function: sub_100135F0
+Address: 0x100135f0
+File: 100135F0.c
+
+Called by (1 callers):
+  - 0x100134b0 (sub_100134B0) -> 100134B0.c
+
+Calls (6 callees):
+  - 0x10012240 (sub_10012240) -> 10012240.c
+  - 0x10012390 (sub_10012390) -> 10012390.c
+  - 0x10013a20 (sub_10013A20) -> 10013A20.c
+  - 0x10023292 (closesocket) -> 10023292.c
+  - 0x100232d4 (WSACleanup) -> 100232D4.c
+  - 0x100232f7 (@__security_check_cookie@4)
+
+================================================================================
+Function: sub_10013690
+Address: 0x10013690
+File: 10013690.c
+
+Called by (2 callers):
+  - 0x1000f1f0 (sub_1000F1F0) -> 1000F1F0.c
+  - 0x10010fd0 (sub_10010FD0) -> 10010FD0.c
+
+Calls (4 callees):
+  - 0x10013790 (sub_10013790) -> 10013790.c
+  - 0x10013970 (sub_10013970) -> 10013970.c
+  - 0x100234da (sprintf)
+  - 0x100234ec (malloc) -> 100234EC.c
+
+================================================================================
+Function: sub_10013790
+Address: 0x10013790
+File: 10013790.c
+
+Called by (3 callers):
+  - 0x100132c0 (sub_100132C0) -> 100132C0.c
+  - 0x100134b0 (sub_100134B0) -> 100134B0.c
+  - 0x10013690 (sub_10013690) -> 10013690.c
+
+Calls (8 callees):
+  - 0x100112f0 (sub_100112F0) -> 100112F0.c
+  - 0x10011460 (sub_10011460) -> 10011460.c
+  - 0x10011530 (sub_10011530) -> 10011530.c
+  - 0x10011650 (sub_10011650) -> 10011650.c
+  - 0x10013a20 (sub_10013A20) -> 10013A20.c
+  - 0x100232f7 (@__security_check_cookie@4)
+  - 0x100234da (sprintf)
+  - 0x100234ec (malloc) -> 100234EC.c
+
+================================================================================
+Function: sub_10013970
+Address: 0x10013970
+File: 10013970.c
+
+Called by (3 callers):
+  - 0x100132c0 (sub_100132C0) -> 100132C0.c
+  - 0x100134b0 (sub_100134B0) -> 100134B0.c
+  - 0x10013690 (sub_10013690) -> 10013690.c
+
+Calls (2 callees):
+  - 0x100234da (sprintf)
+  - 0x100234ec (malloc) -> 100234EC.c
+
+================================================================================
+Function: sub_10013A20
+Address: 0x10013a20
+File: 10013A20.c
+
+Called by (4 callers):
+  - 0x10012d90 (sub_10012D90) -> 10012D90.c
+  - 0x10012e40 (sub_10012E40) -> 10012E40.c
+  - 0x100135f0 (sub_100135F0) -> 100135F0.c
+  - 0x10013790 (sub_10013790) -> 10013790.c
+
+Calls (1 callees):
+  - 0x100232f7 (@__security_check_cookie@4)
+
+================================================================================
+Function: sub_10013B70
+Address: 0x10013b70
+File: 10013B70.c
+
+Called by (2 callers):
+  - 0x10011890 (sub_10011890) -> 10011890.c
+  - 0x10012c10 (sub_10012C10) -> 10012C10.c
+
+Calls: none
+
+================================================================================
+Function: sub_10013BA0
+Address: 0x10013ba0
+File: 10013BA0.c
+
+Called by (1 callers):
+  - 0x1001ef60 (sub_1001EF60) -> 1001EF60.c
+
+Calls: none
+
+================================================================================
+Function: sub_10013C70
+Address: 0x10013c70
+File: 10013C70.c
+
+Called by (1 callers):
+  - 0x10013ba0 (sub_10013BA0) -> 10013BA0.c
+
+Calls: none
+
+================================================================================
+Function: sub_10013D10
+Address: 0x10013d10
+File: 10013D10.c
+
+Called by (1 callers):
+  - 0x10013db0 (sub_10013DB0) -> 10013DB0.c
+
+Calls: none
+
+================================================================================
+Function: sub_10013D70
+Address: 0x10013d70
+File: 10013D70.c
+
+Called by (2 callers):
+  - 0x10013ba0 (sub_10013BA0) -> 10013BA0.c
+  - 0x10013c70 (sub_10013C70) -> 10013C70.c
+
+Calls: none
+
+================================================================================
+Function: sub_10013DB0
+Address: 0x10013db0
+File: 10013DB0.c
+
+Called by (1 callers):
+  - 0x10013d70 (sub_10013D70) -> 10013D70.c
+
+Calls: none
+
+================================================================================
+Function: sub_10013F50
+Address: 0x10013f50
+File: 10013F50.c
+
+Called by (2 callers):
+  - 0x10013db0 (sub_10013DB0) -> 10013DB0.c
+  - 0x10014520 (sub_10014520) -> 10014520.c
+
+Calls: none
+
+================================================================================
+Function: sub_100144E0
+Address: 0x100144e0
+File: 100144E0.c
+
+Called by (1 callers):
+  - 0x10013f50 (sub_10013F50) -> 10013F50.c
+
+Calls: none
+
+================================================================================
+Function: sub_10014520
+Address: 0x10014520
+File: 10014520.c
+
+Called by (3 callers):
+  - 0x100144e0 (sub_100144E0) -> 100144E0.c
+  - 0x100147a0 (sub_100147A0) -> 100147A0.c
+  - 0x10014880 (sub_10014880) -> 10014880.c
+
+Calls: none
+
+================================================================================
+Function: sub_100145A0
+Address: 0x100145a0
+File: 100145A0.c
+
+Called by (1 callers):
+  - 0x10014520 (sub_10014520) -> 10014520.c
+
+Calls: none
+
+================================================================================
+Function: sub_10014650
+Address: 0x10014650
+File: 10014650.c
+
+Called by (2 callers):
+  - 0x100145a0 (sub_100145A0) -> 100145A0.c
+  - 0x100146c0 (sub_100146C0) -> 100146C0.c
+
+Calls: none
+
+================================================================================
+Function: sub_100146C0
+Address: 0x100146c0
+File: 100146C0.c
+
+Called by (1 callers):
+  - 0x10014650 (sub_10014650) -> 10014650.c
+
+Calls: none
+
+================================================================================
+Function: sub_10014700
+Address: 0x10014700
+File: 10014700.c
+
+Called by (1 callers):
+  - 0x100145a0 (sub_100145A0) -> 100145A0.c
+
+Calls: none
+
+================================================================================
+Function: sub_10014730
+Address: 0x10014730
+File: 10014730.c
+
+Called by (2 callers):
+  - 0x10014700 (sub_10014700) -> 10014700.c
+  - 0x10014760 (sub_10014760)
+
+Calls: none
+
+================================================================================
+Function: sub_100147A0
+Address: 0x100147a0
+File: 100147A0.c
+
+Called by (3 callers):
+  - 0x100145a0 (sub_100145A0) -> 100145A0.c
+  - 0x100146c0 (sub_100146C0) -> 100146C0.c
+  - 0x10014760 (sub_10014760)
+
+Calls: none
+
+================================================================================
+Function: sub_10014880
+Address: 0x10014880
+File: 10014880.c
+
+Called by (1 callers):
+  - 0x100147a0 (sub_100147A0) -> 100147A0.c
+
+Calls: none
+
+================================================================================
+Function: sub_10014D60
+Address: 0x10014d60
+File: 10014D60.c
+
+Called by (22 callers):
+  - 0x10013ba0 (sub_10013BA0) -> 10013BA0.c
+  - 0x10013c70 (sub_10013C70) -> 10013C70.c
+  - 0x10013d10 (sub_10013D10) -> 10013D10.c
+  - 0x10013d70 (sub_10013D70) -> 10013D70.c
+  - 0x10013db0 (sub_10013DB0) -> 10013DB0.c
+  - 0x10013e80 (sub_10013E80)
+  - 0x10013eb0 (sub_10013EB0)
+  - 0x10013f20 (sub_10013F20)
+  - 0x10013f50 (sub_10013F50) -> 10013F50.c
+  - 0x10014080 (sub_10014080)
+  - 0x10014380 (sub_10014380)
+  - 0x100144e0 (sub_100144E0) -> 100144E0.c
+  - 0x10014520 (sub_10014520) -> 10014520.c
+  - 0x100145a0 (sub_100145A0) -> 100145A0.c
+  - 0x10014650 (sub_10014650) -> 10014650.c
+  - 0x100146c0 (sub_100146C0) -> 100146C0.c
+  - 0x10014700 (sub_10014700) -> 10014700.c
+  - 0x10014730 (sub_10014730) -> 10014730.c
+  - 0x10014760 (sub_10014760)
+  - 0x100147a0 (sub_100147A0) -> 100147A0.c
+  - 0x10014880 (sub_10014880) -> 10014880.c
+  - 0x100148b0 (sub_100148B0)
+
+Calls: none
+
+================================================================================
+Function: sub_10014D70
+Address: 0x10014d70
+File: 10014D70.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_10014DB0
+Address: 0x10014db0
+File: 10014DB0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_10014E00
+Address: 0x10014e00
+File: 10014E00.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_10014E40
+Address: 0x10014e40
+File: 10014E40.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_10014E90
+Address: 0x10014e90
+File: 10014E90.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_10014ED0
+Address: 0x10014ed0
+File: 10014ED0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_10014EF0
+Address: 0x10014ef0
+File: 10014EF0.c
+
+Called by (2 callers):
+  - 0x10015040 (sub_10015040) -> 10015040.c
+  - 0x100160b0 (sub_100160B0) -> 100160B0.c
+
+Calls: none
+
+================================================================================
+Function: sub_10015040
+Address: 0x10015040
+File: 10015040.c
+
+Called by (1 callers):
+  - 0x10016cc0 (sub_10016CC0) -> 10016CC0.c
+
+Calls (1 callees):
+  - 0x10014ef0 (sub_10014EF0) -> 10014EF0.c
+
+================================================================================
+Function: sub_10015160
+Address: 0x10015160
+File: 10015160.c
+
+Called by (1 callers):
+  - 0x100151c0 (sub_100151C0) -> 100151C0.c
+
+Calls: none
+
+================================================================================
+Function: sub_100151C0
+Address: 0x100151c0
+File: 100151C0.c
+
+Called by (2 callers):
+  - 0x100160b0 (sub_100160B0) -> 100160B0.c
+  - 0x10016cc0 (sub_10016CC0) -> 10016CC0.c
+
+Calls (1 callees):
+  - 0x10015160 (sub_10015160) -> 10015160.c
+
+================================================================================
+Function: sub_10015530
+Address: 0x10015530
+File: 10015530.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_10015760
+Address: 0x10015760
+File: 10015760.c
+
+Called by (1 callers):
+  - 0x100160b0 (sub_100160B0) -> 100160B0.c
+
+Calls: none
+
+================================================================================
+Function: sub_100159D0
+Address: 0x100159d0
+File: 100159D0.c
+
+Called by (1 callers):
+  - 0x10015a20 (sub_10015A20) -> 10015A20.c
+
+Calls: none
+
+================================================================================
+Function: sub_10015A20
+Address: 0x10015a20
+File: 10015A20.c
+
+Called by (1 callers):
+  - 0x10015a90 (sub_10015A90) -> 10015A90.c
+
+Calls (1 callees):
+  - 0x100159d0 (sub_100159D0) -> 100159D0.c
+
+================================================================================
+Function: sub_10015A90
+Address: 0x10015a90
+File: 10015A90.c
+
+Called by (4 callers):
+  - 0x10015ca0 (sub_10015CA0) -> 10015CA0.c
+  - 0x10016490 (sub_10016490) -> 10016490.c
+  - 0x10017280 (sub_10017280) -> 10017280.c
+  - 0x100173b0 (sub_100173B0) -> 100173B0.c
+
+Calls (1 callees):
+  - 0x10015a20 (sub_10015A20) -> 10015A20.c
+
+================================================================================
+Function: sub_10015CA0
+Address: 0x10015ca0
+File: 10015CA0.c
+
+Called by (1 callers):
+  - 0x100160b0 (sub_100160B0) -> 100160B0.c
+
+Calls (1 callees):
+  - 0x10015a90 (sub_10015A90) -> 10015A90.c
+
+================================================================================
+Function: sub_100160B0
+Address: 0x100160b0
+File: 100160B0.c
+
+Called by (1 callers):
+  - 0x10016490 (sub_10016490) -> 10016490.c
+
+Calls (4 callees):
+  - 0x10014ef0 (sub_10014EF0) -> 10014EF0.c
+  - 0x100151c0 (sub_100151C0) -> 100151C0.c
+  - 0x10015760 (sub_10015760) -> 10015760.c
+  - 0x10015ca0 (sub_10015CA0) -> 10015CA0.c
+
+================================================================================
+Function: sub_10016490
+Address: 0x10016490
+File: 10016490.c
+
+Called by: none
+
+Calls (2 callees):
+  - 0x10015a90 (sub_10015A90) -> 10015A90.c
+  - 0x100160b0 (sub_100160B0) -> 100160B0.c
+
+================================================================================
+Function: sub_10016750
+Address: 0x10016750
+File: 10016750.c
+
+Called by (2 callers):
+  - 0x10016cc0 (sub_10016CC0) -> 10016CC0.c
+  - 0x100173b0 (sub_100173B0) -> 100173B0.c
+
+Calls: none
+
+================================================================================
+Function: sub_10016960
+Address: 0x10016960
+File: 10016960.c
+
+Called by (1 callers):
+  - 0x10016cc0 (sub_10016CC0) -> 10016CC0.c
+
+Calls: none
+
+================================================================================
+Function: sub_10016B50
+Address: 0x10016b50
+File: 10016B50.c
+
+Called by (1 callers):
+  - 0x10016cc0 (sub_10016CC0) -> 10016CC0.c
+
+Calls: none
+
+================================================================================
+Function: sub_10016CC0
+Address: 0x10016cc0
+File: 10016CC0.c
+
+Called by: none
+
+Calls (5 callees):
+  - 0x10015040 (sub_10015040) -> 10015040.c
+  - 0x100151c0 (sub_100151C0) -> 100151C0.c
+  - 0x10016750 (sub_10016750) -> 10016750.c
+  - 0x10016960 (sub_10016960) -> 10016960.c
+  - 0x10016b50 (sub_10016B50) -> 10016B50.c
+
+================================================================================
+Function: sub_10017280
+Address: 0x10017280
+File: 10017280.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10015a90 (sub_10015A90) -> 10015A90.c
+
+================================================================================
+Function: sub_100173B0
+Address: 0x100173b0
+File: 100173B0.c
+
+Called by: none
+
+Calls (2 callees):
+  - 0x10015a90 (sub_10015A90) -> 10015A90.c
+  - 0x10016750 (sub_10016750) -> 10016750.c
+
+================================================================================
+Function: sub_100174D0
+Address: 0x100174d0
+File: 100174D0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_10017580
+Address: 0x10017580
+File: 10017580.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_10017800
+Address: 0x10017800
+File: 10017800.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_10017920
+Address: 0x10017920
+File: 10017920.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_100179C0
+Address: 0x100179c0
+File: 100179C0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_10017AD0
+Address: 0x10017ad0
+File: 10017AD0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_10017B10
+Address: 0x10017b10
+File: 10017B10.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_10017BA0
+Address: 0x10017ba0
+File: 10017BA0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_10017BD0
+Address: 0x10017bd0
+File: 10017BD0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_10017C60
+Address: 0x10017c60
+File: 10017C60.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_10017CD0
+Address: 0x10017cd0
+File: 10017CD0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_10017E10
+Address: 0x10017e10
+File: 10017E10.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_10017E70
+Address: 0x10017e70
+File: 10017E70.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_10017EB0
+Address: 0x10017eb0
+File: 10017EB0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_10017EF0
+Address: 0x10017ef0
+File: 10017EF0.c
+
+Called by (36 callers):
+  - 0x100184b0 (sub_100184B0) -> 100184B0.c
+  - 0x100185c0 (sub_100185C0) -> 100185C0.c
+  - 0x10018780 (sub_10018780) -> 10018780.c
+  - 0x10018c70 (sub_10018C70) -> 10018C70.c
+  - 0x10018e80 (sub_10018E80) -> 10018E80.c
+  - 0x10018ef0 (sub_10018EF0) -> 10018EF0.c
+  - 0x10018f80 (sub_10018F80) -> 10018F80.c
+  - 0x10019140 (sub_10019140) -> 10019140.c
+  - 0x100195f0 (sub_100195F0) -> 100195F0.c
+  - 0x10019bc0 (sub_10019BC0) -> 10019BC0.c
+  - 0x10019d70 (sub_10019D70) -> 10019D70.c
+  - 0x10019f20 (sub_10019F20) -> 10019F20.c
+  - 0x1001a8c0 (sub_1001A8C0) -> 1001A8C0.c
+  - 0x1001a9a0 (sub_1001A9A0) -> 1001A9A0.c
+  - 0x1001ae80 (sub_1001AE80) -> 1001AE80.c
+  - 0x1001aff0 (sub_1001AFF0) -> 1001AFF0.c
+  - 0x1001b070 (sub_1001B070) -> 1001B070.c
+  - 0x1001b0b0 (sub_1001B0B0) -> 1001B0B0.c
+  - 0x1001b160 (sub_1001B160) -> 1001B160.c
+  - 0x1001b280 (sub_1001B280) -> 1001B280.c
+  - 0x1001b440 (sub_1001B440) -> 1001B440.c
+  - 0x1001b980 (sub_1001B980) -> 1001B980.c
+  - 0x1001bb90 (sub_1001BB90) -> 1001BB90.c
+  - 0x1001bc10 (sub_1001BC10) -> 1001BC10.c
+  - 0x1001bca0 (sub_1001BCA0) -> 1001BCA0.c
+  - 0x1001be60 (sub_1001BE60) -> 1001BE60.c
+  - 0x1001c330 (sub_1001C330) -> 1001C330.c
+  - 0x1001c910 (sub_1001C910) -> 1001C910.c
+  - 0x1001cac0 (sub_1001CAC0) -> 1001CAC0.c
+  - 0x1001cc70 (sub_1001CC70) -> 1001CC70.c
+  - 0x1001d5d0 (sub_1001D5D0) -> 1001D5D0.c
+  - 0x1001d6b0 (sub_1001D6B0) -> 1001D6B0.c
+  - 0x1001db90 (sub_1001DB90) -> 1001DB90.c
+  - 0x1001dd00 (sub_1001DD00) -> 1001DD00.c
+  - 0x1001dd90 (sub_1001DD90) -> 1001DD90.c
+  - 0x1001dde0 (sub_1001DDE0) -> 1001DDE0.c
+
+Calls: none
+
+================================================================================
+Function: sub_10017F70
+Address: 0x10017f70
+File: 10017F70.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_100181B0
+Address: 0x100181b0
+File: 100181B0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_10018210
+Address: 0x10018210
+File: 10018210.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_10018450
+Address: 0x10018450
+File: 10018450.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_100184B0
+Address: 0x100184b0
+File: 100184B0.c
+
+Called by (2 callers):
+  - 0x100185c0 (sub_100185C0) -> 100185C0.c
+  - 0x100195f0 (sub_100195F0) -> 100195F0.c
+
+Calls (1 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+
+================================================================================
+Function: sub_100185C0
+Address: 0x100185c0
+File: 100185C0.c
+
+Called by: none
+
+Calls (2 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+  - 0x100184b0 (sub_100184B0) -> 100184B0.c
+
+================================================================================
+Function: sub_10018710
+Address: 0x10018710
+File: 10018710.c
+
+Called by (1 callers):
+  - 0x10018780 (sub_10018780) -> 10018780.c
+
+Calls: none
+
+================================================================================
+Function: sub_10018780
+Address: 0x10018780
+File: 10018780.c
+
+Called by (1 callers):
+  - 0x100195f0 (sub_100195F0) -> 100195F0.c
+
+Calls (2 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+  - 0x10018710 (sub_10018710) -> 10018710.c
+
+================================================================================
+Function: sub_10018C70
+Address: 0x10018c70
+File: 10018C70.c
+
+Called by (1 callers):
+  - 0x100195f0 (sub_100195F0) -> 100195F0.c
+
+Calls (1 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+
+================================================================================
+Function: sub_10018E80
+Address: 0x10018e80
+File: 10018E80.c
+
+Called by (1 callers):
+  - 0x10018ef0 (sub_10018EF0) -> 10018EF0.c
+
+Calls (1 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+
+================================================================================
+Function: sub_10018EF0
+Address: 0x10018ef0
+File: 10018EF0.c
+
+Called by (1 callers):
+  - 0x10018f80 (sub_10018F80) -> 10018F80.c
+
+Calls (2 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+  - 0x10018e80 (sub_10018E80) -> 10018E80.c
+
+================================================================================
+Function: sub_10018F80
+Address: 0x10018f80
+File: 10018F80.c
+
+Called by (1 callers):
+  - 0x10019140 (sub_10019140) -> 10019140.c
+
+Calls (2 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+  - 0x10018ef0 (sub_10018EF0) -> 10018EF0.c
+
+================================================================================
+Function: sub_10019140
+Address: 0x10019140
+File: 10019140.c
+
+Called by (1 callers):
+  - 0x100195f0 (sub_100195F0) -> 100195F0.c
+
+Calls (2 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+  - 0x10018f80 (sub_10018F80) -> 10018F80.c
+
+================================================================================
+Function: sub_100195F0
+Address: 0x100195f0
+File: 100195F0.c
+
+Called by: none
+
+Calls (5 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+  - 0x100184b0 (sub_100184B0) -> 100184B0.c
+  - 0x10018780 (sub_10018780) -> 10018780.c
+  - 0x10018c70 (sub_10018C70) -> 10018C70.c
+  - 0x10019140 (sub_10019140) -> 10019140.c
+
+================================================================================
+Function: sub_10019BC0
+Address: 0x10019bc0
+File: 10019BC0.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+
+================================================================================
+Function: sub_10019D70
+Address: 0x10019d70
+File: 10019D70.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+
+================================================================================
+Function: sub_10019F20
+Address: 0x10019f20
+File: 10019F20.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+
+================================================================================
+Function: sub_1001A8C0
+Address: 0x1001a8c0
+File: 1001A8C0.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+
+================================================================================
+Function: sub_1001A9A0
+Address: 0x1001a9a0
+File: 1001A9A0.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+
+================================================================================
+Function: sub_1001AC40
+Address: 0x1001ac40
+File: 1001AC40.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_1001AD60
+Address: 0x1001ad60
+File: 1001AD60.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_1001AE80
+Address: 0x1001ae80
+File: 1001AE80.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+
+================================================================================
+Function: sub_1001AFB0
+Address: 0x1001afb0
+File: 1001AFB0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_1001AFF0
+Address: 0x1001aff0
+File: 1001AFF0.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+
+================================================================================
+Function: sub_1001B070
+Address: 0x1001b070
+File: 1001B070.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+
+================================================================================
+Function: sub_1001B0B0
+Address: 0x1001b0b0
+File: 1001B0B0.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+
+================================================================================
+Function: sub_1001B160
+Address: 0x1001b160
+File: 1001B160.c
+
+Called by (2 callers):
+  - 0x1001b280 (sub_1001B280) -> 1001B280.c
+  - 0x1001c330 (sub_1001C330) -> 1001C330.c
+
+Calls (1 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+
+================================================================================
+Function: sub_1001B280
+Address: 0x1001b280
+File: 1001B280.c
+
+Called by: none
+
+Calls (2 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+  - 0x1001b160 (sub_1001B160) -> 1001B160.c
+
+================================================================================
+Function: sub_1001B3D0
+Address: 0x1001b3d0
+File: 1001B3D0.c
+
+Called by (1 callers):
+  - 0x1001b440 (sub_1001B440) -> 1001B440.c
+
+Calls: none
+
+================================================================================
+Function: sub_1001B440
+Address: 0x1001b440
+File: 1001B440.c
+
+Called by (1 callers):
+  - 0x1001c330 (sub_1001C330) -> 1001C330.c
+
+Calls (2 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+  - 0x1001b3d0 (sub_1001B3D0) -> 1001B3D0.c
+
+================================================================================
+Function: sub_1001B980
+Address: 0x1001b980
+File: 1001B980.c
+
+Called by (1 callers):
+  - 0x1001c330 (sub_1001C330) -> 1001C330.c
+
+Calls (1 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+
+================================================================================
+Function: sub_1001BB90
+Address: 0x1001bb90
+File: 1001BB90.c
+
+Called by (1 callers):
+  - 0x1001bc10 (sub_1001BC10) -> 1001BC10.c
+
+Calls (1 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+
+================================================================================
+Function: sub_1001BC10
+Address: 0x1001bc10
+File: 1001BC10.c
+
+Called by (1 callers):
+  - 0x1001bca0 (sub_1001BCA0) -> 1001BCA0.c
+
+Calls (2 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+  - 0x1001bb90 (sub_1001BB90) -> 1001BB90.c
+
+================================================================================
+Function: sub_1001BCA0
+Address: 0x1001bca0
+File: 1001BCA0.c
+
+Called by (1 callers):
+  - 0x1001be60 (sub_1001BE60) -> 1001BE60.c
+
+Calls (2 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+  - 0x1001bc10 (sub_1001BC10) -> 1001BC10.c
+
+================================================================================
+Function: sub_1001BE60
+Address: 0x1001be60
+File: 1001BE60.c
+
+Called by (1 callers):
+  - 0x1001c330 (sub_1001C330) -> 1001C330.c
+
+Calls (2 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+  - 0x1001bca0 (sub_1001BCA0) -> 1001BCA0.c
+
+================================================================================
+Function: sub_1001C330
+Address: 0x1001c330
+File: 1001C330.c
+
+Called by: none
+
+Calls (5 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+  - 0x1001b160 (sub_1001B160) -> 1001B160.c
+  - 0x1001b440 (sub_1001B440) -> 1001B440.c
+  - 0x1001b980 (sub_1001B980) -> 1001B980.c
+  - 0x1001be60 (sub_1001BE60) -> 1001BE60.c
+
+================================================================================
+Function: sub_1001C910
+Address: 0x1001c910
+File: 1001C910.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+
+================================================================================
+Function: sub_1001CAC0
+Address: 0x1001cac0
+File: 1001CAC0.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+
+================================================================================
+Function: sub_1001CC70
+Address: 0x1001cc70
+File: 1001CC70.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+
+================================================================================
+Function: sub_1001D5D0
+Address: 0x1001d5d0
+File: 1001D5D0.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+
+================================================================================
+Function: sub_1001D6B0
+Address: 0x1001d6b0
+File: 1001D6B0.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+
+================================================================================
+Function: sub_1001D950
+Address: 0x1001d950
+File: 1001D950.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_1001DA70
+Address: 0x1001da70
+File: 1001DA70.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_1001DB90
+Address: 0x1001db90
+File: 1001DB90.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+
+================================================================================
+Function: sub_1001DCC0
+Address: 0x1001dcc0
+File: 1001DCC0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: sub_1001DD00
+Address: 0x1001dd00
+File: 1001DD00.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+
+================================================================================
+Function: sub_1001DD90
+Address: 0x1001dd90
+File: 1001DD90.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+
+================================================================================
+Function: sub_1001DDE0
+Address: 0x1001dde0
+File: 1001DDE0.c
+
+Called by: none
+
+Calls (1 callees):
+  - 0x10017ef0 (sub_10017EF0) -> 10017EF0.c
+
+================================================================================
+Function: sub_1001DE90
+Address: 0x1001de90
+File: 1001DE90.c
+
+Called by (3 callers):
+  - 0x1001ea40 (sub_1001EA40) -> 1001EA40.c
+  - 0x1001edd0 (sub_1001EDD0) -> 1001EDD0.c
+  - 0x1001ee40 (sub_1001EE40) -> 1001EE40.c
+
+Calls: none
+
+================================================================================
+Function: sub_1001DEE0
+Address: 0x1001dee0
+File: 1001DEE0.c
+
+Called by (2 callers):
+  - 0x1001df70 (sub_1001DF70) -> 1001DF70.c
+  - 0x1001e290 (sub_1001E290) -> 1001E290.c
+
+Calls: none
+
+================================================================================
+Function: sub_1001DF30
+Address: 0x1001df30
+File: 1001DF30.c
+
+Called by (2 callers):
+  - 0x1001df70 (sub_1001DF70) -> 1001DF70.c
+  - 0x1001e290 (sub_1001E290) -> 1001E290.c
+
+Calls: none
+
+================================================================================
+Function: sub_1001DF70
+Address: 0x1001df70
+File: 1001DF70.c
+
+Called by (1 callers):
+  - 0x1001e290 (sub_1001E290) -> 1001E290.c
+
+Calls (2 callees):
+  - 0x1001dee0 (sub_1001DEE0) -> 1001DEE0.c
+  - 0x1001df30 (sub_1001DF30) -> 1001DF30.c
+
+================================================================================
+Function: sub_1001E290
+Address: 0x1001e290
+File: 1001E290.c
+
+Called by (1 callers):
+  - 0x1001ef20 (sub_1001EF20) -> 1001EF20.c
+
+Calls (4 callees):
+  - 0x1001dee0 (sub_1001DEE0) -> 1001DEE0.c
+  - 0x1001df30 (sub_1001DF30) -> 1001DF30.c
+  - 0x1001df70 (sub_1001DF70) -> 1001DF70.c
+  - 0x1001ee40 (sub_1001EE40) -> 1001EE40.c
+
+================================================================================
+Function: sub_1001E520
+Address: 0x1001e520
+File: 1001E520.c
+
+Called by (5 callers):
+  - 0x1001e6f0 (sub_1001E6F0) -> 1001E6F0.c
+  - 0x1001e800 (sub_1001E800) -> 1001E800.c
+  - 0x1001f4a0 (sub_1001F4A0) -> 1001F4A0.c
+  - 0x10021cd0 (sub_10021CD0) -> 10021CD0.c
+  - 0x10022080 (sub_10022080) -> 10022080.c
+
+Calls: none
+
+================================================================================
+Function: sub_1001E620
+Address: 0x1001e620
+File: 1001E620.c
+
+Called by (1 callers):
+  - 0x1001e800 (sub_1001E800) -> 1001E800.c
+
+Calls: none
+
+================================================================================
+Function: sub_1001E680
+Address: 0x1001e680
+File: 1001E680.c
+
+Called by (1 callers):
+  - 0x1001e800 (sub_1001E800) -> 1001E800.c
+
+Calls: none
+
+================================================================================
+Function: sub_1001E6F0
+Address: 0x1001e6f0
+File: 1001E6F0.c
+
+Called by (1 callers):
+  - 0x1001e800 (sub_1001E800) -> 1001E800.c
+
+Calls (1 callees):
+  - 0x1001e520 (sub_1001E520) -> 1001E520.c
+
+================================================================================
+Function: sub_1001E790
+Address: 0x1001e790
+File: 1001E790.c
+
+Called by (1 callers):
+  - 0x1001e800 (sub_1001E800) -> 1001E800.c
+
+Calls: none
+
+================================================================================
+Function: sub_1001E800
+Address: 0x1001e800
+File: 1001E800.c
+
+Called by (1 callers):
+  - 0x10020d60 (sub_10020D60) -> 10020D60.c
+
+Calls (1 callees):
+  - 0x1001e520 (sub_1001E520) -> 1001E520.c
+
+================================================================================
+Function: sub_1001EA40
+Address: 0x1001ea40
+File: 1001EA40.c
+
+Called by (1 callers):
+  - 0x1001ee40 (sub_1001EE40) -> 1001EE40.c
+
+Calls (1 callees):
+  - 0x1001de90 (sub_1001DE90) -> 1001DE90.c
+
+================================================================================
+Function: sub_1001EA80
+Address: 0x1001ea80
+File: 1001EA80.c
+
+Called by (1 callers):
+  - 0x1001edb0 (sub_1001EDB0) -> 1001EDB0.c
+
+Calls: none
+
+================================================================================
+Function: sub_1001EC90
+Address: 0x1001ec90
+File: 1001EC90.c
+
+Called by (2 callers):
+  - 0x1001edd0 (sub_1001EDD0) -> 1001EDD0.c
+  - 0x1001ef60 (sub_1001EF60) -> 1001EF60.c
+
+Calls: none
+
+================================================================================
+Function: sub_1001EDB0
+Address: 0x1001edb0
+File: 1001EDB0.c
+
+Called by (2 callers):
+  - 0x1001edd0 (sub_1001EDD0) -> 1001EDD0.c
+  - 0x1001ef60 (sub_1001EF60) -> 1001EF60.c
+
+Calls (1 callees):
+  - 0x1001ea80 (sub_1001EA80) -> 1001EA80.c
+
+================================================================================
+Function: sub_1001EDD0
+Address: 0x1001edd0
+File: 1001EDD0.c
+
+Called by (1 callers):
+  - 0x10020e70 (sub_10020E70) -> 10020E70.c
+
+Calls (1 callees):
+  - 0x1001de90 (sub_1001DE90) -> 1001DE90.c
+
+================================================================================
+Function: sub_1001EE40
+Address: 0x1001ee40
+File: 1001EE40.c
+
+Called by (1 callers):
+  - 0x1001e290 (sub_1001E290) -> 1001E290.c
+
+Calls (3 callees):
+  - 0x1001de90 (sub_1001DE90) -> 1001DE90.c
+  - 0x1001ea40 (sub_1001EA40) -> 1001EA40.c
+  - 0x100232f7 (@__security_check_cookie@4)
+
+================================================================================
+Function: sub_1001EF20
+Address: 0x1001ef20
+File: 1001EF20.c
+
+Called by (1 callers):
+  - 0x10020c10 (sub_10020C10) -> 10020C10.c
+
+Calls (1 callees):
+  - 0x1001e290 (sub_1001E290) -> 1001E290.c
+
+================================================================================
+Function: sub_1001EF60
+Address: 0x1001ef60
+File: 1001EF60.c
+
+Called by (2 callers):
+  - 0x10012e40 (sub_10012E40) -> 10012E40.c
+  - 0x10013360 (sub_10013360) -> 10013360.c
+
+Calls (3 callees):
+  - 0x1001f170 (sub_1001F170) -> 1001F170.c
+  - 0x10022c30 (sub_10022C30) -> 10022C30.c
+  - 0x100234ec (malloc) -> 100234EC.c
+
+================================================================================
+Function: sub_1001F170
+Address: 0x1001f170
+File: 1001F170.c
+
+Called by (3 callers):
+  - 0x10012e40 (sub_10012E40) -> 10012E40.c
+  - 0x10013360 (sub_10013360) -> 10013360.c
+  - 0x1001ef60 (sub_1001EF60) -> 1001EF60.c
+
+Calls (2 callees):
+  - 0x10022c90 (sub_10022C90) -> 10022C90.c
+  - 0x10022fe0 (sub_10022FE0) -> 10022FE0.c
+
+================================================================================
+Function: sub_1001F2A0
+Address: 0x1001f2a0
+File: 1001F2A0.c
+
+Called by (2 callers):
+  - 0x10012e40 (sub_10012E40) -> 10012E40.c
+  - 0x10013360 (sub_10013360) -> 10013360.c
+
+Calls (3 callees):
+  - 0x1001f330 (sub_1001F330) -> 1001F330.c
+  - 0x1001f3b0 (sub_1001F3B0) -> 1001F3B0.c
+  - 0x10023bb2 (memcpy) -> 10023BB2.c
+
+================================================================================
+Function: sub_1001F330
+Address: 0x1001f330
+File: 1001F330.c
+
+Called by (1 callers):
+  - 0x1001f2a0 (sub_1001F2A0) -> 1001F2A0.c
+
+Calls: none
+
+================================================================================
+Function: sub_1001F3B0
+Address: 0x1001f3b0
+File: 1001F3B0.c
+
+Called by (1 callers):
+  - 0x1001f2a0 (sub_1001F2A0) -> 1001F2A0.c
+
+Calls (2 callees):
+  - 0x100234ec (malloc) -> 100234EC.c
+  - 0x10023bb2 (memcpy) -> 10023BB2.c
+
+================================================================================
+Function: sub_1001F470
+Address: 0x1001f470
+File: 1001F470.c
+
+Called by (2 callers):
+  - 0x10020910 (sub_10020910) -> 10020910.c
+  - 0x10020f30 (sub_10020F30) -> 10020F30.c
+
+Calls (1 callees):
+  - 0x1001f4a0 (sub_1001F4A0) -> 1001F4A0.c
+
+================================================================================
+Function: sub_1001F4A0
+Address: 0x1001f4a0
+File: 1001F4A0.c
+
+Called by (3 callers):
+  - 0x1001f470 (sub_1001F470) -> 1001F470.c
+  - 0x1001f4a0 (sub_1001F4A0) -> 1001F4A0.c
+  - 0x10020910 (sub_10020910) -> 10020910.c
+
+Calls (15 callees):
+  - 0x1001e520 (sub_1001E520) -> 1001E520.c
+  - 0x1001f4a0 (sub_1001F4A0) -> 1001F4A0.c
+  - 0x10020130 (sub_10020130) -> 10020130.c
+  - 0x10020960 (sub_10020960) -> 10020960.c
+  - 0x10021ad0 (sub_10021AD0) -> 10021AD0.c
+  - 0x10022290 (sub_10022290) -> 10022290.c
+  - 0x100223b0 (sub_100223B0) -> 100223B0.c
+  - 0x10022450 (sub_10022450) -> 10022450.c
+  - 0x100228d0 (sub_100228D0) -> 100228D0.c
+  - 0x10022d40 (sub_10022D40) -> 10022D40.c
+  - 0x10022fa0 (sub_10022FA0) -> 10022FA0.c
+  - 0x10023030 (sub_10023030) -> 10023030.c
+  - 0x10023100 (sub_10023100) -> 10023100.c
+  - 0x100234ec (malloc) -> 100234EC.c
+  - 0x10023bb2 (memcpy) -> 10023BB2.c
+
+================================================================================
+Function: sub_10020130
+Address: 0x10020130
+File: 10020130.c
+
+Called by (1 callers):
+  - 0x1001f4a0 (sub_1001F4A0) -> 1001F4A0.c
+
+Calls (10 callees):
+  - 0x100207f0 (sub_100207F0) -> 100207F0.c
+  - 0x10021cd0 (sub_10021CD0) -> 10021CD0.c
+  - 0x100225a0 (sub_100225A0) -> 100225A0.c
+  - 0x10022690 (sub_10022690) -> 10022690.c
+  - 0x10022d40 (sub_10022D40) -> 10022D40.c
+  - 0x10023030 (sub_10023030) -> 10023030.c
+  - 0x10023090 (sub_10023090) -> 10023090.c
+  - 0x10023100 (sub_10023100) -> 10023100.c
+  - 0x100234ec (malloc) -> 100234EC.c
+  - 0x10023bb2 (memcpy) -> 10023BB2.c
+
+================================================================================
+Function: sub_100207F0
+Address: 0x100207f0
+File: 100207F0.c
+
+Called by (1 callers):
+  - 0x10020130 (sub_10020130) -> 10020130.c
+
+Calls (2 callees):
+  - 0x100234ec (malloc) -> 100234EC.c
+  - 0x10023bb2 (memcpy) -> 10023BB2.c
+
+================================================================================
+Function: sub_10020910
+Address: 0x10020910
+File: 10020910.c
+
+Called by (1 callers):
+  - 0x1001f4a0 (sub_1001F4A0) -> 1001F4A0.c
+
+Calls (2 callees):
+  - 0x1001f4a0 (sub_1001F4A0) -> 1001F4A0.c
+  - 0x10020960 (sub_10020960) -> 10020960.c
+
+================================================================================
+Function: sub_10020960
+Address: 0x10020960
+File: 10020960.c
+
+Called by (2 callers):
+  - 0x1001f4a0 (sub_1001F4A0) -> 1001F4A0.c
+  - 0x10020910 (sub_10020910) -> 10020910.c
+
+Calls (1 callees):
+  - 0x10022450 (sub_10022450) -> 10022450.c
+
+================================================================================
+Function: sub_10020C10
+Address: 0x10020c10
+File: 10020C10.c
+
+Called by (1 callers):
+  - 0x10020f30 (sub_10020F30) -> 10020F30.c
+
+Calls (5 callees):
+  - 0x1001ef20 (sub_1001EF20) -> 1001EF20.c
+  - 0x10020d60 (sub_10020D60) -> 10020D60.c
+  - 0x10022450 (sub_10022450) -> 10022450.c
+  - 0x10023030 (sub_10023030) -> 10023030.c
+  - 0x100230d0 (sub_100230D0) -> 100230D0.c
+
+================================================================================
+Function: sub_10020D60
+Address: 0x10020d60
+File: 10020D60.c
+
+Called by (2 callers):
+  - 0x10020c10 (sub_10020C10) -> 10020C10.c
+  - 0x10020e70 (sub_10020E70) -> 10020E70.c
+
+Calls (2 callees):
+  - 0x1001e800 (sub_1001E800) -> 1001E800.c
+  - 0x100234ec (malloc) -> 100234EC.c
+
+================================================================================
+Function: sub_10020E70
+Address: 0x10020e70
+File: 10020E70.c
+
+Called by (1 callers):
+  - 0x1001ef60 (sub_1001EF60) -> 1001EF60.c
+
+Calls (3 callees):
+  - 0x1001edd0 (sub_1001EDD0) -> 1001EDD0.c
+  - 0x10020d60 (sub_10020D60) -> 10020D60.c
+  - 0x10020f30 (sub_10020F30) -> 10020F30.c
+
+================================================================================
+Function: sub_10020EF0
+Address: 0x10020ef0
+File: 10020EF0.c
+
+Called by (1 callers):
+  - 0x10020e70 (sub_10020E70) -> 10020E70.c
+
+Calls (1 callees):
+  - 0x10020f30 (sub_10020F30) -> 10020F30.c
+
+================================================================================
+Function: sub_10020F30
+Address: 0x10020f30
+File: 10020F30.c
+
+Called by (2 callers):
+  - 0x10020e70 (sub_10020E70) -> 10020E70.c
+  - 0x10020ef0 (sub_10020EF0) -> 10020EF0.c
+
+Calls (17 callees):
+  - 0x1001f470 (sub_1001F470) -> 1001F470.c
+  - 0x10020c10 (sub_10020C10) -> 10020C10.c
+  - 0x10021c70 (sub_10021C70) -> 10021C70.c
+  - 0x10022080 (sub_10022080) -> 10022080.c
+  - 0x10022290 (sub_10022290) -> 10022290.c
+  - 0x100223b0 (sub_100223B0) -> 100223B0.c
+  - 0x10022450 (sub_10022450) -> 10022450.c
+  - 0x100224f0 (sub_100224F0) -> 100224F0.c
+  - 0x100225a0 (sub_100225A0) -> 100225A0.c
+  - 0x10022690 (sub_10022690) -> 10022690.c
+  - 0x10022be0 (sub_10022BE0) -> 10022BE0.c
+  - 0x10022d40 (sub_10022D40) -> 10022D40.c
+  - 0x10022fa0 (sub_10022FA0) -> 10022FA0.c
+  - 0x10023030 (sub_10023030) -> 10023030.c
+  - 0x100230d0 (sub_100230D0) -> 100230D0.c
+  - 0x10023100 (sub_10023100) -> 10023100.c
+  - 0x100234ec (malloc) -> 100234EC.c
+
+================================================================================
+Function: sub_10021AD0
+Address: 0x10021ad0
+File: 10021AD0.c
+
+Called by (2 callers):
+  - 0x1001f4a0 (sub_1001F4A0) -> 1001F4A0.c
+  - 0x10021ad0 (sub_10021AD0) -> 10021AD0.c
+
+Calls (3 callees):
+  - 0x10022290 (sub_10022290) -> 10022290.c
+  - 0x100223b0 (sub_100223B0) -> 100223B0.c
+  - 0x10022450 (sub_10022450) -> 10022450.c
+
+================================================================================
+Function: sub_10021C60
+Address: 0x10021c60
+File: 10021C60.c
+
+Called by (2 callers):
+  - 0x1001f2a0 (sub_1001F2A0) -> 1001F2A0.c
+  - 0x1001f330 (sub_1001F330) -> 1001F330.c
+
+Calls: none
+
+================================================================================
+Function: sub_10021C70
+Address: 0x10021c70
+File: 10021C70.c
+
+Called by (1 callers):
+  - 0x10020f30 (sub_10020F30) -> 10020F30.c
+
+Calls (2 callees):
+  - 0x10021cd0 (sub_10021CD0) -> 10021CD0.c
+  - 0x10023100 (sub_10023100) -> 10023100.c
+
+================================================================================
+Function: sub_10021CD0
+Address: 0x10021cd0
+File: 10021CD0.c
+
+Called by (3 callers):
+  - 0x10020130 (sub_10020130) -> 10020130.c
+  - 0x10021c70 (sub_10021C70) -> 10021C70.c
+  - 0x10021cd0 (sub_10021CD0) -> 10021CD0.c
+
+Calls (5 callees):
+  - 0x1001e520 (sub_1001E520) -> 1001E520.c
+  - 0x10021cd0 (sub_10021CD0) -> 10021CD0.c
+  - 0x10022d40 (sub_10022D40) -> 10022D40.c
+  - 0x10023030 (sub_10023030) -> 10023030.c
+  - 0x10023100 (sub_10023100) -> 10023100.c
+
+================================================================================
+Function: sub_10022080
+Address: 0x10022080
+File: 10022080.c
+
+Called by (1 callers):
+  - 0x10020f30 (sub_10020F30) -> 10020F30.c
+
+Calls (3 callees):
+  - 0x1001e520 (sub_1001E520) -> 1001E520.c
+  - 0x10023030 (sub_10023030) -> 10023030.c
+  - 0x10023100 (sub_10023100) -> 10023100.c
+
+================================================================================
+Function: sub_10022250
+Address: 0x10022250
+File: 10022250.c
+
+Called by (2 callers):
+  - 0x10022290 (sub_10022290) -> 10022290.c
+  - 0x100223b0 (sub_100223B0) -> 100223B0.c
+
+Calls: none
+
+================================================================================
+Function: sub_10022290
+Address: 0x10022290
+File: 10022290.c
+
+Called by (3 callers):
+  - 0x1001f4a0 (sub_1001F4A0) -> 1001F4A0.c
+  - 0x10020f30 (sub_10020F30) -> 10020F30.c
+  - 0x10021ad0 (sub_10021AD0) -> 10021AD0.c
+
+Calls (5 callees):
+  - 0x10022250 (sub_10022250) -> 10022250.c
+  - 0x10022450 (sub_10022450) -> 10022450.c
+  - 0x10022fa0 (sub_10022FA0) -> 10022FA0.c
+  - 0x10023030 (sub_10023030) -> 10023030.c
+  - 0x10023100 (sub_10023100) -> 10023100.c
+
+================================================================================
+Function: sub_100223B0
+Address: 0x100223b0
+File: 100223B0.c
+
+Called by (3 callers):
+  - 0x1001f4a0 (sub_1001F4A0) -> 1001F4A0.c
+  - 0x10020f30 (sub_10020F30) -> 10020F30.c
+  - 0x10021ad0 (sub_10021AD0) -> 10021AD0.c
+
+Calls (5 callees):
+  - 0x10022250 (sub_10022250) -> 10022250.c
+  - 0x10022450 (sub_10022450) -> 10022450.c
+  - 0x10022fa0 (sub_10022FA0) -> 10022FA0.c
+  - 0x10023030 (sub_10023030) -> 10023030.c
+  - 0x10023100 (sub_10023100) -> 10023100.c
+
+================================================================================
+Function: sub_10022450
+Address: 0x10022450
+File: 10022450.c
+
+Called by (7 callers):
+  - 0x1001f4a0 (sub_1001F4A0) -> 1001F4A0.c
+  - 0x10020960 (sub_10020960) -> 10020960.c
+  - 0x10020c10 (sub_10020C10) -> 10020C10.c
+  - 0x10020f30 (sub_10020F30) -> 10020F30.c
+  - 0x10021ad0 (sub_10021AD0) -> 10021AD0.c
+  - 0x10022290 (sub_10022290) -> 10022290.c
+  - 0x100223b0 (sub_100223B0) -> 100223B0.c
+
+Calls: none
+
+================================================================================
+Function: sub_100224F0
+Address: 0x100224f0
+File: 100224F0.c
+
+Called by (1 callers):
+  - 0x10020f30 (sub_10020F30) -> 10020F30.c
+
+Calls (1 callees):
+  - 0x100234ec (malloc) -> 100234EC.c
+
+================================================================================
+Function: sub_100225A0
+Address: 0x100225a0
+File: 100225A0.c
+
+Called by (2 callers):
+  - 0x10020130 (sub_10020130) -> 10020130.c
+  - 0x10020f30 (sub_10020F30) -> 10020F30.c
+
+Calls (2 callees):
+  - 0x10022d40 (sub_10022D40) -> 10022D40.c
+  - 0x10023100 (sub_10023100) -> 10023100.c
+
+================================================================================
+Function: sub_10022690
+Address: 0x10022690
+File: 10022690.c
+
+Called by (2 callers):
+  - 0x10020130 (sub_10020130) -> 10020130.c
+  - 0x10020f30 (sub_10020F30) -> 10020F30.c
+
+Calls (3 callees):
+  - 0x10022d40 (sub_10022D40) -> 10022D40.c
+  - 0x10023030 (sub_10023030) -> 10023030.c
+  - 0x10023100 (sub_10023100) -> 10023100.c
+
+================================================================================
+Function: sub_100228D0
+Address: 0x100228d0
+File: 100228D0.c
+
+Called by (1 callers):
+  - 0x1001f4a0 (sub_1001F4A0) -> 1001F4A0.c
+
+Calls (1 callees):
+  - 0x10023100 (sub_10023100) -> 10023100.c
+
+================================================================================
+Function: sub_10022BE0
+Address: 0x10022be0
+File: 10022BE0.c
+
+Called by (1 callers):
+  - 0x10020f30 (sub_10020F30) -> 10020F30.c
+
+Calls: none
+
+================================================================================
+Function: sub_10022C30
+Address: 0x10022c30
+File: 10022C30.c
+
+Called by (1 callers):
+  - 0x1001ef60 (sub_1001EF60) -> 1001EF60.c
+
+Calls: none
+
+================================================================================
+Function: sub_10022C90
+Address: 0x10022c90
+File: 10022C90.c
+
+Called by (1 callers):
+  - 0x1001f170 (sub_1001F170) -> 1001F170.c
+
+Calls (2 callees):
+  - 0x10022f60 (sub_10022F60) -> 10022F60.c
+  - 0x10022fe0 (sub_10022FE0) -> 10022FE0.c
+
+================================================================================
+Function: sub_10022D10
+Address: 0x10022d10
+File: 10022D10.c
+
+Called by (1 callers):
+  - 0x10022d40 (sub_10022D40) -> 10022D40.c
+
+Calls: none
+
+================================================================================
+Function: sub_10022D40
+Address: 0x10022d40
+File: 10022D40.c
+
+Called by (6 callers):
+  - 0x1001f4a0 (sub_1001F4A0) -> 1001F4A0.c
+  - 0x10020130 (sub_10020130) -> 10020130.c
+  - 0x10020f30 (sub_10020F30) -> 10020F30.c
+  - 0x10021cd0 (sub_10021CD0) -> 10021CD0.c
+  - 0x100225a0 (sub_100225A0) -> 100225A0.c
+  - 0x10022690 (sub_10022690) -> 10022690.c
+
+Calls (1 callees):
+  - 0x10022d10 (sub_10022D10) -> 10022D10.c
+
+================================================================================
+Function: sub_10022F60
+Address: 0x10022f60
+File: 10022F60.c
+
+Called by (1 callers):
+  - 0x10022c90 (sub_10022C90) -> 10022C90.c
+
+Calls: none
+
+================================================================================
+Function: sub_10022FA0
+Address: 0x10022fa0
+File: 10022FA0.c
+
+Called by (4 callers):
+  - 0x1001f4a0 (sub_1001F4A0) -> 1001F4A0.c
+  - 0x10020f30 (sub_10020F30) -> 10020F30.c
+  - 0x10022290 (sub_10022290) -> 10022290.c
+  - 0x100223b0 (sub_100223B0) -> 100223B0.c
+
+Calls: none
+
+================================================================================
+Function: sub_10022FE0
+Address: 0x10022fe0
+File: 10022FE0.c
+
+Called by (2 callers):
+  - 0x1001f170 (sub_1001F170) -> 1001F170.c
+  - 0x10022c90 (sub_10022C90) -> 10022C90.c
+
+Calls: none
+
+================================================================================
+Function: sub_10023030
+Address: 0x10023030
+File: 10023030.c
+
+Called by (9 callers):
+  - 0x1001f4a0 (sub_1001F4A0) -> 1001F4A0.c
+  - 0x10020130 (sub_10020130) -> 10020130.c
+  - 0x10020c10 (sub_10020C10) -> 10020C10.c
+  - 0x10020f30 (sub_10020F30) -> 10020F30.c
+  - 0x10021cd0 (sub_10021CD0) -> 10021CD0.c
+  - 0x10022080 (sub_10022080) -> 10022080.c
+  - 0x10022290 (sub_10022290) -> 10022290.c
+  - 0x100223b0 (sub_100223B0) -> 100223B0.c
+  - 0x10022690 (sub_10022690) -> 10022690.c
+
+Calls (1 callees):
+  - 0x10023100 (sub_10023100) -> 10023100.c
+
+================================================================================
+Function: sub_10023090
+Address: 0x10023090
+File: 10023090.c
+
+Called by (1 callers):
+  - 0x10020130 (sub_10020130) -> 10020130.c
+
+Calls (1 callees):
+  - 0x10023100 (sub_10023100) -> 10023100.c
+
+================================================================================
+Function: sub_100230D0
+Address: 0x100230d0
+File: 100230D0.c
+
+Called by (2 callers):
+  - 0x10020c10 (sub_10020C10) -> 10020C10.c
+  - 0x10020f30 (sub_10020F30) -> 10020F30.c
+
+Calls (1 callees):
+  - 0x10023100 (sub_10023100) -> 10023100.c
+
+================================================================================
+Function: sub_10023100
+Address: 0x10023100
+File: 10023100.c
+
+Called by (14 callers):
+  - 0x1001f4a0 (sub_1001F4A0) -> 1001F4A0.c
+  - 0x10020130 (sub_10020130) -> 10020130.c
+  - 0x10020f30 (sub_10020F30) -> 10020F30.c
+  - 0x10021c70 (sub_10021C70) -> 10021C70.c
+  - 0x10021cd0 (sub_10021CD0) -> 10021CD0.c
+  - 0x10022080 (sub_10022080) -> 10022080.c
+  - 0x10022290 (sub_10022290) -> 10022290.c
+  - 0x100223b0 (sub_100223B0) -> 100223B0.c
+  - 0x100225a0 (sub_100225A0) -> 100225A0.c
+  - 0x10022690 (sub_10022690) -> 10022690.c
+  - 0x100228d0 (sub_100228D0) -> 100228D0.c
+  - 0x10023030 (sub_10023030) -> 10023030.c
+  - 0x10023090 (sub_10023090) -> 10023090.c
+  - 0x100230d0 (sub_100230D0) -> 100230D0.c
+
+Calls (2 callees):
+  - 0x100234ec (malloc) -> 100234EC.c
+  - 0x10023bb2 (memcpy) -> 10023BB2.c
+
+================================================================================
+Function: ?clone_stream@Stream_Base@Utility@Outpop@@UAE?AV?$Smart_Ptr@VStream_Base@Utility@Outpop@@@23@XZ
+Address: 0x1002324a
+File: 1002324A.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?clone_shard_stream@Stream_Base@Utility@Outpop@@UAE?AV?$Smart_Ptr@VStream_Base@Utility@Outpop@@@23@HH@Z
+Address: 0x10023250
+File: 10023250.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?clone_shard_stream@Stream_Base@Utility@Outpop@@UAE?AV?$Smart_Ptr@VStream_Base@Utility@Outpop@@@23@XZ
+Address: 0x10023256
+File: 10023256.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?resize@Stream_Base@Utility@Outpop@@UAE_NH@Z
+Address: 0x1002325c
+File: 1002325C.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ??0outpop_exception@Utility@Outpop@@QAE@ABV012@@Z
+Address: 0x10023262
+File: 10023262.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ??0win32_error@Utility@Outpop@@QAE@ABV012@@Z
+Address: 0x10023268
+File: 10023268.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ??0StreamException@Utility@Outpop@@QAE@ABV012@@Z
+Address: 0x1002326e
+File: 1002326E.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ??1StreamException@Utility@Outpop@@UAE@XZ
+Address: 0x10023274
+File: 10023274.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?create_stream@Channel_Handler@IONetwork@Outpop@@UAE?AV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@Utility@3@I@Z
+Address: 0x1002327a
+File: 1002327A.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?handle_time_out@P2PUdpBuilder@IONetwork@Outpop@@UAEXABVTime_Value@Utility@3@0AAV?$Smart_Ptr@VRef_Object@Utility@Outpop@@@53@J@Z
+Address: 0x10023280
+File: 10023280.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: socket
+Address: 0x10023286
+File: 10023286.c
+
+Called by (2 callers):
+  - 0x100122f0 (sub_100122F0) -> 100122F0.c
+  - 0x10012390 (sub_10012390) -> 10012390.c
+
+Calls: none
+
+================================================================================
+Function: connect
+Address: 0x1002328c
+File: 1002328C.c
+
+Called by (1 callers):
+  - 0x10012390 (sub_10012390) -> 10012390.c
+
+Calls: none
+
+================================================================================
+Function: closesocket
+Address: 0x10023292
+File: 10023292.c
+
+Called by (3 callers):
+  - 0x100116b0 (sub_100116B0) -> 100116B0.c
+  - 0x10012640 (sub_10012640) -> 10012640.c
+  - 0x100135f0 (sub_100135F0) -> 100135F0.c
+
+Calls: none
+
+================================================================================
+Function: getsockname
+Address: 0x10023298
+File: 10023298.c
+
+Called by (2 callers):
+  - 0x10011f30 (sub_10011F30) -> 10011F30.c
+  - 0x10012240 (sub_10012240) -> 10012240.c
+
+Calls: none
+
+================================================================================
+Function: send
+Address: 0x1002329e
+File: 1002329E.c
+
+Called by (1 callers):
+  - 0x10012040 (sub_10012040) -> 10012040.c
+
+Calls: none
+
+================================================================================
+Function: gethostbyname
+Address: 0x100232a4
+File: 100232A4.c
+
+Called by (3 callers):
+  - 0x10011e40 (sub_10011E40) -> 10011E40.c
+  - 0x10011f30 (sub_10011F30) -> 10011F30.c
+  - 0x100125e0 (sub_100125E0) -> 100125E0.c
+
+Calls: none
+
+================================================================================
+Function: __WSAFDIsSet
+Address: 0x100232aa
+File: 100232AA.c
+
+Called by (2 callers):
+  - 0x10012120 (sub_10012120) -> 10012120.c
+  - 0x100121b0 (sub_100121B0) -> 100121B0.c
+
+Calls: none
+
+================================================================================
+Function: recv
+Address: 0x100232b0
+File: 100232B0.c
+
+Called by (1 callers):
+  - 0x10012090 (sub_10012090) -> 10012090.c
+
+Calls: none
+
+================================================================================
+Function: sendto
+Address: 0x100232b6
+File: 100232B6.c
+
+Called by (1 callers):
+  - 0x10011e40 (sub_10011E40) -> 10011E40.c
+
+Calls: none
+
+================================================================================
+Function: htons
+Address: 0x100232bc
+File: 100232BC.c
+
+Called by (3 callers):
+  - 0x10011e40 (sub_10011E40) -> 10011E40.c
+  - 0x10011f30 (sub_10011F30) -> 10011F30.c
+  - 0x100125e0 (sub_100125E0) -> 100125E0.c
+
+Calls: none
+
+================================================================================
+Function: select
+Address: 0x100232c2
+File: 100232C2.c
+
+Called by (2 callers):
+  - 0x10012120 (sub_10012120) -> 10012120.c
+  - 0x100121b0 (sub_100121B0) -> 100121B0.c
+
+Calls: none
+
+================================================================================
+Function: recvfrom
+Address: 0x100232c8
+File: 100232C8.c
+
+Called by (1 callers):
+  - 0x10011f30 (sub_10011F30) -> 10011F30.c
+
+Calls: none
+
+================================================================================
+Function: inet_ntoa
+Address: 0x100232ce
+File: 100232CE.c
+
+Called by (1 callers):
+  - 0x10012240 (sub_10012240) -> 10012240.c
+
+Calls: none
+
+================================================================================
+Function: WSACleanup
+Address: 0x100232d4
+File: 100232D4.c
+
+Called by (6 callers):
+  - 0x100116b0 (sub_100116B0) -> 100116B0.c
+  - 0x100122f0 (sub_100122F0) -> 100122F0.c
+  - 0x10012390 (sub_10012390) -> 10012390.c
+  - 0x10012520 (sub_10012520) -> 10012520.c
+  - 0x10012640 (sub_10012640) -> 10012640.c
+  - 0x100135f0 (sub_100135F0) -> 100135F0.c
+
+Calls: none
+
+================================================================================
+Function: WSAStartup
+Address: 0x100232da
+File: 100232DA.c
+
+Called by (1 callers):
+  - 0x10012520 (sub_10012520) -> 10012520.c
+
+Calls: none
+
+================================================================================
+Function: ioctlsocket
+Address: 0x100232e0
+File: 100232E0.c
+
+Called by (2 callers):
+  - 0x100122f0 (sub_100122F0) -> 100122F0.c
+  - 0x10012390 (sub_10012390) -> 10012390.c
+
+Calls: none
+
+================================================================================
+Function: bind
+Address: 0x100232e6
+File: 100232E6.c
+
+Called by (1 callers):
+  - 0x10012640 (sub_10012640) -> 10012640.c
+
+Calls: none
+
+================================================================================
+Function: inet_addr
+Address: 0x100232ec
+File: 100232EC.c
+
+Called by (1 callers):
+  - 0x10012640 (sub_10012640) -> 10012640.c
+
+Calls: none
+
+================================================================================
+Function: j_??2@YAPAXI@Z
+Address: 0x100232f2
+File: 100232F2.c
+
+Called by (1 callers):
+  - 0x10005b40 (?interal_print_remote_peer@Peer@P2P@Outpop@@IAEXXZ) -> 10005B40.c
+
+Calls: none
+
+================================================================================
+Function: ??_V@YAXPAX@Z
+Address: 0x10023356
+File: 10023356.c
+
+Called by (3 callers):
+  - 0x10001350 (sub_10001350) -> 10001350.c
+  - 0x10002870 (sub_10002870) -> 10002870.c
+  - 0x10005b40 (?interal_print_remote_peer@Peer@P2P@Outpop@@IAEXXZ) -> 10005B40.c
+
+Calls: none
+
+================================================================================
+Function: ??0exception@std@@QAE@ABV01@@Z
+Address: 0x100234d4
+File: 100234D4.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: ?what@exception@std@@UBEPBDXZ
+Address: 0x100234e0
+File: 100234E0.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: _purecall
+Address: 0x100234e6
+File: 100234E6.c
+
+Called by: none
+
+Calls: none
+
+================================================================================
+Function: malloc
+Address: 0x100234ec
+File: 100234EC.c
+
+Called by (23 callers):
+  - 0x10012240 (sub_10012240) -> 10012240.c
+  - 0x100122f0 (sub_100122F0) -> 100122F0.c
+  - 0x10012390 (sub_10012390) -> 10012390.c
+  - 0x10012770 (sub_10012770) -> 10012770.c
+  - 0x10012800 (sub_10012800) -> 10012800.c
+  - 0x10012a20 (sub_10012A20) -> 10012A20.c
+  - 0x10012c10 (sub_10012C10) -> 10012C10.c
+  - 0x10012e40 (sub_10012E40) -> 10012E40.c
+  - 0x10013210 (sub_10013210) -> 10013210.c
+  - 0x10013470 (sub_10013470)
+  - 0x100134b0 (sub_100134B0) -> 100134B0.c
+  - 0x10013690 (sub_10013690) -> 10013690.c
+  - 0x10013790 (sub_10013790) -> 10013790.c
+  - 0x10013970 (sub_10013970) -> 10013970.c
+  - 0x1001ef60 (sub_1001EF60) -> 1001EF60.c
+  - 0x1001f3b0 (sub_1001F3B0) -> 1001F3B0.c
+  - 0x1001f4a0 (sub_1001F4A0) -> 1001F4A0.c
+  - 0x10020130 (sub_10020130) -> 10020130.c
+  - 0x100207f0 (sub_100207F0) -> 100207F0.c
+  - 0x10020d60 (sub_10020D60) -> 10020D60.c
+  - 0x10020f30 (sub_10020F30) -> 10020F30.c
+  - 0x100224f0 (sub_100224F0) -> 100224F0.c
+  - 0x10023100 (sub_10023100) -> 10023100.c
+
+Calls: none
+
+================================================================================
+Function: _unlock
+Address: 0x1002399c
+File: 1002399C.c
+
+Called by (1 callers):
+  - 0x1002341d (__onexit)
+
+Calls: none
+
+================================================================================
+Function: __dllonexit
+Address: 0x100239a2
+File: 100239A2.c
+
+Called by (1 callers):
+  - 0x1002341d (__onexit)
+
+Calls: none
+
+================================================================================
+Function: _lock
+Address: 0x100239a8
+File: 100239A8.c
+
+Called by (1 callers):
+  - 0x1002341d (__onexit)
+
+Calls: none
+
+================================================================================
+Function: sub_100239AE
+Address: 0x100239ae
+File: 100239AE.c
+
+Called by (1 callers):
+  - 0x100234f2 (_pre_c_init)
+
+Calls (1 callees):
+  - 0x10023bac (__clean_type_info_names_internal) -> 10023BAC.c
+
+================================================================================
+Function: sub_100239BA
+Address: 0x100239ba
+File: 100239BA.c
+
+Called by (1 callers):
+  - 0x100234f2 (_pre_c_init)
+
+Calls: none
+
+================================================================================
+Function: sub_100239DE
+Address: 0x100239de
+File: 100239DE.c
+
+Called by (1 callers):
+  - 0x100234f2 (_pre_c_init)
+
+Calls: none
+
+================================================================================
+Function: _initterm
+Address: 0x10023aee
+File: 10023AEE.c
+
+Called by (1 callers):
+  - 0x1002353f (__CRT_INIT@12)
+
+Calls: none
+
+================================================================================
+Function: _initterm_e
+Address: 0x10023af4
+File: 10023AF4.c
+
+Called by (1 callers):
+  - 0x1002353f (__CRT_INIT@12)
+
+Calls: none
+
+================================================================================
+Function: _amsg_exit
+Address: 0x10023afa
+File: 10023AFA.c
+
+Called by (1 callers):
+  - 0x1002353f (__CRT_INIT@12)
+
+Calls: none
+
+================================================================================
+Function: __CppXcptFilter
+Address: 0x10023b00
+File: 10023B00.c
+
+Called by (1 callers):
+  - 0x100236de (___DllMainCRTStartup)
+
+Calls: none
+
+================================================================================
+Function: _crt_debugger_hook
+Address: 0x10023b9a
+File: 10023B9A.c
+
+Called by (1 callers):
+  - 0x10023815 (___report_gsfailure)
+
+Calls: none
+
+================================================================================
+Function: ?_type_info_dtor_internal_method@type_info@@QAEXXZ
+Address: 0x10023ba0
+File: 10023BA0.c
+
+Called by (1 callers):
+  - 0x1002330c (??_Etype_info@@UAEPAXI@Z)
+
+Calls: none
+
+================================================================================
+Function: _except_handler4_common
+Address: 0x10023ba6
+File: 10023BA6.c
+
+Called by (1 callers):
+  - 0x10023979 (__except_handler4)
+
+Calls: none
+
+================================================================================
+Function: __clean_type_info_names_internal
+Address: 0x10023bac
+File: 10023BAC.c
+
+Called by (1 callers):
+  - 0x100239ae (sub_100239AE) -> 100239AE.c
+
+Calls: none
+
+================================================================================
+Function: memcpy
+Address: 0x10023bb2
+File: 10023BB2.c
+
+Called by (9 callers):
+  - 0x10011e40 (sub_10011E40) -> 10011E40.c
+  - 0x10011f30 (sub_10011F30) -> 10011F30.c
+  - 0x100125e0 (sub_100125E0) -> 100125E0.c
+  - 0x1001f2a0 (sub_1001F2A0) -> 1001F2A0.c
+  - 0x1001f3b0 (sub_1001F3B0) -> 1001F3B0.c
+  - 0x1001f4a0 (sub_1001F4A0) -> 1001F4A0.c
+  - 0x10020130 (sub_10020130) -> 10020130.c
+  - 0x100207f0 (sub_100207F0) -> 100207F0.c
+  - 0x10023100 (sub_10023100) -> 10023100.c
+
+Calls: none
+
+================================================================================
+Function: __CxxFrameHandler3
+Address: 0x10023bc0
+File: 10023BC0.c
+
+Called by (90 callers):
+  - 0x100011f0 (??0P2P_Context@P2P@Outpop@@QAE@ABV012@@Z) -> 100011F0.c
+  - 0x100013b0 (sub_100013B0) -> 100013B0.c
+  - 0x10001460 (sub_10001460) -> 10001460.c
+  - 0x100014f0 (sub_100014F0) -> 100014F0.c
+  - 0x10001c80 (??0P2P_Context@P2P@Outpop@@QAE@XZ) -> 10001C80.c
+  - 0x10001e80 (?load_config@P2P_Context@P2P@Outpop@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 10001E80.c
+  - 0x10001ef0 (?on_item@P2P_Context@P2P@Outpop@@UAEXAAVConfig_Item@Utility@3@@Z) -> 10001EF0.c
+  - 0x10002490 (sub_10002490) -> 10002490.c
+  - 0x10002550 (sub_10002550) -> 10002550.c
+  - 0x10002630 (??0Peer@P2P@Outpop@@QAE@ABV012@@Z) -> 10002630.c
+  - 0x10002910 (sub_10002910) -> 10002910.c
+  - 0x10002980 (sub_10002980) -> 10002980.c
+  - 0x10002b10 (sub_10002B10) -> 10002B10.c
+  - 0x10002ba0 (sub_10002BA0) -> 10002BA0.c
+  - 0x10002d60 (??0Peer@P2P@Outpop@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 10002D60.c
+  - 0x10002f90 (??1Peer@P2P@Outpop@@UAE@XZ) -> 10002F90.c
+  - 0x10003100 (?start@Peer@P2P@Outpop@@QAEXXZ) -> 10003100.c
+  - 0x100031a0 (?OnDetectNetworkResult@Peer@P2P@Outpop@@IAEXH@Z) -> 100031A0.c
+  - 0x10003870 (?OnUPNPStateChangeResult@Peer@P2P@Outpop@@IAEXW4EUPNPState@23@G@Z) -> 10003870.c
+  - 0x10003ae0 (?OnUPNPMapSucceed@Peer@P2P@Outpop@@IAEXW4EUPNPState@23@GPAVTSocket@IONetwork@3@@Z) -> 10003AE0.c
+  - 0x10003d20 (?connect_remote_peer@Peer@P2P@Outpop@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 10003D20.c
+  - 0x10003f10 (?interal_connect_remote_peer@Peer@P2P@Outpop@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 10003F10.c
+  - 0x100041d0 (?interal_close_peer@Peer@P2P@Outpop@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 100041D0.c
+  - 0x100042e0 (?OnSAPGetPeerAddress@Peer@P2P@Outpop@@IAEXHABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAVINET_Addr@IONetwork@3@1@Z) -> 100042E0.c
+  - 0x100046c0 (sub_100046C0) -> 100046C0.c
+  - 0x10004730 (?handle_build_channel@Peer@P2P@Outpop@@UAEXAAV?$Smart_Ptr@VChannel@IONetwork@Outpop@@@Utility@3@AAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@53@AAV?$Smart_Ptr@VP2PUdpBuilder@IONetwork@Outpop@@@53@@Z) -> 10004730.c
+  - 0x10004b30 (?handle_build_failed@Peer@P2P@Outpop@@UAEXHABVINET_Addr@IONetwork@3@AAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@Utility@3@AAV?$Smart_Ptr@VP2PUdpBuilder@IONetwork@Outpop@@@73@@Z) -> 10004B30.c
+  - 0x10004ea0 (?send_message@Peer@P2P@Outpop@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAV?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@Utility@3@@Z) -> 10004EA0.c
+  - 0x10004fc0 (?handle_read_stream@Peer@P2P@Outpop@@UAEXAAV?$vector@V?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@Utility@Outpop@@V?$allocator@V?$Smart_Ptr@VBinary_Stream@Utility@Outpop@@@Utility@Outpop@@@std@@@std@@AAV?$Smart_Ptr@VChannel@IONetwork@Outpop@@@Utility@3@@Z) -> 10004FC0.c
+  - 0x100050c0 (?handle_read_seqeuence_stream@Peer@P2P@Outpop@@UAEXAAV?$Smart_Ptr@VChannel@IONetwork@Outpop@@@Utility@3@@Z) -> 100050C0.c
+  - 0x10005230 (?OnKPError@Peer@P2P@Outpop@@IAEXH@Z) -> 10005230.c
+  - 0x100052c0 (?change_peer_id@Peer@P2P@Outpop@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 100052C0.c
+  - 0x100054c0 (?interal_change_peer_id@Peer@P2P@Outpop@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) -> 100054C0.c
+  - 0x10005580 (?OnCooperateConnect@Peer@P2P@Outpop@@IAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAVINET_Addr@IONetwork@3@1@Z) -> 10005580.c
+  - 0x10005b40 (?interal_print_remote_peer@Peer@P2P@Outpop@@IAEXXZ) -> 10005B40.c
+  - 0x10005e10 (?print_remote_peer@Peer@P2P@Outpop@@QAEXXZ) -> 10005E10.c
+  - 0x10005fe0 (?handle_close@Peer@P2P@Outpop@@UAEXHAAV?$Smart_Ptr@VChannel@IONetwork@Outpop@@@Utility@3@@Z) -> 10005FE0.c
+  - 0x10006210 (?OnSAPError@Peer@P2P@Outpop@@IAEXW4ESAPError@23@H@Z) -> 10006210.c
+  - 0x100063d0 (sub_100063D0) -> 100063D0.c
+  - 0x10006ab0 (sub_10006AB0) -> 10006AB0.c
+  - 0x10007120 (sub_10007120) -> 10007120.c
+  - 0x10007310 (sub_10007310) -> 10007310.c
+  - 0x100073a0 (sub_100073A0) -> 100073A0.c
+  - 0x100076e0 (sub_100076E0) -> 100076E0.c
+  - 0x100079c0 (sub_100079C0) -> 100079C0.c
+  - 0x10007ba0 (sub_10007BA0) -> 10007BA0.c
+  - 0x10007e60 (sub_10007E60) -> 10007E60.c
+  - 0x10008430 (sub_10008430) -> 10008430.c
+  - 0x10008500 (sub_10008500) -> 10008500.c
+  - 0x100087a0 (sub_100087A0) -> 100087A0.c
+  - 0x10008960 (sub_10008960) -> 10008960.c
+  - 0x10008e30 (sub_10008E30) -> 10008E30.c
+  - 0x10008ed0 (sub_10008ED0) -> 10008ED0.c
+  - 0x10008fa0 (sub_10008FA0) -> 10008FA0.c
+  - 0x10009360 (sub_10009360) -> 10009360.c
+  - 0x10009400 (sub_10009400) -> 10009400.c
+  - 0x100096f0 (sub_100096F0) -> 100096F0.c
+  - 0x100097a0 (sub_100097A0) -> 100097A0.c
+  - 0x10009b20 (sub_10009B20) -> 10009B20.c
+  - 0x10009d70 (sub_10009D70) -> 10009D70.c
+  - 0x10009e90 (sub_10009E90) -> 10009E90.c
+  - 0x10009fd0 (sub_10009FD0) -> 10009FD0.c
+  - 0x1000a080 (sub_1000A080) -> 1000A080.c
+  - 0x1000a270 (sub_1000A270) -> 1000A270.c
+  - 0x1000a3a0 (sub_1000A3A0) -> 1000A3A0.c
+  - 0x1000a480 (sub_1000A480) -> 1000A480.c
+  - 0x1000a510 (sub_1000A510) -> 1000A510.c
+  - 0x1000a680 (sub_1000A680) -> 1000A680.c
+  - 0x1000a7c0 (sub_1000A7C0) -> 1000A7C0.c
+  - 0x1000a9d0 (sub_1000A9D0) -> 1000A9D0.c
+  - 0x1000ab00 (sub_1000AB00) -> 1000AB00.c
+  - 0x1000ac90 (sub_1000AC90) -> 1000AC90.c
+  - 0x1000afe0 (sub_1000AFE0) -> 1000AFE0.c
+  - 0x1000b090 (sub_1000B090) -> 1000B090.c
+  - 0x1000b380 (sub_1000B380) -> 1000B380.c
+  - 0x1000c0c0 (sub_1000C0C0) -> 1000C0C0.c
+  - 0x1000cc10 (sub_1000CC10) -> 1000CC10.c
+  - 0x1000d390 (sub_1000D390) -> 1000D390.c
+  - 0x1000d5a0 (sub_1000D5A0) -> 1000D5A0.c
+  - 0x1000d7a0 (sub_1000D7A0) -> 1000D7A0.c
+  - 0x1000e5c0 (sub_1000E5C0) -> 1000E5C0.c
+  - 0x1000e660 (sub_1000E660) -> 1000E660.c
+  - 0x1000e960 (sub_1000E960) -> 1000E960.c
+  - 0x1000eba0 (sub_1000EBA0) -> 1000EBA0.c
+  - 0x1000ede0 (sub_1000EDE0) -> 1000EDE0.c
+  - 0x1000ef10 (sub_1000EF10) -> 1000EF10.c
+  - 0x1000efe0 (sub_1000EFE0) -> 1000EFE0.c
+  - 0x1000f070 (sub_1000F070) -> 1000F070.c
+  - 0x1000f1f0 (sub_1000F1F0) -> 1000F1F0.c
+  - 0x10010fd0 (sub_10010FD0) -> 10010FD0.c
+
+Calls: none
+
+================================================================================
+Function: _CxxThrowException
+Address: 0x10023bc6
+File: 10023BC6.c
+
+Called by (27 callers):
+  - 0x100079c0 (sub_100079C0) -> 100079C0.c
+  - 0x10007e60 (sub_10007E60) -> 10007E60.c
+  - 0x10008430 (sub_10008430) -> 10008430.c
+  - 0x10008500 (sub_10008500) -> 10008500.c
+  - 0x10008860 (sub_10008860) -> 10008860.c
+  - 0x10008e30 (sub_10008E30) -> 10008E30.c
+  - 0x10008ed0 (sub_10008ED0) -> 10008ED0.c
+  - 0x10008f40 (sub_10008F40) -> 10008F40.c
+  - 0x10008fa0 (sub_10008FA0) -> 10008FA0.c
+  - 0x10009360 (sub_10009360) -> 10009360.c
+  - 0x10009400 (sub_10009400) -> 10009400.c
+  - 0x10009690 (sub_10009690) -> 10009690.c
+  - 0x100096f0 (sub_100096F0) -> 100096F0.c
+  - 0x100097a0 (sub_100097A0) -> 100097A0.c
+  - 0x10009d70 (sub_10009D70) -> 10009D70.c
+  - 0x10009e90 (sub_10009E90) -> 10009E90.c
+  - 0x10009fd0 (sub_10009FD0) -> 10009FD0.c
+  - 0x1000a3a0 (sub_1000A3A0) -> 1000A3A0.c
+  - 0x1000e530 (sub_1000E530) -> 1000E530.c
+  - 0x1000e5c0 (sub_1000E5C0) -> 1000E5C0.c
+  - 0x1000e660 (sub_1000E660) -> 1000E660.c
+  - 0x1000e760 (sub_1000E760) -> 1000E760.c
+  - 0x1000e860 (sub_1000E860) -> 1000E860.c
+  - 0x1000e960 (sub_1000E960) -> 1000E960.c
+  - 0x1000ea00 (sub_1000EA00) -> 1000EA00.c
+  - 0x1000eaa0 (sub_1000EAA0) -> 1000EAA0.c
+  - 0x1000eb40 (sub_1000EB40) -> 1000EB40.c
+
+Calls: none
+
+================================================================================
+Function: sub_100256D0
+Address: 0x100256d0
+File: 100256D0.c
+
+Called by: none
+
+Calls (2 callees):
+  - 0x10001c80 (??0P2P_Context@P2P@Outpop@@QAE@XZ) -> 10001C80.c
+  - 0x100234bc (_atexit)
+
+================================================================================
+Function: sub_100256F0
+Address: 0x100256f0
+File: 100256F0.c
+
+Called by (1 callers):
+  - 0x100256d0 (sub_100256D0) -> 100256D0.c
+
+Calls: none
+

@@ -1,0 +1,15 @@
+/*
+ * func-name: sub_102C71E0
+ * func-address: 0x102c71e0
+ * callers: 0x100e9b40, 0x100fdfe0, 0x100fe800, 0x100fe8f0, 0x100fea00, 0x100feee0, 0x100ff2c0, 0x10104e30, 0x10105140, 0x1010fe30, 0x101113c0, 0x10111550, 0x101125e0, 0x10114160, 0x10144260, 0x101481c0, 0x101486d0, 0x1014e450, 0x101594b0, 0x10159890, 0x1015b850, 0x1015bfa0, 0x1015ca10, 0x10161080, 0x101736d0, 0x101763d0, 0x1017c390, 0x1017e2f0, 0x10197460, 0x101d1360, 0x101d2100, 0x101d2920, 0x101d2de0, 0x1022ef60
+ * callees: none
+ */
+
+int __cdecl sub_102C71E0(int a1, int a2)
+{
+  int last_of; // eax
+
+  last_of = std::string::find_last_of(a2, ".", std::string::npos);
+  std::string::substr(a2, a1, 0, last_of);
+  return a1;
+}

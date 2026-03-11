@@ -1,0 +1,200 @@
+# Export Progress
+# Format: address | status (done/failed/skipped)
+10001000|done
+10003C00|done
+1001A000|done
+10019805|done
+10019E0D|done
+10003010|done
+10003610|done
+10004220|done
+10004A20|done
+10005820|done
+10019820|done
+10019E21|done
+10001830|done
+10002630|done
+10002830|done
+1001A030|done
+10003640|done
+10004840|done
+10005240|done
+10002450|done
+10002C50|done
+10003850|done
+10005050|done
+10004260|done
+1001986A|done
+10004070|done
+10002470|done
+10003670|done
+10019870|done
+1001A072|done
+10019876|done
+1001987C|done
+10019E7F|done
+10001080|done
+10003480|done
+10003880|done
+10004080|done
+10005880|done
+10019882|done
+10002290|done
+10003A90|done
+10004890|done
+10005690|done
+10019890|done
+10019C90|done
+10007A90|done
+10007A96|done
+100030A0|done
+100040A0|done
+100016B0|done
+100066B0|done
+10019CB1|done
+100076B4|done
+100018C0|done
+10003AC0|done
+100040C0|done
+10004AC0|done
+100054C0|done
+100058C0|done
+100076C4|done
+100012D0|done
+10001AD0|done
+100036D0|done
+100042D0|done
+1001A0DE|done
+100024E0|done
+100038E0|done
+100050E0|done
+10019EE2|done
+1001A0E4|done
+1001A0EA|done
+10003AF0|done
+100040F0|done
+100022F0|done
+10002CF0|done
+100042F0|done
+100048F0|done
+10004EF0|done
+10005EF0|done
+1001A0F0|done
+1001A0F6|done
+10005900|done
+10002310|done
+10003310|done
+10004110|done
+10005B10|done
+10001120|done
+10001720|done
+10001B20|done
+10005520|done
+10005920|done
+10003530|done
+10004130|done
+10005130|done
+10006130|done
+10007734|done
+10019F32|done
+10003F40|done
+10001D40|done
+10003540|done
+10003740|done
+10003B40|done
+10007744|done
+10019940|done
+10019744|done
+1001974A|done
+10003150|done
+10004150|done
+10005350|done
+10005D50|done
+10019750|done
+1001AB50|done
+10001360|done
+10001F60|done
+10003760|done
+10019760|done
+1001AB60|done
+10019766|done
+1001996B|done
+10004170|done
+10001770|done
+10003570|done
+10004F70|done
+10019B7A|done
+10002380|done
+10002780|done
+10003580|done
+10003B80|done
+10004780|done
+10005180|done
+1001A18A|done
+1001998E|done
+10001F90|done
+10002B90|done
+10004190|done
+10019F92|done
+1001A190|done
+1001AB90|done
+1001A196|done
+1001A19C|done
+10001BA0|done
+10019FA0|done
+10019FA6|done
+10001DB0|done
+100041B0|done
+10019FB2|done
+10019DB6|done
+10019DBC|done
+100029C0|done
+10002DC0|done
+100039C0|done
+10004FC0|done
+100051C0|done
+10019DC2|done
+10019DC8|done
+100011D0|done
+100037D0|done
+100041D0|done
+100047D0|done
+100055D0|done
+10019FD6|done
+100199DB|done
+100021E0|done
+100033E0|done
+100035E0|done
+100041E0|done
+100023F0|done
+100035F0|done
+100037F0|done
+100039F0|done
+10005BF0|done
+100065F0|done
+10001F60|failed|sub_10001F60|decompile returned None
+10019750|skipped|@__security_check_cookie@4|library function
+10019766|skipped|__onexit|library function
+10019805|skipped|_atexit|library function
+10019820|skipped|??_Etype_info@@UAEPAXI@Z|library function
+10019870|skipped|??3@YAXPAX@Z|library function
+10019882|skipped|??2@YAPAXI@Z|library function
+10019890|skipped|__ftol2_sse|library function
+10019940|skipped|__alloca_probe|library function
+1001996B|skipped|__except_handler4|library function
+1001998E|skipped|_pre_c_init|library function
+100199DB|skipped|__CRT_INIT@12|library function
+10019B7A|skipped|___DllMainCRTStartup|library function
+10019C90|skipped|DllEntryPoint|library function
+10019CB1|skipped|___report_gsfailure|library function
+10019DC8|skipped|__SEH_prolog4|library function
+10019E0D|skipped|__SEH_epilog4|library function
+10019E21|skipped|?__ArrayUnwind@@YGXPAXIHP6EX0@Z@Z|library function
+10019E7F|skipped|??_M@YGXPAXIHP6EX0@Z@Z|library function
+10019EE2|skipped|_has_osfxsr_set|library function
+10019F32|skipped|__get_sse2_info|library function
+1001A000|skipped|__ValidateImageBase|library function
+1001A030|skipped|__FindPESection|library function
+1001A072|skipped|__IsNonwritableInCurrentImage|library function
+1001A0F6|skipped|___security_init_cookie|library function
+1001A190|skipped|?terminate@@YAXXZ|library function

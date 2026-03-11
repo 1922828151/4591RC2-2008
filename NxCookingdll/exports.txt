@@ -1,0 +1,19 @@
+# Exports
+# Format: func-addr:func-name
+#============================================================
+
+0x10024710:NxCloseCooking
+0x10024d80:NxCookClothMesh
+0x10024900:NxCookConvexMesh
+0x10024f00:NxCookSoftBodyMesh
+0x10024be0:NxCookTriangleMesh
+0x1002f3a0:NxCreatePMap
+0x10024840:NxGetCookingInterface
+0x10024560:NxGetCookingParams
+0x10024620:NxInitCooking
+0x10024570:NxPlatformMismatch
+0x1002f470:NxReleasePMap
+0x10001050:NxReportCooking
+0x100247c0:NxScaleCookedConvexMesh
+0x10024520:NxSetCookingParams
+0x10036cc0:DllEntryPoint

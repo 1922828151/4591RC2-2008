@@ -1,0 +1,12 @@
+/*
+ * func-name: ??_V@YAXPAX@Z
+ * func-address: 0x100295ba
+ * callers: 0x100011c0, 0x100014a0, 0x10003960, 0x10003a90, 0x10003b80, 0x10003cf0, 0x10003ea0, 0x10004100, 0x100041e0, 0x10004620, 0x10004700, 0x10004830, 0x10004a50, 0x10004b10, 0x10004c70, 0x10004ef0, 0x10005120, 0x1000e040, 0x100195d0, 0x10023850, 0x100238e0
+ * callees: none
+ */
+
+// attributes: thunk
+void __cdecl operator delete[](void *a1)
+{
+  __imp_??_V@YAXPAX@Z(a1);
+}

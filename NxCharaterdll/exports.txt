@@ -1,0 +1,12 @@
+# Exports
+# Format: func-addr:func-name
+#============================================================
+
+0x100045d0:??0NxControllerManager@@IAE@XZ
+0x100045f0:??0NxControllerManager@@QAE@ABV0@@Z
+0x100045e0:??1NxControllerManager@@MAE@XZ
+0x10004600:??4NxControllerManager@@QAEAAV0@ABV0@@Z
+0x1001c5e0:??_7NxControllerManager@@6B@
+0x10009350:NxCreateControllerManager
+0x10009090:NxReleaseControllerManager
+0x1000b533:DllEntryPoint

@@ -1,0 +1,24 @@
+/*
+ * func-name: ?_Xinvarg@?$vector@PAUModelFrame@@V?$allocator@PAUModelFrame@@@std@@@std@@KAXXZ
+ * func-address: 0x100196a0
+ * callers: none
+ * callees: 0x101a2522
+ */
+
+void __noreturn std::vector<ModelFrame *>::_Xinvarg()
+{
+  _BYTE v0[28]; // [esp+0h] [ebp-50h] BYREF
+  _DWORD pExceptionObject[3]; // [esp+1Ch] [ebp-34h] BYREF
+  _BYTE v2[36]; // [esp+28h] [ebp-28h] BYREF
+  int v3; // [esp+4Ch] [ebp-4h]
+
+  std::string::string(v0, "invalid vector<T> argument");
+  v3 = 0;
+  std::exception::exception((std::exception *)pExceptionObject);
+  LOBYTE(v3) = 1;
+  pExceptionObject[0] = &std::logic_error::`vftable';
+  std::string::string(v2, v0);
+  LOBYTE(v3) = 0;
+  pExceptionObject[0] = &std::invalid_argument::`vftable';
+  CxxThrowException(pExceptionObject, (_ThrowInfo *)&_TI3_AVinvalid_argument_std__);
+}

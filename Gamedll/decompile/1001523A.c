@@ -1,0 +1,26 @@
+/*
+ * func-name: sub_1001523A
+ * func-address: 0x1001523a
+ * callers: 0x1007e090
+ * callees: none
+ */
+
+// attributes: thunk
+int __thiscall sub_1001523A(
+        void *this,
+        int a2,
+        char a3,
+        int a4,
+        int a5,
+        int a6,
+        int a7,
+        int a8,
+        int a9,
+        int a10,
+        int a11,
+        int a12,
+        int a13,
+        int a14)
+{
+  return sub_1007DD90((int)this, a2, a3, a4, a5, a6, a7, a8, a9, a10, a11, a12, a13, a14);
+}

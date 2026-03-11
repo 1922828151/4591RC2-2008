@@ -1,0 +1,11 @@
+# Failed to decompile 7 functions
+# Format: address | function_name | reason
+#================================================================================
+
+0x10017580 | ?stop@Stream_Acceptor@IONetwork@Outpop@@UAEXXZ | decompile returned None
+0x1001b850 | sub_1001B850 | decompile returned None
+0x1001ba00 | sub_1001BA00 | decompile returned None
+0x10020ed0 | sub_10020ED0 | decompile returned None
+0x10021010 | sub_10021010 | decompile returned None
+0x10026c70 | ?stop@Dgram_Acceptor@IONetwork@Outpop@@UAEXXZ | decompile returned None
+0x1004b850 | ?stop@P2PUdpBuilder@IONetwork@Outpop@@QAEXXZ | decompile returned None

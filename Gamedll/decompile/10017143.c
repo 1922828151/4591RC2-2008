@@ -1,0 +1,12 @@
+/*
+ * func-name: sub_10017143
+ * func-address: 0x10017143
+ * callers: 0x100f9e80, 0x100fa000, 0x100fa180, 0x100fbf30, 0x100fc8f0, 0x10102780, 0x101032a0, 0x1010bdc0, 0x1010de00, 0x1011a030, 0x1011a220, 0x1011bcc0, 0x1011c640, 0x1013b5d0, 0x1013b750, 0x1013b9b0, 0x1013cdf0, 0x1013d530, 0x101de3b0, 0x101de700, 0x10230670, 0x10230850, 0x102317a0
+ * callees: none
+ */
+
+// attributes: thunk
+int __stdcall sub_10017143(int a1)
+{
+  return sub_100F8FE0(a1);
+}

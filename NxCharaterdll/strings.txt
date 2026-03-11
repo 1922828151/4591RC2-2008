@@ -1,0 +1,289 @@
+# Strings exported from IDA
+# Format: address | length | type | string
+#================================================================================
+
+0x1001c6bc | 15 | ASCII | bad allocation
+0x1001ca3c | 38 | ASCII | Filename cannot be displayed on Win9x
+0x1001ca64 | 40 | ASCII | Expression cannot be displayed on Win9x
+0x1001caa0 | 6 | ASCII | e+000
+0x1001cab8 | 26 | ASCII | IsProcessorFeaturePresent
+0x1001cad4 | 9 | ASCII | KERNEL32
+0x1001cae0 | 15 | ASCII | runtime error 
+0x1001caf4 | 14 | ASCII | TLOSS error\r\n
+0x1001cb04 | 13 | ASCII | SING error\r\n
+0x1001cb14 | 15 | ASCII | DOMAIN error\r\n
+0x1001cb28 | 155 | ASCII | R6034\r\nAn application has made an attempt to load the C runtime library incorrectly.\nPlease contact the application's support team for more information.\r\n
+0x1001cbc8 | 247 | ASCII | R6033\r\n- Attempt to use MSIL code from this assembly during native code initialization\nThis indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.\r\n
+0x1001ccc0 | 51 | ASCII | R6032\r\n- not enough space for locale information\r\n
+0x1001ccf8 | 99 | ASCII | R6031\r\n- Attempt to initialize the CRT more than once.\nThis indicates a bug in your application.\r\n
+0x1001cd5c | 31 | ASCII | R6030\r\n- CRT not initialized\r\n
+0x1001cd7c | 37 | ASCII | R6028\r\n- unable to initialize heap\r\n
+0x1001cda4 | 53 | ASCII | R6027\r\n- not enough space for lowio initialization\r\n
+0x1001cddc | 53 | ASCII | R6026\r\n- not enough space for stdio initialization\r\n
+0x1001ce14 | 38 | ASCII | R6025\r\n- pure virtual function call\r\n
+0x1001ce3c | 53 | ASCII | R6024\r\n- not enough space for _onexit/atexit table\r\n
+0x1001ce74 | 41 | ASCII | R6019\r\n- unable to open console device\r\n
+0x1001cea0 | 33 | ASCII | R6018\r\n- unexpected heap error\r\n
+0x1001cec4 | 45 | ASCII | R6017\r\n- unexpected multithread lock error\r\n
+0x1001cef4 | 44 | ASCII | R6016\r\n- not enough space for thread data\r\n
+0x1001cf20 | 150 | ASCII | \r\nThis application has requested the Runtime to terminate it in an unusual way.\nPlease contact the application's support team for more information.\r\n
+0x1001cfb8 | 44 | ASCII | R6009\r\n- not enough space for environment\r\n
+0x1001cfe4 | 42 | ASCII | R6008\r\n- not enough space for arguments\r\n
+0x1001d010 | 37 | ASCII | R6002\r\n- floating point not loaded\r\n
+0x1001d038 | 37 | ASCII | Microsoft Visual C++ Runtime Library
+0x1001d064 | 23 | ASCII | <program name unknown>
+0x1001d07c | 26 | ASCII | Runtime Error!\n\nProgram: 
+0x1001d098 | 14 | ASCII | EncodePointer
+0x1001d0a8 | 13 | ASCII | KERNEL32.DLL
+0x1001d0b8 | 14 | ASCII | DecodePointer
+0x1001d0c8 | 8 | ASCII | FlsFree
+0x1001d0d0 | 12 | ASCII | FlsSetValue
+0x1001d0dc | 12 | ASCII | FlsGetValue
+0x1001d0e8 | 9 | ASCII | FlsAlloc
+0x1001d0f4 | 15 | ASCII | CorExitProcess
+0x1001d104 | 12 | ASCII | mscoree.dll
+0x1001d110 | 11 | ASCII | _nextafter
+0x1001d11c | 6 | ASCII | _logb
+0x1001d130 | 6 | ASCII | frexp
+0x1001d140 | 7 | ASCII | _hypot
+0x1001d148 | 6 | ASCII | _cabs
+0x1001d150 | 6 | ASCII | ldexp
+0x1001d168 | 6 | ASCII | floor
+0x1001d18c | 6 | ASCII | atan2
+0x1001d1c4 | 6 | ASCII | log10
+0x1001d1e8 | 14 | ASCII | bad exception
+0x1001d2f3 | 6 | ASCII |  jh<
+0x1001d37f | 7 | ASCII | ?uZEeu
+0x1001d480 | 6 | ASCII | uZEeu
+0x1001d533 | 6 | ASCII |  jh<
+0x1001d780 | 6 | ASCII | uZEeu
+0x1001d87f | 7 | ASCII | ?uZEeu
+0x1001dbf3 | 6 | ASCII |  jh<
+0x1001dc7f | 7 | ASCII | ?uZEeu
+0x1001dd80 | 6 | ASCII | uZEeu
+0x1001de33 | 6 | ASCII |  jh<
+0x1001e080 | 6 | ASCII | uZEeu
+0x1001e17f | 7 | ASCII | ?uZEeu
+0x1001e3a0 | 24 | ASCII | GetProcessWindowStation
+0x1001e3b8 | 26 | ASCII | GetUserObjectInformationW
+0x1001e3d4 | 19 | ASCII | GetLastActivePopup
+0x1001e3e8 | 16 | ASCII | GetActiveWindow
+0x1001e3f8 | 12 | ASCII | MessageBoxW
+0x1001e420 | 61 | ASCII | (Press Retry to debug the application - JIT must be enabled)
+0x1001e460 | 112 | ASCII | For information on how your program can cause an assertion\nfailure, see the Visual C++ documentation on asserts
+0x1001e4d0 | 13 | ASCII | Expression: 
+0x1001e4e0 | 7 | ASCII | Line: 
+0x1001e4e8 | 7 | ASCII | File: 
+0x1001e4f0 | 10 | ASCII | Program: 
+0x1001e4fc | 18 | ASCII | Assertion failed!
+0x1001e520 | 7 | ASCII | (null)
+0x1001e549 | 8 | ASCII | ( 8PX
+0x1001e551 | 7 | ASCII | 700WP
+0x1001e560 | 8 | ASCII | `h````
+0x1001e569 | 10 | ASCII | xpxxxx
+0x1001e590 | 18 | ASCII | Unknown exception
+0x1001e5ce | 5 | ASCII | 	\n
+0x1001e5e7 | 95 | ASCII |  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+0x1001e64c | 26 | ASCII |  Complete Object Locator'
+0x1001e668 | 29 | ASCII |  Class Hierarchy Descriptor'
+0x1001e688 | 19 | ASCII |  Base Class Array'
+0x1001e69c | 28 | ASCII |  Base Class Descriptor at (
+0x1001e6b8 | 18 | ASCII |  Type Descriptor'
+0x1001e6cc | 28 | ASCII | `local static thread guard'
+0x1001e6e8 | 43 | ASCII | `managed vector copy constructor iterator'
+0x1001e714 | 41 | ASCII | `vector vbase copy constructor iterator'
+0x1001e740 | 35 | ASCII | `vector copy constructor iterator'
+0x1001e764 | 33 | ASCII | `dynamic atexit destructor for '
+0x1001e788 | 27 | ASCII | `dynamic initializer for '
+0x1001e7a4 | 44 | ASCII | `eh vector vbase copy constructor iterator'
+0x1001e7d0 | 38 | ASCII | `eh vector copy constructor iterator'
+0x1001e7f8 | 37 | ASCII | `managed vector destructor iterator'
+0x1001e820 | 38 | ASCII | `managed vector constructor iterator'
+0x1001e848 | 29 | ASCII | `placement delete[] closure'
+0x1001e868 | 27 | ASCII | `placement delete closure'
+0x1001e884 | 15 | ASCII | `omni callsig'
+0x1001e894 | 10 | ASCII |  delete[]
+0x1001e8a0 | 7 | ASCII |  new[]
+0x1001e8a8 | 36 | ASCII | `local vftable constructor closure'
+0x1001e8cc | 16 | ASCII | `local vftable'
+0x1001e8dc | 6 | ASCII | `RTTI
+0x1001e8e8 | 16 | ASCII | `udt returning'
+0x1001e8f8 | 27 | ASCII | `copy constructor closure'
+0x1001e914 | 39 | ASCII | `eh vector vbase constructor iterator'
+0x1001e93c | 32 | ASCII | `eh vector destructor iterator'
+0x1001e95c | 33 | ASCII | `eh vector constructor iterator'
+0x1001e980 | 27 | ASCII | `virtual displacement map'
+0x1001e99c | 36 | ASCII | `vector vbase constructor iterator'
+0x1001e9c0 | 29 | ASCII | `vector destructor iterator'
+0x1001e9e0 | 30 | ASCII | `vector constructor iterator'
+0x1001ea00 | 29 | ASCII | `scalar deleting destructor'
+0x1001ea20 | 30 | ASCII | `default constructor closure'
+0x1001ea40 | 29 | ASCII | `vector deleting destructor'
+0x1001ea60 | 19 | ASCII | `vbase destructor'
+0x1001ea74 | 9 | ASCII | `string'
+0x1001ea80 | 21 | ASCII | `local static guard'
+0x1001ea98 | 9 | ASCII | `typeof'
+0x1001eaa4 | 8 | ASCII | `vcall'
+0x1001eaac | 10 | ASCII | `vbtable'
+0x1001eab8 | 10 | ASCII | `vftable'
+0x1001eb40 | 9 | ASCII | operator
+0x1001eb64 | 8 | ASCII |  delete
+0x1001eb74 | 12 | ASCII | __unaligned
+0x1001eb80 | 11 | ASCII | __restrict
+0x1001eb8c | 8 | ASCII | __ptr64
+0x1001eb94 | 10 | ASCII | __clrcall
+0x1001eba0 | 11 | ASCII | __fastcall
+0x1001ebac | 11 | ASCII | __thiscall
+0x1001ebb8 | 10 | ASCII | __stdcall
+0x1001ebc4 | 9 | ASCII | __pascal
+0x1001ebd0 | 8 | ASCII | __cdecl
+0x1001ebd8 | 9 | ASCII | __based(
+0x1001ed68 | 26 | ASCII | GetUserObjectInformationA
+0x1001ed84 | 12 | ASCII | MessageBoxA
+0x1001ed90 | 11 | ASCII | USER32.DLL
+0x1001ed9c | 38 | ASCII | InitializeCriticalSectionAndSpinCount
+0x1001edc4 | 13 | ASCII | kernel32.dll
+0x1001edfd | 5 | ASCII | ('8PW
+0x1001ee06 | 5 | ASCII | 700PP
+0x1001ee18 | 18 | ASCII | `h`hhhxppwpp
+0x1001f3c7 | 5 | ASCII | 	\n
+0x1001f3e0 | 95 | ASCII |  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+0x1001f547 | 5 | ASCII | 	\n
+0x1001f560 | 95 | ASCII |  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+0x1001f640 | 9 | ASCII | HH:mm:ss
+0x1001f64c | 20 | ASCII | dddd, MMMM dd, yyyy
+0x1001f660 | 9 | ASCII | MM/dd/yy
+0x1001f674 | 9 | ASCII | December
+0x1001f680 | 9 | ASCII | November
+0x1001f68c | 8 | ASCII | October
+0x1001f694 | 10 | ASCII | September
+0x1001f6a0 | 7 | ASCII | August
+0x1001f6b8 | 6 | ASCII | April
+0x1001f6c0 | 6 | ASCII | March
+0x1001f6c8 | 9 | ASCII | February
+0x1001f6d4 | 8 | ASCII | January
+0x1001f70c | 9 | ASCII | Saturday
+0x1001f718 | 7 | ASCII | Friday
+0x1001f720 | 9 | ASCII | Thursday
+0x1001f72c | 10 | ASCII | Wednesday
+0x1001f738 | 8 | ASCII | Tuesday
+0x1001f740 | 7 | ASCII | Monday
+0x1001f748 | 7 | ASCII | Sunday
+0x1001f76c | 7 | ASCII | 1#QNAN
+0x1001f774 | 6 | ASCII | 1#INF
+0x1001f77c | 6 | ASCII | 1#IND
+0x1001f784 | 7 | ASCII | 1#SNAN
+0x1001f78c | 22 | ASCII | SunMonTueWedThuFriSat
+0x1001f7a4 | 37 | ASCII | JanFebMarAprMayJunJulAugSepOctNovDec
+0x1001f7cc | 8 | ASCII | CONOUT$
+0x10020846 | 13 | ASCII | NxGetUtilLib
+0x10020854 | 16 | ASCII | PhysXLoader.dll
+0x10020866 | 10 | ASCII | HeapAlloc
+0x10020872 | 13 | ASCII | GetLastError
+0x10020882 | 9 | ASCII | HeapFree
+0x1002088e | 10 | ASCII | RtlUnwind
+0x1002089a | 14 | ASCII | WriteConsoleW
+0x100208aa | 12 | ASCII | GetFileType
+0x100208b8 | 13 | ASCII | GetStdHandle
+0x100208c8 | 19 | ASCII | GetModuleFileNameW
+0x100208de | 19 | ASCII | GetCurrentThreadId
+0x100208f4 | 16 | ASCII | GetCommandLineA
+0x10020906 | 14 | ASCII | GetVersionExA
+0x10020916 | 15 | ASCII | GetProcessHeap
+0x10020928 | 15 | ASCII | GetProcAddress
+0x1002093a | 17 | ASCII | GetModuleHandleA
+0x1002094e | 25 | ASCII | UnhandledExceptionFilter
+0x1002096a | 28 | ASCII | SetUnhandledExceptionFilter
+0x10020988 | 10 | ASCII | WriteFile
+0x10020994 | 19 | ASCII | GetModuleFileNameA
+0x100209aa | 12 | ASCII | TlsGetValue
+0x100209b8 | 9 | ASCII | TlsAlloc
+0x100209c4 | 12 | ASCII | TlsSetValue
+0x100209d2 | 8 | ASCII | TlsFree
+0x100209dc | 21 | ASCII | InterlockedIncrement
+0x100209f4 | 13 | ASCII | SetLastError
+0x10020a04 | 21 | ASCII | InterlockedDecrement
+0x10020a1c | 22 | ASCII | DeleteCriticalSection
+0x10020a34 | 21 | ASCII | LeaveCriticalSection
+0x10020a4c | 21 | ASCII | EnterCriticalSection
+0x10020a64 | 12 | ASCII | VirtualFree
+0x10020a72 | 13 | ASCII | VirtualAlloc
+0x10020a82 | 12 | ASCII | HeapReAlloc
+0x10020a90 | 12 | ASCII | HeapDestroy
+0x10020a9e | 11 | ASCII | HeapCreate
+0x10020aac | 12 | ASCII | ExitProcess
+0x10020aba | 15 | ASCII | RaiseException
+0x10020acc | 17 | ASCII | TerminateProcess
+0x10020ae0 | 18 | ASCII | GetCurrentProcess
+0x10020af4 | 18 | ASCII | IsDebuggerPresent
+0x10020b08 | 13 | ASCII | LoadLibraryW
+0x10020b18 | 20 | ASCII | WideCharToMultiByte
+0x10020b2e | 6 | ASCII | Sleep
+0x10020b36 | 15 | ASCII | SetHandleCount
+0x10020b48 | 16 | ASCII | GetStartupInfoA
+0x10020b5a | 24 | ASCII | FreeEnvironmentStringsA
+0x10020b74 | 22 | ASCII | GetEnvironmentStrings
+0x10020b8c | 24 | ASCII | FreeEnvironmentStringsW
+0x10020ba6 | 23 | ASCII | GetEnvironmentStringsW
+0x10020bc0 | 24 | ASCII | QueryPerformanceCounter
+0x10020bda | 13 | ASCII | GetTickCount
+0x10020bea | 20 | ASCII | GetCurrentProcessId
+0x10020c00 | 24 | ASCII | GetSystemTimeAsFileTime
+0x10020c1a | 10 | ASCII | GetCPInfo
+0x10020c26 | 7 | ASCII | GetACP
+0x10020c30 | 9 | ASCII | GetOEMCP
+0x10020c3c | 13 | ASCII | LoadLibraryA
+0x10020c4c | 20 | ASCII | MultiByteToWideChar
+0x10020c62 | 15 | ASCII | GetLocaleInfoA
+0x10020c74 | 26 | ASCII | InitializeCriticalSection
+0x10020c90 | 13 | ASCII | GetConsoleCP
+0x10020ca0 | 15 | ASCII | GetConsoleMode
+0x10020cb2 | 17 | ASCII | FlushFileBuffers
+0x10020cc6 | 15 | ASCII | SetFilePointer
+0x10020cd8 | 9 | ASCII | HeapSize
+0x10020ce4 | 13 | ASCII | LCMapStringA
+0x10020cf4 | 13 | ASCII | LCMapStringW
+0x10020d04 | 15 | ASCII | GetStringTypeA
+0x10020d16 | 15 | ASCII | GetStringTypeW
+0x10020d28 | 14 | ASCII | WriteConsoleA
+0x10020d38 | 19 | ASCII | GetConsoleOutputCP
+0x10020d4e | 13 | ASCII | SetStdHandle
+0x10020d5e | 12 | ASCII | CreateFileA
+0x10020d6c | 12 | ASCII | CloseHandle
+0x10020d78 | 13 | ASCII | KERNEL32.dll
+0x10020dfe | 16 | ASCII | NxCharacter.dll
+0x10020e0e | 31 | ASCII | ??0NxControllerManager@@IAE@XZ
+0x10020e2d | 36 | ASCII | ??0NxControllerManager@@QAE@ABV0@@Z
+0x10020e51 | 31 | ASCII | ??1NxControllerManager@@MAE@XZ
+0x10020e70 | 40 | ASCII | ??4NxControllerManager@@QAEAAV0@ABV0@@Z
+0x10020e98 | 29 | ASCII | ??_7NxControllerManager@@6B@
+0x10020eb5 | 26 | ASCII | NxCreateControllerManager
+0x10020ecf | 27 | ASCII | NxReleaseControllerManager
+0x10021008 | 19 | ASCII | .?AVNxController@@
+0x10021024 | 22 | ASCII | .?AVNxBoxController@@
+0x10021044 | 18 | ASCII | .?AVNxShapeDesc@@
+0x10021060 | 20 | ASCII | .?AVBoxController@@
+0x1002107c | 17 | ASCII | .?AVController@@
+0x10021098 | 21 | ASCII | .?AVNxBoxShapeDesc@@
+0x100210b8 | 26 | ASCII | .?AVNxCapsuleController@@
+0x100210dc | 24 | ASCII | .?AVCapsuleController@@
+0x100210fc | 25 | ASCII | .?AVNxCapsuleShapeDesc@@
+0x100211b0 | 26 | ASCII | .?AVNxControllerManager@@
+0x100211d8 | 33 | ASCII | .?AVCharacterControllerManager@@
+0x10021204 | 15 | ASCII | .?AVSweptBox@@
+0x1002121c | 18 | ASCII | .?AVSweptVolume@@
+0x10021238 | 19 | ASCII | .?AVSweptCapsule@@
+0x10021260 | 16 | ASCII | .?AVtype_info@@
+0x1002131c | 20 | ASCII | .?AVbad_alloc@std@@
+0x10021338 | 20 | ASCII | .?AVexception@std@@
+0x1002181c | 24 | ASCII | .?AVbad_exception@std@@
+0x10021af0 | 40 | ASCII | Assertion failed: %s, file %s, line %d\n
+0x10021c6e | 27 | ASCII |                           
+0x10021d4e | 27 | ASCII | abcdefghijklmnopqrstuvwxyz
+0x10021d6e | 27 | ASCII | ABCDEFGHIJKLMNOPQRSTUVWXYZ
+0x10021e72 | 27 | ASCII |                           
+0x10021f59 | 27 | ASCII | abcdefghijklmnopqrstuvwxyz
+0x10021f79 | 27 | ASCII | ABCDEFGHIJKLMNOPQRSTUVWXYZ
+0x1002267e | 5 | ASCII | z?aUY
+0x100226c0 | 5 | ASCII | zc%C1
+0x10022713 | 5 | ASCII | -64OS

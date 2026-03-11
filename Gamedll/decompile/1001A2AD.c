@@ -1,0 +1,12 @@
+/*
+ * func-name: ?WriteSnapshot@SuspendVehicle@GameClient@@UAE_NAAVBinStream@@@Z
+ * func-address: 0x1001a2ad
+ * callers: none
+ * callees: none
+ */
+
+// attributes: thunk
+bool __thiscall GameClient::SuspendVehicle::WriteSnapshot(GameClient::SuspendVehicle *this, struct BinStream *a2)
+{
+  return ?WriteSnapshot@SuspendVehicle@GameClient@@UAE_NAAVBinStream@@@Z_0(this, a2);
+}

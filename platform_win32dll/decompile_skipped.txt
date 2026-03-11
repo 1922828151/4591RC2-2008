@@ -1,0 +1,29 @@
+# Skipped 25 functions
+# Format: address | function_name | reason
+#================================================================================
+
+0x10019750 | @__security_check_cookie@4 | library function
+0x10019766 | __onexit | library function
+0x10019805 | _atexit | library function
+0x10019820 | ??_Etype_info@@UAEPAXI@Z | library function
+0x10019870 | ??3@YAXPAX@Z | library function
+0x10019882 | ??2@YAPAXI@Z | library function
+0x10019890 | __ftol2_sse | library function
+0x10019940 | __alloca_probe | library function
+0x1001996b | __except_handler4 | library function
+0x1001998e | _pre_c_init | library function
+0x100199db | __CRT_INIT@12 | library function
+0x10019b7a | ___DllMainCRTStartup | library function
+0x10019c90 | DllEntryPoint | library function
+0x10019cb1 | ___report_gsfailure | library function
+0x10019dc8 | __SEH_prolog4 | library function
+0x10019e0d | __SEH_epilog4 | library function
+0x10019e21 | ?__ArrayUnwind@@YGXPAXIHP6EX0@Z@Z | library function
+0x10019e7f | ??_M@YGXPAXIHP6EX0@Z@Z | library function
+0x10019ee2 | _has_osfxsr_set | library function
+0x10019f32 | __get_sse2_info | library function
+0x1001a000 | __ValidateImageBase | library function
+0x1001a030 | __FindPESection | library function
+0x1001a072 | __IsNonwritableInCurrentImage | library function
+0x1001a0f6 | ___security_init_cookie | library function
+0x1001a190 | ?terminate@@YAXXZ | library function

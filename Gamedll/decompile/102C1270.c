@@ -1,0 +1,13 @@
+/*
+ * func-name: sub_102C1270
+ * func-address: 0x102c1270
+ * callers: 0x100496c0, 0x10049720, 0x10095a70, 0x1009fb40, 0x100bfb70, 0x100c00f0, 0x100c03f0, 0x100c1310, 0x100c7ff0, 0x100c8060, 0x100d91a0, 0x100dd960, 0x100f3370, 0x10148810, 0x10159eb0, 0x1015a9a0, 0x10169600, 0x10177cc0, 0x10178990, 0x10196950, 0x1019adb0, 0x101b1760, 0x101b3cc0, 0x103033f0
+ * callees: none
+ */
+
+void __thiscall sub_102C1270(float *this, float a2)
+{
+  this[10] = a2;
+  this[5] = a2;
+  *this = a2;
+}

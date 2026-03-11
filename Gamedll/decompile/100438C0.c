@@ -1,0 +1,17 @@
+/*
+ * func-name: ??0RobotSuicideConfirmCallback@GameClient@@QAE@ABV01@@Z_0
+ * func-address: 0x100438c0
+ * callers: 0x10015eb0
+ * callees: none
+ */
+
+GameClient::RobotSuicideConfirmCallback *__thiscall GameClient::RobotSuicideConfirmCallback::RobotSuicideConfirmCallback(
+        GameClient::RobotSuicideConfirmCallback *this,
+        const struct GameClient::RobotSuicideConfirmCallback *a2)
+{
+  GameClient::RobotSuicideConfirmCallback *result; // eax
+
+  result = this;
+  *(_DWORD *)this = &GameClient::RobotSuicideConfirmCallback::`vftable';
+  return result;
+}

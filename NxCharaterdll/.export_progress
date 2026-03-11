@@ -1,0 +1,882 @@
+# Export Progress
+# Format: address | status (done/failed/skipped)
+10001000|done
+1001B001|done
+1001880E|done
+10001810|done
+10001020|done
+10004820|done
+1000A021|done
+10010021|done
+10013822|done
+10012029|done
+1000A82A|done
+1001002A|done
+10001030|done
+1000F839|done
+1001483E|done
+1000E845|done
+1000A846|done
+10014848|done
+1000F849|done
+1001484B|done
+1000F850|done
+1000C063|done
+1000F865|done
+10012866|done
+10013871|done
+1000F87C|done
+10003880|done
+10009080|done
+1000C084|done
+1000B08B|done
+1000E88E|done
+10009090|done
+1000F895|done
+10018895|done
+1001389A|done
+1001309B|done
+100010A0|done
+100090A0|done
+1000C0A3|done
+100140A3|done
+100168A5|done
+1000D0A6|done
+100198A3|done
+1000A0B5|done
+100148B7|done
+100100BE|done
+1000C0CC|done
+1000C8D1|done
+1000F8D8|done
+100108D9|done
+1000B8DA|done
+100148D8|done
+100070E0|done
+100170E0|done
+1000A0E5|done
+1000B0E9|done
+100168E9|done
+1000A0EC|done
+1000F0EE|done
+100148FC|done
+10009900|done
+1000F106|done
+1000C108|done
+10004110|done
+10009110|done
+10009920|done
+10017123|done
+1000F925|done
+10004930|done
+1000C131|done
+10014932|done
+1000C93A|done
+1000A13E|done
+1001313F|done
+10009940|done
+10011140|done
+10014140|done
+10014940|done
+1001814A|done
+1000B14C|done
+10009950|done
+1001A95A|done
+10014960|done
+1000D966|done
+10005170|done
+1000B170|done
+1000A174|done
+10018978|done
+1001A979|done
+1000B186|done
+1001698C|done
+10009190|done
+10012190|done
+1000B19C|done
+100109A2|done
+1000A1A4|done
+100111A5|done
+100149A5|done
+1001A9A6|done
+1000B9A8|done
+1000D1AC|done
+1000C1B0|done
+100139B1|done
+1000B1B5|done
+100199B6|done
+100109B8|done
+100131B9|done
+100121BB|done
+100101BC|done
+1000B1C0|done
+1000D9C1|done
+100101C2|done
+1000B9C6|done
+100199CD|done
+100031D0|done
+100161D0|done
+1001A1D1|done
+100139D8|done
+100091E0|done
+1000F9E0|done
+1000B1E2|done
+1000F1EA|done
+100021F0|done
+100091F0|done
+1000F9F7|done
+1000B1FA|done
+100129FE|done
+10002A00|done
+10009200|done
+10012209|done
+10002210|done
+10009210|done
+10011216|done
+1000DA1B|done
+10002A20|done
+10012221|done
+10014220|done
+1000F223|done
+10014A29|done
+1000EA2A|done
+10002230|done
+10009230|done
+1000E230|done
+10010A32|done
+1000F236|done
+1000C238|done
+1001AA3A|done
+1001423F|done
+1000FA40|done
+10019240|done
+10014248|done
+10014A4C|done
+1000E251|done
+10014A55|done
+1000FA5E|done
+10002260|done
+1000B264|done
+10016265|done
+1000F26D|done
+10010273|done
+10014A74|done
+10014A77|done
+1000A279|done
+10012279|done
+10013A7E|done
+10014A7F|done
+10006A80|done
+1000F280|done
+1000DA8F|done
+10001290|done
+1001228F|done
+10019A8F|done
+10010293|done
+1001229C|done
+10010A9E|done
+10016AAA|done
+100092B0|done
+100142B2|done
+1000DAB3|done
+10012AB7|done
+100122B8|done
+1000CABE|done
+100072C0|done
+100102C2|done
+1000CAC8|done
+1000F2CC|done
+100192CE|done
+10014ACF|done
+10003AD0|done
+1000DAD9|done
+100172DB|done
+10010AE4|done
+100102E5|done
+1000DAEE|done
+10002AF0|done
+100092F0|done
+10009AF0|done
+1000DAF7|done
+10001300|done
+1000DB00|done
+1001AB07|done
+10019B10|done
+1000CB11|done
+10010314|done
+1000A316|done
+1000DB18|done
+1001731B|done
+10009B20|done
+1000C32B|done
+10014B2F|done
+10013B30|done
+10010337|done
+1000DB38|done
+10014B3C|done
+10004340|done
+10009B40|done
+1000C349|done
+10004B50|done
+10009350|done
+10009B50|done
+10010350|done
+10001360|done
+10013364|done
+10012365|done
+1000CB66|done
+1001936E|done
+1000DB6F|done
+10001370|done
+1000CB7B|done
+10001380|done
+10006B80|done
+10019B81|done
+10010384|done
+1000A389|done
+10001390|done
+10009390|done
+10010391|done
+10012394|done
+100013A0|done
+1000EBA9|done
+1000DBAB|done
+10015BAB|done
+100013B0|done
+1000A3B1|done
+100163B4|done
+100013C0|done
+100013D0|done
+1000F3D0|done
+1000A3D2|done
+100123D0|done
+1001ABD0|done
+100123E2|done
+10012BEC|done
+1001A3FC|done
+10007C00|done
+1000FC08|done
+10017C08|done
+10008410|done
+10012C10|done
+1000FC12|done
+1000A41E|done
+10004C20|done
+10019C21|done
+1001A425|done
+1000F427|done
+1001242C|done
+10009430|done
+1000E432|done
+10012C34|done
+10012C35|done
+10014C38|done
+1000EC3A|done
+1000B43D|done
+1000CC3E|done
+1000DC3D|done
+1001AC40|done
+10019C43|done
+10014450|done
+1001AC50|done
+1001AC56|done
+1000E45A|done
+1001145C|done
+10014C5D|done
+1000E465|done
+1001246C|done
+1001A46C|done
+1000CC6F|done
+10002C70|done
+10003470|done
+1000E471|done
+1000A47C|done
+10001C80|done
+10006C80|done
+10014C82|done
+10015C87|done
+1000D48B|done
+1001648F|done
+10001490|done
+1000A490|done
+1000E498|done
+100014A0|done
+100064A0|done
+1000ECA6|done
+100174AB|done
+100124B4|done
+10015CB4|done
+1000F4B6|done
+1000CCB7|done
+100164B7|done
+10019CB6|done
+10016CC5|done
+10006CD0|done
+1000F4D0|done
+10014CD1|done
+100164D2|done
+1000CCE2|done
+1000C4E9|done
+100174EB|done
+100164ED|done
+1000E4EE|done
+1000F4EE|done
+10004CF0|done
+10001CF0|done
+100134FE|done
+100124FF|done
+10009500|done
+10014503|done
+1000DD0B|done
+1001150D|done
+1000FD0E|done
+1001AD0E|done
+10005510|done
+1000A510|done
+10016D16|done
+1000DD1C|done
+1001351C|done
+1001451E|done
+10001520|done
+10009D20|done
+1000C522|done
+10014528|done
+1000DD2B|done
+1001152B|done
+10016D2B|done
+10001530|done
+10003D30|done
+1000FD32|done
+1000B533|done
+10019D32|done
+1000BD37|done
+10014538|done
+10016D3E|done
+10010541|done
+1001654B|done
+10001D50|done
+1000A550|done
+10009D50|done
+1000B554|done
+10001D60|done
+10006D60|done
+10009D60|done
+1000E560|done
+1000E56B|done
+10001D70|done
+10009D70|done
+1000DD77|done
+10001D80|done
+10017580|done
+1000C585|done
+1000A58B|done
+1000E58D|done
+1000C58E|done
+10009D8F|done
+10001D90|done
+10005D90|done
+10015D95|done
+1000ED98|done
+10012DA4|done
+1000A5A8|done
+1000DDB2|done
+10012DBF|done
+10002DC0|done
+100035C0|done
+100115C1|done
+10015DC1|done
+1000DDC5|done
+10012DC5|done
+100045D0|done
+100175D0|done
+1000B5D6|done
+1000DDD8|done
+100045E0|done
+100155E5|done
+1000E5E9|done
+10009DEF|done
+100045F0|done
+1000C5F1|done
+100115F0|done
+1000DDF6|done
+1000C5FA|done
+10004600|done
+10009600|done
+1000DE00|done
+10014600|done
+10009E0D|done
+10004610|done
+10017610|done
+10009E1B|done
+1001A61E|done
+10009620|done
+1000DE22|done
+10011623|done
+1000C624|done
+1000FE28|done
+1000BE2C|done
+1000E62D|done
+10009E37|done
+1000A640|done
+1000B647|done
+10011647|done
+1000DE4C|done
+1000FE50|done
+10009E52|done
+1001365C|done
+10012E60|done
+1000C661|done
+10015E60|done
+10004670|done
+10001E70|done
+10008E70|done
+10009E7C|done
+10001E80|done
+10009E81|done
+1000A680|done
+10019680|done
+10012E8D|done
+10001E90|done
+10011691|done
+10014690|done
+10013EA0|done
+1000DEA7|done
+100166AA|done
+1000FEB2|done
+100196B4|done
+1000A6BB|done
+10012EBC|done
+100166C5|done
+100196C5|done
+1000B6C7|done
+100176C6|done
+10009ED0|done
+100146D6|done
+1000A6D8|done
+1000B6DD|done
+100106DF|done
+10001EE0|done
+10002EE0|done
+100136E2|done
+1000BEE5|done
+100146F2|done
+1000FEF4|done
+100166FB|done
+10006F00|done
+10016709|done
+1000E70E|done
+10002710|done
+10012F11|done
+1000C715|done
+1000B71D|done
+10003F20|done
+10014722|done
+10013F2B|done
+10001F30|done
+1000B734|done
+1001473C|done
+1001273F|done
+10001F40|done
+10001F50|done
+1000B751|done
+1000E753|done
+1000DF56|done
+1000B75F|done
+10009760|done
+10014760|done
+1000B76D|done
+1001376E|done
+10001F70|done
+1000A770|done
+1000D770|done
+10001F80|done
+1000A784|done
+1001278B|done
+1001678C|done
+1000A78D|done
+10001F90|done
+10014790|done
+10009F93|done
+1000C798|done
+1000E7A7|done
+100137AC|done
+1000C7B0|done
+1000D7B5|done
+100017C0|done
+10019FC4|done
+1000E7CC|done
+1000FFCE|done
+100107CE|done
+1000D7D0|done
+100147D2|done
+1000BFDD|done
+10013FE8|done
+1001A7EA|done
+10002FF0|done
+1000CFF6|done
+100107F8|done
+100091E0|skipped|unknown_libname_1|library function
+10009D8F|skipped|__cfltcvt_init|library function
+10009DEF|skipped|__fpmath|library function
+10009E37|skipped|unknown_libname_2|library function
+10009E52|skipped|__purecall|library function
+10009E81|skipped|_V6_HeapAlloc|library function
+10009ED0|skipped|_malloc|library function
+10009F93|skipped|_free|library function
+1000A021|skipped|__fpclass|library function
+1000A0B5|skipped|?_JumpToContinuation@@YGXPAXPAUEHRegistrationNode@@@Z|library function
+1000A0E5|skipped|sub_1000A0E5|library function
+1000A0EC|skipped|?_UnwindNestedFrames@@YGXPAUEHRegistrationNode@@PAUEHExceptionRecord@@@Z|library function
+1000A13E|skipped|___CxxFrameHandler3|library function
+1000A174|skipped|?CatchGuardHandler@@YA?AW4_EXCEPTION_DISPOSITION@@PAUEHExceptionRecord@@PAUCatchGuardRN@@PAX2@Z|library function
+1000A1A4|skipped|?_CallSETranslator@@YAHPAUEHExceptionRecord@@PAUEHRegistrationNode@@PAX2PBU_s_FuncInfo@@H1@Z|library function
+1000A279|skipped|?TranslatorGuardHandler@@YA?AW4_EXCEPTION_DISPOSITION@@PAUEHExceptionRecord@@PAUTranslatorGuardRN@@PAX2@Z|library function
+1000A316|skipped|?_GetRangeOfTrysToCheck@@YAPBU_s_TryBlockMapEntry@@PBU_s_FuncInfo@@HHPAI1@Z|library function
+1000A389|skipped|__CreateFrameInfo|library function
+1000A3B1|skipped|__IsExceptionObjectToBeDestroyed|library function
+1000A3D2|skipped|__FindAndUnlinkFrame|library function
+1000A41E|skipped|?_CallCatchBlock2@@YAPAXPAUEHRegistrationNode@@PBU_s_FuncInfo@@PAXHK@Z|library function
+1000A47C|skipped|@__security_check_cookie@4|library function
+1000A490|skipped|_memset|library function
+1000A510|skipped|_cos|library function
+1000A550|skipped|__CIcos|library function
+1000A58B|skipped|__CIcos_default|library function
+1000A5A8|skipped|start|library function
+1000A640|skipped|_sin|library function
+1000A680|skipped|__CIsin|library function
+1000A6BB|skipped|__CIsin_default|library function
+1000A6D8|skipped|start_0|library function
+1000A770|skipped|__CIsqrt|library function
+1000A784|skipped|_sqrt|library function
+1000A78D|skipped|start_1|library function
+1000A82A|skipped|_swprintf|library function
+1000A846|skipped|__wassert|library function
+1000B08B|skipped|?__ArrayUnwind@@YGXPAXIHP6EX0@Z@Z|library function
+1000B0E9|skipped|??_M@YGXPAXIHP6EX0@Z@Z|library function
+1000B14C|skipped|__get_printf_count_output|library function
+1000B170|skipped|__alloca_probe_16|library function
+1000B186|skipped|__alloca_probe_8|library function
+1000B19C|skipped|??0bad_alloc@std@@QAE@XZ|library function
+1000B1FA|skipped|??2@YAPAXI@Z|library function
+1000B264|skipped|__CRT_INIT@12|library function
+1000B43D|skipped|___DllMainCRTStartup|library function
+1000B533|skipped|DllEntryPoint|library function
+1000B554|skipped|??0_LocaleUpdate@@QAE@PAUlocaleinfo_struct@@@Z|library function
+1000B5D6|skipped|__forcdecpt_l|library function
+1000B647|skipped|__cropzeros_l|library function
+1000B6C7|skipped|__positive|library function
+1000B6DD|skipped|__fassign_l|library function
+1000B71D|skipped|__fassign|library function
+1000B734|skipped|__shift|library function
+1000B751|skipped|__forcdecpt|library function
+1000B75F|skipped|__cropzeros|library function
+1000B76D|skipped|__cftoe2_l|library function
+1000B8DA|skipped|__cftoe_l|library function
+1000B9A8|skipped|__cftoe|library function
+1000B9C6|skipped|__cftoa_l|library function
+1000BD37|skipped|__cftof2_l|library function
+1000BE2C|skipped|__cftof_l|library function
+1000BEE5|skipped|__cftog_l|library function
+1000BFDD|skipped|__cfltcvt_l|library function
+1000C063|skipped|__cfltcvt|library function
+1000C084|skipped|__initp_misc_cfltcvt_tab|library function
+1000C0A3|skipped|__setdefaultprecision|library function
+1000C0CC|skipped|__ms_p5_test_fdiv|library function
+1000C108|skipped|__ms_p5_mp_test_fdiv|library function
+1000C131|skipped|?_Type_info_dtor@type_info@@CAXPAV1@@Z|library function
+1000C1B0|skipped|_strcmp|library function
+1000C238|skipped|_abort|library function
+1000C32B|skipped|__set_abort_behavior|library function
+1000C349|skipped|__NMSG_WRITE|library function
+1000C4E9|skipped|__FF_MSGBANNER|library function
+1000C522|skipped|__encode_pointer|library function
+1000C585|skipped|__encoded_null|library function
+1000C58E|skipped|__decode_pointer|library function
+1000C5F1|skipped|___crtTlsAlloc@4|library function
+1000C5FA|skipped|___set_flsgetvalue|library function
+1000C624|skipped|__mtterm|library function
+1000C661|skipped|__initptd|library function
+1000C715|skipped|__getptd_noexit|library function
+1000C798|skipped|__getptd|library function
+1000C7B0|skipped|__freefls@4|library function
+1000C8D1|skipped|__freeptd|library function
+1000C93A|skipped|__mtinit|library function
+1000CAC8|skipped|__mtinitlocks|library function
+1000CB11|skipped|__mtdeletelocks|library function
+1000CB66|skipped|__unlock|library function
+1000CB7B|skipped|__mtinitlocknum|library function
+1000CC3E|skipped|__lock|library function
+1000CC6F|skipped|___sbh_heap_init|library function
+1000CCB7|skipped|___sbh_find_block|library function
+1000CCE2|skipped|___sbh_free_block|library function
+1000CFF6|skipped|___sbh_alloc_new_region|library function
+1000D0A6|skipped|___sbh_alloc_new_group|library function
+1000D1AC|skipped|___sbh_resize_block|library function
+1000D48B|skipped|___sbh_alloc_block|library function
+1000D770|skipped|__SEH_prolog4|library function
+1000D7B5|skipped|__SEH_epilog4|library function
+1000D7D0|skipped|__except_handler4|library function
+1000D966|skipped|___heap_select|library function
+1000D9C1|skipped|__heap_init|library function
+1000DA1B|skipped|__heap_term|library function
+1000DA8F|skipped|__amsg_exit|library function
+1000DAB3|skipped|___crtCorExitProcess|library function
+1000DAD9|skipped|___crtExitProcess|library function
+1000DAEE|skipped|__lockexit|library function
+1000DAF7|skipped|__unlockexit|library function
+1000DB00|skipped|__initterm|library function
+1000DB18|skipped|__initterm_e|library function
+1000DBAB|skipped|__cinit|library function
+1000DC3D|skipped|_doexit|library function
+1000DD0B|skipped|__exit|library function
+1000DD1C|skipped|__cexit|library function
+1000DD2B|skipped|__init_pointers|library function
+1000DD77|skipped|__get_errno_from_oserr|library function
+1000DDB2|skipped|__errno|library function
+1000DDC5|skipped|___doserrno|library function
+1000DDD8|skipped|__dosmaperr|library function
+1000DE00|skipped|__callnewh|library function
+1000DE22|skipped|__set_exp|library function
+1000DE4C|skipped|__sptype|library function
+1000DEA7|skipped|__decomp|library function
+1000DF56|skipped|__raise_exc_ex|library function
+1000E230|skipped|__raise_exc|library function
+1000E251|skipped|__handle_exc|library function
+1000E432|skipped|__set_errno|library function
+1000E45A|skipped|__statfp|library function
+1000E465|skipped|__clrfp|library function
+1000E471|skipped|__ctrlfp|library function
+1000E498|skipped|__set_statfp|library function
+1000E4EE|skipped|___set_fpsr_sse2|library function
+1000E58D|skipped|___TypeMatch|library function
+1000E5E9|skipped|___FrameUnwindFilter|library function
+1000E62D|skipped|___FrameUnwindToState|library function
+1000E70E|skipped|?ExFilterRethrow@@YAHPAU_EXCEPTION_POINTERS@@@Z|library function
+1000E753|skipped|___DestructExceptionObject|library function
+1000E7A7|skipped|___AdjustPointer|library function
+1000E7CC|skipped|?IsInExceptionSpec@@YAEPAUEHExceptionRecord@@PBU_s_ESTypeList@@@Z|library function
+1000E845|skipped|?CallUnexpected@@YAXPBU_s_ESTypeList@@@Z|library function
+1000E88E|skipped|?CallCatchBlock@@YAPAXPAUEHExceptionRecord@@PAUEHRegistrationNode@@PAU_CONTEXT@@PBU_s_FuncInfo@@PAXHK@Z|library function
+1000EA2A|skipped|___BuildCatchObjectHelper|library function
+1000EBA9|skipped|___BuildCatchObject|library function
+1000EC3A|skipped|?CatchIt@@YAXPAUEHExceptionRecord@@PAUEHRegistrationNode@@PAU_CONTEXT@@PAXPBU_s_FuncInfo@@PBU_s_HandlerType@@PBU_s_CatchableType@@PBU_s_TryBlockMapEntry@@H1E@Z|library function
+1000ECA6|skipped|?FindHandlerForForeignException@@YAXPAUEHExceptionRecord@@PAUEHRegistrationNode@@PAU_CONTEXT@@PAXPBU_s_FuncInfo@@HH1@Z|library function
+1000ED98|skipped|?FindHandler@@YAXPAUEHExceptionRecord@@PAUEHRegistrationNode@@PAU_CONTEXT@@PAXPBU_s_FuncInfo@@EH1@Z|library function
+1000F106|skipped|___InternalCxxFrameHandler|library function
+1000F1EA|skipped|?terminate@@YAXXZ|library function
+1000F223|skipped|?unexpected@@YAXXZ|library function
+1000F236|skipped|?_inconsistency@@YAXXZ|library function
+1000F26D|skipped|__initp_eh_hooks|library function
+1000F280|skipped|__CallSettingFrame@12|library function
+1000F2CC|skipped|___report_gsfailure|library function
+1000F3D0|skipped|_fastzero_I|library function
+1000F427|skipped|__VEC_memzero|library function
+1000F4B6|skipped|__sse2_mathfcns_init|library function
+1000F4D0|skipped|__CIcos_pentium4|library function
+1000F4EE|skipped|start_2|library function
+1000F839|skipped|__rttosnpopde|library function
+1000F849|skipped|chsifnegret|library function
+1000F850|skipped|__twoToTOS|library function
+1000F865|skipped|__load_CW|library function
+1000F87C|skipped|__convertTOStoQNaN|library function
+1000F895|skipped|__fload_withFB|library function
+1000F8D8|skipped|__checkTOS_withFB|library function
+1000F925|skipped|__check_overflow_exit|library function
+1000F9E0|skipped|__startTwoArgErrorHandling|library function
+1000F9F7|skipped|__startOneArgErrorHandling|library function
+1000FA40|skipped|__CIsin_pentium4|library function
+1000FA5E|skipped|start_3|library function
+1000FC12|skipped|__invoke_watson|library function
+1000FD0E|skipped|__invalid_parameter|library function
+1000FD32|skipped|__vswprintf_helper|library function
+1000FE28|skipped|__vswprintf_c_l|library function
+1000FE50|skipped|__flush|library function
+1000FEB2|skipped|__fflush_nolock|library function
+1000FEF4|skipped|_flsall|library function
+1000FFCE|skipped|_fflush|library function
+1001002A|skipped|_fwprintf|library function
+100100BE|skipped|_setvbuf|library function
+100101C2|skipped|___initstdio|library function
+10010273|skipped|___endstdio|library function
+10010293|skipped|__lock_file|library function
+100102C2|skipped|__lock_file2|library function
+100102E5|skipped|__unlock_file|library function
+10010314|skipped|__unlock_file2|library function
+10010337|skipped|__initp_misc_winsig|library function
+10010350|skipped|_siglookup|library function
+10010391|skipped|_raise|library function
+100106DF|skipped|_xtow_s@20|library function
+100107CE|skipped|__itow_s|library function
+100107F8|skipped|_wcsncat_s|library function
+100108D9|skipped|_wcsncpy_s|library function
+100109A2|skipped|_wcslen|library function
+100109B8|skipped|_wcscat_s|library function
+10010A32|skipped|_wcscpy_s|library function
+10010A9E|skipped|__set_error_mode|library function
+10010AE4|skipped|__assert|library function
+10011140|skipped|_strcpy_s|library function
+100111A5|skipped|_strcat_s|library function
+10011216|skipped|__wcstombs_l_helper|library function
+1001145C|skipped|__wcstombs_s_l|library function
+1001150D|skipped|_wcstombs_s|library function
+1001152B|skipped|__stbuf|library function
+100115C1|skipped|__ftbuf|library function
+100115F0|skipped|_write_char|library function
+10011623|skipped|_write_multi_char|library function
+10011647|skipped|_write_string|library function
+10011691|skipped|__output_l|library function
+10012029|skipped|__flsbuf|library function
+10012190|skipped|__alloca_probe|library function
+100121BB|skipped|??0exception@std@@QAE@ABQBD@Z|library function
+10012209|skipped|??0exception@std@@QAE@ABQBDH@Z|library function
+10012221|skipped|??0exception@std@@QAE@ABV01@@Z|library function
+1001228F|skipped|?what@exception@@UBEPBDXZ|library function
+100122B8|skipped|__onexit_nolock|library function
+10012365|skipped|___onexitinit|library function
+10012394|skipped|__onexit|library function
+100123D0|skipped|_atexit|library function
+100123E2|skipped|__CxxThrowException@8|library function
+1001242C|skipped|__malloc_crt|library function
+1001246C|skipped|__calloc_crt|library function
+100124B4|skipped|__realloc_crt|library function
+100124FF|skipped|__ioinit|library function
+1001273F|skipped|__ioterm|library function
+1001278B|skipped|__setenvp|library function
+10012866|skipped|_parse_cmdline|library function
+100129FE|skipped|__setargv|library function
+10012AB7|skipped|___crtGetEnvironmentStringsA|library function
+10012C35|skipped|__XcptFilter|library function
+10012DA4|skipped|___CppXcptFilter|library function
+10012DC5|skipped|___security_init_cookie|library function
+10012E60|skipped|_strrchr|library function
+10012E8D|skipped|_CPtoLCID|library function
+10012EBC|skipped|?setSBCS@@YAXPAUthreadmbcinfostruct@@@Z|library function
+10012F11|skipped|?setSBUpLow@@YAXPAUthreadmbcinfostruct@@@Z|library function
+1001309B|skipped|___updatetmbcinfo|library function
+1001313F|skipped|?getSystemCP@@YAHH@Z|library function
+100131B9|skipped|__setmbcp_nolock|library function
+10013364|skipped|__setmbcp|library function
+100134FE|skipped|___initmbctable|library function
+1001351C|skipped|___freetlocinfo|library function
+1001365C|skipped|___addlocaleref|library function
+100136E2|skipped|___removelocaleref|library function
+1001376E|skipped|__updatetlocinfoEx_nolock|library function
+100137AC|skipped|___updatetlocinfo|library function
+10013822|skipped|__isdigit_l|library function
+10013871|skipped|_isdigit|library function
+1001389A|skipped|__tolower_l|library function
+100139B1|skipped|_tolower|library function
+10013B30|skipped|_memcpy|library function
+10013EA0|skipped|_strlen|library function
+10013F2B|skipped|__fptostr|library function
+10013FE8|skipped|___dtold|library function
+100140A3|skipped|__fltout2|library function
+10014140|skipped|__alldvrm|library function
+10014220|skipped|__aullshr|library function
+1001423F|skipped|__fptrap|library function
+10014248|skipped|__controlfp_s|library function
+10014450|skipped|_strncpy_s|library function
+10014503|skipped|__freea|library function
+10014528|skipped|___crtInitCritSecNoSpinCount@8|library function
+10014538|skipped|___crtInitCritSecAndSpinCount|library function
+10014600|skipped|__local_unwind4|library function
+10014690|skipped|__unwind_handler4|library function
+100146D6|skipped|__seh_longjmp_unwind4@4|library function
+100146F2|skipped|@_EH4_CallFilterFunc@8|library function
+10014722|skipped|@_EH4_GlobalUnwind@4|library function
+1001473C|skipped|@_EH4_LocalUnwind@16|library function
+10014760|skipped|__ValidateImageBase|library function
+10014790|skipped|__FindPESection|library function
+100147D2|skipped|__IsNonwritableInCurrentImage|library function
+1001484B|skipped|?__CxxUnhandledExceptionFilter@@YGJPAU_EXCEPTION_POINTERS@@@Z|library function
+100148B7|skipped|?__CxxSetUnhandledExceptionFilter@@YAHXZ|library function
+100148D8|skipped|?__CxxRestoreUnhandledExceptionFilter@@YAXXZ|library function
+100148FC|skipped|__EH_prolog3_catch|library function
+10014932|skipped|unknown_libname_3|library function
+10014940|skipped|__global_unwind2|library function
+10014960|skipped|__unwind_handler|library function
+100149A5|skipped|__local_unwind2|library function
+10014A29|skipped|__abnormal_termination|library function
+10014A4C|skipped|__NLG_Notify1|library function
+10014A55|skipped|__NLG_Notify|library function
+10014A74|skipped|__NLG_Call|library function
+10014A7F|skipped|_has_osfxsr_set|library function
+10014ACF|skipped|__get_sse2_info|library function
+10014B3C|skipped|__87except|library function
+10014C38|skipped|_write_char_0|library function
+10014C5D|skipped|_write_multi_char_0|library function
+10014C82|skipped|_write_string_0|library function
+10014CD1|skipped|__woutput_l|library function
+100155E5|skipped|__write_nolock|library function
+10015BAB|skipped|__write|library function
+10015C87|skipped|__fileno|library function
+10015CB4|skipped|__commit|library function
+10015D95|skipped|__freebuf|library function
+10015DC1|skipped|__fcloseall|library function
+10015E60|skipped|_memcpy_0|library function
+100161D0|skipped|__aulldvrm|library function
+10016265|skipped|_fprintf|library function
+100163B4|skipped|_xtoa_s@20|library function
+1001648F|skipped|__itoa_s|library function
+100164B7|skipped|__mbsnbcat_s|library function
+100164D2|skipped|__mbsnbcpy_s|library function
+100164ED|skipped|__isatty|library function
+1001654B|skipped|__wctomb_s_l|library function
+100166AA|skipped|_wctomb_s|library function
+100166C5|skipped|__isleadbyte_l|library function
+100166FB|skipped|_isleadbyte|library function
+10016709|skipped|__lseeki64_nolock|library function
+1001678C|skipped|__lseeki64|library function
+100168A5|skipped|__getbuf|library function
+100168E9|skipped|__msize|library function
+1001698C|skipped|__calloc_impl|library function
+10016AAA|skipped|_realloc|library function
+10016CC5|skipped|?x_ismbbtype_l@@YAHPAUlocaleinfo_struct@@IHH@Z|library function
+10016D16|skipped|__ismbblead_l|library function
+10016D2B|skipped|__ismbblead|library function
+10016D3E|skipped|?__crtLCMapStringA_stat@@YAHPAUlocaleinfo_struct@@KKPBDHPADHHH@Z|library function
+100170E0|skipped|___crtLCMapStringA|library function
+10017123|skipped|?__crtGetStringTypeA_stat@@YAHPAUlocaleinfo_struct@@KPBDHPAGHHH@Z|library function
+100172DB|skipped|___crtGetStringTypeA|library function
+1001731B|skipped|__free_lc_time|library function
+100174AB|skipped|___free_lconv_num|library function
+100174EB|skipped|___free_lconv_mon|library function
+10017580|skipped|_strcspn|library function
+100175D0|skipped|_strpbrk|library function
+10017610|skipped|__isctype_l|library function
+1001814A|skipped|___strgtold12_l|library function
+1001880E|skipped|_fastcopy_I|library function
+10018895|skipped|__VEC_memcpy|library function
+10018978|skipped|_$I10_OUTPUT|library function
+10019240|skipped|__hw_cw|library function
+100192CE|skipped|___hw_cw_sse2|library function
+1001936E|skipped|__control87|library function
+10019680|skipped|__allmul|library function
+100196B4|skipped|_atol|library function
+100196C5|skipped|__fputwc_nolock|library function
+100198A3|skipped|__mbtowc_l|library function
+100199B6|skipped|_mbtowc|library function
+100199CD|skipped|__putwch_nolock|library function
+10019A8F|skipped|__free_osfhnd|library function
+10019B10|skipped|__get_osfhandle|library function
+10019B81|skipped|___lock_fhandle|library function
+10019C21|skipped|__unlock_fhandle|library function
+10019C43|skipped|__fclose_nolock|library function
+10019CB6|skipped|_fclose|library function
+10019D32|skipped|__mbsnbcat_s_l|library function
+10019FC4|skipped|__mbsnbcpy_s_l|library function
+1001A1D1|skipped|?strtoxl@@YAKPAUlocaleinfo_struct@@PBDPAPBDHH@Z|library function
+1001A3FC|skipped|_strtol|library function
+1001A425|skipped|___ansicp|library function
+1001A46C|skipped|___convertcp|library function
+1001A61E|skipped|___mtold12|library function
+1001A7EA|skipped|__flswbuf|library function
+1001A95A|skipped|___initconout|library function
+1001A979|skipped|___termcon|library function
+1001A9A6|skipped|__close_nolock|library function
+1001AA3A|skipped|__close|library function
+1001AB07|skipped|_strncat_s|library function
+1001ABD0|skipped|___ascii_strnicmp|library function
+1001AC40|skipped|found_bx|library function
+1001AC50|skipped|_strchr|library function
+1001AC56|skipped|___from_strstr_to_strchr|library function

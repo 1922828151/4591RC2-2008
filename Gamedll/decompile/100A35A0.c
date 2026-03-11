@@ -1,0 +1,21 @@
+/*
+ * func-name: sub_100A35A0
+ * func-address: 0x100a35a0
+ * callers: 0x10012c1f
+ * callees: none
+ */
+
+char *__cdecl sub_100A35A0(char *a1, char *a2, char *a3)
+{
+  char *v3; // edx
+  char *result; // eax
+
+  v3 = a1;
+  for ( result = a3; v3 != a2; result += 28 )
+  {
+    if ( result )
+      qmemcpy(result, v3, 0x1Cu);
+    v3 += 28;
+  }
+  return result;
+}

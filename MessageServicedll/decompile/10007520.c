@@ -1,0 +1,12 @@
+/*
+ * func-name: sub_10007520
+ * func-address: 0x10007520
+ * callers: 0x100012e0, 0x100031b0, 0x10004910, 0x100052a0, 0x10005560, 0x100072f0, 0x10009e60, 0x10010830, 0x10012ad0, 0x10018320, 0x10019140, 0x1001ab90, 0x1001ac90, 0x100250e0, 0x100251f0
+ * callees: none
+ */
+
+// attributes: thunk
+int sub_10007520()
+{
+  return sub_10009030();
+}

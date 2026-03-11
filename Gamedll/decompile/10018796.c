@@ -1,0 +1,12 @@
+/*
+ * func-name: sub_10018796
+ * func-address: 0x10018796
+ * callers: 0x10237c50
+ * callees: none
+ */
+
+// attributes: thunk
+int __cdecl sub_10018796(int a1, int a2, int a3)
+{
+  return sub_10237390(a1, a2, a3);
+}

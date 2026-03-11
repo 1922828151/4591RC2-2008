@@ -1,0 +1,29 @@
+/*
+ * func-name: sub_101F2EB0
+ * func-address: 0x101f2eb0
+ * callers: 0x10014038
+ * callees: 0x1000d0a3, 0x1001aa55, 0x102c9d86
+ */
+
+int __cdecl sub_101F2EB0(int a1, int a2, int a3)
+{
+  int v3; // esi
+  _DWORD v6[7]; // [esp+0h] [ebp-28h] BYREF
+  int v7; // [esp+24h] [ebp-4h]
+
+  v6[6] = v6;
+  v3 = a3;
+  v6[5] = a3;
+  v7 = 0;
+  while ( a1 != a2 )
+  {
+    v6[4] = v3;
+    LOBYTE(v7) = 1;
+    if ( v3 )
+      sub_1001AA55(a1);
+    v3 += 60;
+    LOBYTE(v7) = 0;
+    a1 += 60;
+  }
+  return v3;
+}

@@ -1,0 +1,21 @@
+# Skipped 17 functions
+# Format: address | function_name | reason
+#================================================================================
+
+0x401019 | _WinMain@16 | library function
+0x401710 | @__security_check_cookie@4 | library function
+0x401771 | ___tmainCRTStartup | library function
+0x401a8e | start | library function
+0x401a98 | ___report_gsfailure | library function
+0x401ba8 | __onexit | library function
+0x401c47 | _atexit | library function
+0x401cc0 | __ValidateImageBase | library function
+0x401cf0 | __FindPESection | library function
+0x401d32 | __IsNonwritableInCurrentImage | library function
+0x401dac | __SEH_prolog4 | library function
+0x401df1 | __SEH_epilog4 | library function
+0x401e05 | __except_handler4 | library function
+0x401e2e | __invoke_watson_if_error | library function
+0x401e50 | __setdefaultprecision | library function
+0x401e9e | ___security_init_cookie | library function
+0x402240 | _WinMain@16_0 | library function

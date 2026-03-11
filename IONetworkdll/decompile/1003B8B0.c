@@ -1,0 +1,12 @@
+/*
+ * func-name: sub_1003B8B0
+ * func-address: 0x1003b8b0
+ * callers: 0x1000e250, 0x1000e490, 0x1000e720, 0x1000f9b0, 0x10010440, 0x100117b0, 0x10013430, 0x100292b0, 0x1002d330, 0x1002e210, 0x1002f880, 0x10031010, 0x10031810, 0x100390a0, 0x10042eb0, 0x10043720, 0x100440d0, 0x10044a00, 0x100455d0
+ * callees: none
+ */
+
+// attributes: thunk
+int __cdecl sub_1003B8B0()
+{
+  return sub_1003BA70();
+}

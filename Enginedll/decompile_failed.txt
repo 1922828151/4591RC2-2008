@@ -1,0 +1,6 @@
+# Failed to decompile 2 functions
+# Format: address | function_name | reason
+#================================================================================
+
+0x100a25a0 | sub_100A25A0 | decompile returned None
+0x100c54e0 | ?OnRender@CTYDialog@@UAEJM@Z | decompile returned None

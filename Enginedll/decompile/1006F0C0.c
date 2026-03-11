@@ -1,0 +1,37 @@
+/*
+ * func-name: sub_1006F0C0
+ * func-address: 0x1006f0c0
+ * callers: 0x1006f0c0, 0x1006f8f0
+ * callees: 0x1006d4e0, 0x1006dfe0, 0x1006f0c0, 0x101a2522
+ */
+
+void *__thiscall sub_1006F0C0(_DWORD *this, int *a2, int a3)
+{
+  bool v3; // zf
+  void *v4; // eax
+  _DWORD *v5; // eax
+  _DWORD *v6; // edi
+  int v8; // [esp-8h] [ebp-2Ch]
+  _DWORD v9[4]; // [esp+0h] [ebp-24h] BYREF
+  void *v10; // [esp+10h] [ebp-14h]
+  _DWORD *v11; // [esp+14h] [ebp-10h]
+  int v12; // [esp+20h] [ebp-4h]
+
+  v3 = *((_BYTE *)a2 + 81) == 0;
+  v4 = (void *)this[1];
+  v11 = v9;
+  v9[3] = this;
+  v10 = v4;
+  if ( v3 )
+  {
+    v5 = sub_1006D4E0((int)v4, a3, (int)v4, a2 + 3, *((_BYTE *)a2 + 80));
+    v6 = v5;
+    if ( *((_BYTE *)v10 + 81) )
+      v10 = v5;
+    v8 = *a2;
+    v12 = 0;
+    *v5 = sub_1006F0C0(v8, v5);
+    v6[2] = sub_1006F0C0(a2[2], v6);
+  }
+  return v10;
+}

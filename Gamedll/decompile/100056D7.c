@@ -1,0 +1,78 @@
+/*
+ * func-name: sub_100056D7
+ * func-address: 0x100056d7
+ * callers: none
+ * callees: none
+ */
+
+// attributes: thunk
+int __stdcall sub_100056D7(
+        int a1,
+        int a2,
+        int a3,
+        int a4,
+        float a5,
+        float a6,
+        float a7,
+        float a8,
+        float a9,
+        float a10,
+        float a11,
+        float a12,
+        float a13,
+        float a14,
+        float a15,
+        float a16,
+        float a17,
+        float a18,
+        float a19,
+        float a20,
+        float a21,
+        float a22,
+        float a23,
+        float a24,
+        float a25,
+        float a26,
+        char a27,
+        float a28,
+        float a29,
+        float a30,
+        float a31,
+        int a32,
+        int a33)
+{
+  return sub_100D04D0(
+           a1,
+           a2,
+           a3,
+           a4,
+           a5,
+           a6,
+           a7,
+           a8,
+           a9,
+           a10,
+           a11,
+           a12,
+           a13,
+           a14,
+           a15,
+           a16,
+           a17,
+           a18,
+           a19,
+           a20,
+           a21,
+           a22,
+           a23,
+           a24,
+           a25,
+           a26,
+           a27,
+           a28,
+           a29,
+           a30,
+           a31,
+           a32,
+           a33);
+}

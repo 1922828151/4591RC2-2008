@@ -1,0 +1,49 @@
+# Skipped 45 functions
+# Format: address | function_name | reason
+#================================================================================
+
+0x10009540 | ??1?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@XZ | library function
+0x10016490 | ??0facet@locale@std@@IAE@I@Z | library function
+0x100956a0 | _DllMain@12 | library function
+0x100c8b30 | ??1CPictureLabel@@UAE@XZ | library function
+0x100c8b90 | ??0CREContainer@@QAE@HHH@Z | library function
+0x100cc8a0 | ??1CRENumericEdit@@UAE@XZ | library function
+0x100cc940 | ??0CPicCheckBox@@QAE@PAVCREDialog@@@Z | library function
+0x100dd6d0 | ??1stdiobuf@@UAE@XZ | library function
+0x1013f480 | ??1ios_base@std@@UAE@XZ | library function
+0x10149230 | ??0facet@locale@std@@IAE@I@Z_0 | library function
+0x1015abd0 | ??1strstreambuf@std@@UAE@XZ | library function
+0x1015ac30 | sub_1015AC30 | library function
+0x1015bc10 | ??1strstreambuf@std@@UAE@XZ_0 | library function
+0x1015e0f0 | ??1SurfaceNode@@UAE@XZ | library function
+0x1015e150 | ?SetIndexCode@SurfaceNode@@QAEXHH@Z | library function
+0x101a24b1 | ??_Etype_info@@UAEPAXI@Z | library function
+0x101a2500 | ??3@YAXPAX@Z | library function
+0x101a2534 | ??2@YAPAXI@Z | library function
+0x101a2540 | ?__ArrayUnwind@@YGXPAXIHP6EX0@Z@Z | library function
+0x101a259e | ??_M@YGXPAXIHP6EX0@Z@Z | library function
+0x101a2601 | __onexit | library function
+0x101a26a0 | _atexit | library function
+0x101a26c0 | __ftol2_sse | library function
+0x101a276c | ??1bad_cast@std@@UAE@XZ | library function
+0x101a2772 | ??0bad_cast@std@@QAE@ABV01@@Z | library function
+0x101a2780 | __alloca_probe | library function
+0x101a27ab | ??__C@YGXPAX0IHP6EX00@ZP6EX0@Z@Z | library function
+0x101a2830 | __alldiv | library function
+0x101a28f8 | ??_L@YGXPAXIHP6EX0@Z1@Z | library function
+0x101a2964 | _pre_c_init | library function
+0x101a29b1 | __CRT_INIT@12 | library function
+0x101a2b50 | ___DllMainCRTStartup | library function
+0x101a2c66 | DllEntryPoint | library function
+0x101a2c8e | @__security_check_cookie@4 | library function
+0x101a2ca4 | ?terminate@@YAXXZ | library function
+0x101a2cac | __SEH_prolog4 | library function
+0x101a2cf1 | __SEH_epilog4 | library function
+0x101a2d05 | __except_handler4 | library function
+0x101a2d3a | _has_osfxsr_set | library function
+0x101a2d8a | __get_sse2_info | library function
+0x101a2e50 | __ValidateImageBase | library function
+0x101a2e80 | __FindPESection | library function
+0x101a2ec2 | __IsNonwritableInCurrentImage | library function
+0x101a2f46 | ___security_init_cookie | library function
+0x101a2fda | ___report_gsfailure | library function

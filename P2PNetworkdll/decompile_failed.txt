@@ -1,0 +1,9 @@
+# Failed to decompile 5 functions
+# Format: address | function_name | reason
+#================================================================================
+
+0x10001440 | sub_10001440 | decompile returned None
+0x10002420 | _DllMain@12 | decompile returned None
+0x1000a4f0 | sub_1000A4F0 | decompile returned None
+0x1000efc0 | sub_1000EFC0 | decompile returned None
+0x100234da | sprintf | decompile returned None

@@ -1,0 +1,12 @@
+/*
+ * func-name: sub_1001A0F5
+ * func-address: 0x1001a0f5
+ * callers: 0x10037fb0, 0x100381b0, 0x10038920, 0x1016e7b0, 0x1017b8b0, 0x1017ff50, 0x10196950, 0x1019e000, 0x101c0870, 0x101ce3e0, 0x101d3830, 0x101f3e70, 0x1020b1d0, 0x10218430, 0x1026a890, 0x1026ab80, 0x1026b490, 0x1026c030, 0x1026c890, 0x10284540, 0x10284760, 0x1028f6c0, 0x102a3e20, 0x102a4360
+ * callees: none
+ */
+
+// attributes: thunk
+int __thiscall sub_1001A0F5(void *this, int a2)
+{
+  return sub_100611F0((int)this, a2);
+}

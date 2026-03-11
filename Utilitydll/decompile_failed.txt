@@ -1,0 +1,5 @@
+# Failed to decompile 1 functions
+# Format: address | function_name | reason
+#================================================================================
+
+0x10002390 | ?get_log_buffer@Logger@Utility@Outpop@@QAEPA_WXZ | decompile returned None

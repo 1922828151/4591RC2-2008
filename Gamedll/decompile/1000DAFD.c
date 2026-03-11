@@ -1,0 +1,14 @@
+/*
+ * func-name: ?GetEstablishment@EstabManager@GameClient@@QAEPAVEstablishment@2@K@Z
+ * func-address: 0x1000dafd
+ * callers: 0x1011fcf0, 0x10120300, 0x101771a0, 0x10179010, 0x101791a0, 0x1017ae60, 0x1019d570, 0x1019d5f0, 0x1019d670, 0x1019dcd0, 0x1019dd60, 0x101a0fc0, 0x101a2a60, 0x101a2b60, 0x101a2c20, 0x101a2d10, 0x101a2e60, 0x101a2f00, 0x101a2fe0, 0x101a3050, 0x101a3260, 0x101a3ee0, 0x101a5640, 0x101b6780, 0x101b7f10, 0x101b9930, 0x101bb320, 0x101cd990, 0x101d0a90, 0x1026f510, 0x1026f7b0, 0x1026f840, 0x10270570, 0x102706b0, 0x1028b690, 0x1028bd40, 0x1028d320, 0x1028ea10
+ * callees: none
+ */
+
+// attributes: thunk
+struct GameClient::Establishment *__thiscall GameClient::EstabManager::GetEstablishment(
+        GameClient::EstabManager *this,
+        unsigned int a2)
+{
+  return ?GetEstablishment@EstabManager@GameClient@@QAEPAVEstablishment@2@K@Z_0(this, a2);
+}

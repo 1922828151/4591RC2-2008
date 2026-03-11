@@ -1,0 +1,21 @@
+/*
+ * func-name: sub_100650B0
+ * func-address: 0x100650b0
+ * callers: 0x1001a63b
+ * callees: 0x10011a31, 0x100167a7
+ */
+
+_DWORD *__thiscall sub_100650B0(_DWORD *this, _BYTE *a2)
+{
+  char *v3; // edi
+
+  v3 = (char *)(this + 1);
+  *(_BYTE *)this = *a2;
+  this[2] = sub_10011A31();
+  *((_DWORD *)v3 + 2) = 0;
+  this[5] = 0;
+  this[6] = 0;
+  this[7] = 0;
+  sub_100167A7((int)a2);
+  return this;
+}

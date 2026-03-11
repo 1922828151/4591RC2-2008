@@ -1,0 +1,53 @@
+/*
+ * func-name: ??0?$vector@PAVMaterial@@V?$allocator@PAVMaterial@@@std@@@std@@QAE@ABV01@@Z
+ * func-address: 0x1000d680
+ * callers: 0x1000d860, 0x10010320, 0x10012240, 0x10024660, 0x100296d0, 0x1002a9d0, 0x10030270, 0x10037b30, 0x1007c450, 0x100e1440, 0x100e97f0, 0x100ea5d0, 0x100eaad0, 0x1011b870, 0x1011d270, 0x10138850, 0x101658e0, 0x10166120
+ * callees: 0x1000a1e0, 0x100dd410
+ */
+
+_DWORD *__thiscall std::vector<Material *>::vector<Material *>(_DWORD *this, int a2)
+{
+  int v2; // eax
+  unsigned int v4; // esi
+  int v5; // eax
+  unsigned int v6; // esi
+  const void *v7; // ebp
+  char *v8; // ecx
+  bool v9; // zf
+  int v10; // esi
+  rsize_t v11; // eax
+  char *v12; // esi
+
+  v2 = *(_DWORD *)(a2 + 4);
+  if ( v2 )
+    v4 = (*(_DWORD *)(a2 + 8) - v2) >> 2;
+  else
+    v4 = 0;
+  this[1] = 0;
+  this[2] = 0;
+  this[3] = 0;
+  if ( v4 )
+  {
+    if ( v4 > 0x3FFFFFFF )
+      std::vector<Material *>::_Xlen();
+    v5 = sub_100DD410(v4);
+    this[1] = v5;
+    this[2] = v5;
+    this[3] = v5 + 4 * v4;
+    v6 = *(_DWORD *)(a2 + 8);
+    if ( *(_DWORD *)(a2 + 4) > v6 )
+      invalid_parameter_noinfo();
+    v7 = *(const void **)(a2 + 4);
+    if ( (unsigned int)v7 > *(_DWORD *)(a2 + 8) )
+      invalid_parameter_noinfo();
+    v8 = (char *)this[1];
+    v10 = (int)(v6 - (_DWORD)v7) >> 2;
+    v9 = v10 == 0;
+    v11 = 4 * v10;
+    v12 = &v8[4 * v10];
+    if ( !v9 )
+      memmove_s(v8, v11, v7, v11);
+    this[2] = v12;
+  }
+  return this;
+}

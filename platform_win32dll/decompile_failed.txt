@@ -1,0 +1,5 @@
+# Failed to decompile 1 functions
+# Format: address | function_name | reason
+#================================================================================
+
+0x10001f60 | sub_10001F60 | decompile returned None

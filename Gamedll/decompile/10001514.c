@@ -1,0 +1,12 @@
+/*
+ * func-name: sub_10001514
+ * func-address: 0x10001514
+ * callers: 0x10222db0, 0x10223490, 0x10225f20, 0x1022a2a0, 0x1022d900, 0x10232140, 0x10232530, 0x10232d60, 0x10235440, 0x102358e0, 0x10238550, 0x1023c3e0, 0x10240040, 0x10241e10, 0x10242190, 0x102453b0
+ * callees: none
+ */
+
+// attributes: thunk
+int __stdcall sub_10001514(int a1)
+{
+  return sub_10162580(a1);
+}

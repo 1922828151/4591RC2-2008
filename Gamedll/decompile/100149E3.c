@@ -1,0 +1,12 @@
+/*
+ * func-name: sub_100149E3
+ * func-address: 0x100149e3
+ * callers: 0x10078d90, 0x101f9590, 0x10201e60
+ * callees: none
+ */
+
+// attributes: thunk
+int __stdcall sub_100149E3(int a1, int a2, int a3, int a4, int a5)
+{
+  return sub_10075690(a1, a2, a3, a4, a5);
+}

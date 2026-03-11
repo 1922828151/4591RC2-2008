@@ -1,0 +1,9 @@
+# Failed to decompile 5 functions
+# Format: address | function_name | reason
+#================================================================================
+
+0x1000d920 | sub_1000D920 | decompile returned None
+0x1000fb00 | sub_1000FB00 | decompile returned None
+0x10013710 | sub_10013710 | decompile returned None
+0x1002d0c0 | sub_1002D0C0 | decompile returned None
+0x1002e280 | sub_1002E280 | decompile returned None
