@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FProductInfo" ClassID="180302075" ObjectName="Product_ConeOfCold" ObjectID="103102" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="3102" />
+        <DataInfo DataName="Type" DataType="Normal_UINT" />
+        <NormalData data="8" />
+        <DataInfo DataName="SubType" DataType="Normal_UINT" />
+        <NormalData data="4" />
+        <DataInfo DataName="ProductName" DataType="Normal_STRING" />
+        <NormalData data="冰锥" />
+        <DataInfo DataName="ProductIntro" DataType="Normal_STRING" />
+        <NormalData data="磐石机器人专用武器，有两副多管电磁发射筒，可交替连续发射12枚电磁弹，也可以左右齐射以提高射速。与磐石防空甲配合，还可以锁定追踪飞行载具。" />
+        <DataInfo DataName="ProductShow" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_ConeOfCold.dds" />
+        <DataInfo DataName="KillingIcon" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_ConeOfCold.dds" />
+    </FileData>
+</File>

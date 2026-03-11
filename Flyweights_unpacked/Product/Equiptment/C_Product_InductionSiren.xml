@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FProductInfo" ClassID="180302075" ObjectName="Product_InductionSiren" ObjectID="103403" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="3403" />
+        <DataInfo DataName="Type" DataType="Normal_UINT" />
+        <NormalData data="16" />
+        <DataInfo DataName="SubType" DataType="Normal_UINT" />
+        <NormalData data="64" />
+        <DataInfo DataName="ProductName" DataType="Normal_STRING" />
+        <NormalData data="感应报警器" />
+        <DataInfo DataName="ProductIntro" DataType="Normal_STRING" />
+        <NormalData data="投放在地面上，可实时侦测周围一定距离内的活动目标，发现敌人时会向投放者及其所在小队成员发送警报" />
+        <DataInfo DataName="ProductShow" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_InductionSiren.dds" />
+        <DataInfo DataName="KillingIcon" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_InductionSiren.dds" />
+    </FileData>
+</File>

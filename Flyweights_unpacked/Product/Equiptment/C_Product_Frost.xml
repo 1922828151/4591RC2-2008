@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FProductInfo" ClassID="180302075" ObjectName="Product_Frost" ObjectID="103010" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="3010" />
+        <DataInfo DataName="Type" DataType="Normal_UINT" />
+        <NormalData data="8" />
+        <DataInfo DataName="SubType" DataType="Normal_UINT" />
+        <NormalData data="1" />
+        <DataInfo DataName="ProductName" DataType="Normal_STRING" />
+        <NormalData data="霜冻" />
+        <DataInfo DataName="ProductIntro" DataType="Normal_STRING" />
+        <NormalData data="风后研发的特种枪械，能使目标暂时失去行动能力（或大幅下降），同时在一定时间内对装甲造成持续伤害" />
+        <DataInfo DataName="ProductShow" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_Frost.dds" />
+        <DataInfo DataName="KillingIcon" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_Frost.dds" />
+    </FileData>
+</File>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FProductInfo" ClassID="180302075" ObjectName="Product_Commander" ObjectID="104005" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="4005" />
+        <DataInfo DataName="Type" DataType="Normal_UINT" />
+        <NormalData data="32" />
+        <DataInfo DataName="SubType" DataType="Normal_UINT" />
+        <NormalData data="256" />
+        <DataInfo DataName="ProductName" DataType="Normal_STRING" />
+        <NormalData data="指挥车" />
+        <DataInfo DataName="ProductIntro" DataType="Normal_STRING" />
+        <NormalData data="拥有较大的雷达扫描范围，车上还装有卫星地面接收装置，可用于辅助破解敌方大本营主控电脑，另外军指挥官可进入其乘员舱，使用卫星监视等设施" />
+        <DataInfo DataName="ProductShow" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_Commander.dds" />
+        <DataInfo DataName="ProductRadarIcon" DataType="Normal_STRING" />
+        <NormalData data="Radar_Commander.dds" />
+        <DataInfo DataName="KillingIcon" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_D_Commander.dds" />
+    </FileData>
+</File>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FRobotCore" ClassID="179384321" ObjectName="Logic_BasicCore" ObjectID="202001" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="2001" />
+        <DataInfo DataName="VersionName" DataType="Normal_STRING" />
+        <NormalData data="质量-50" />
+        <DataInfo DataName="VersionIntro" DataType="Normal_STRING" />
+        <NormalData data="输出功率-500" />
+        <DataInfo DataName="IconName" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_BasicCore.dds" />
+        <DataInfo DataName="Mass" DataType="Normal_INT" />
+        <NormalData data="50" />
+        <DataInfo DataName="Power" DataType="Normal_INT" />
+        <NormalData data="0" />
+        <DataInfo DataName="OffsetSteadyCoefficient" DataType="Normal_FLOAT" />
+        <NormalData data="1.0000000" />
+        <DataInfo DataName="MaxPower" DataType="Normal_INT" />
+        <NormalData data="500" />
+        <DataInfo DataName="PowerName" DataType="Normal_STRING" />
+        <NormalData data="Func_BasicCore_Energy" />
+    </FileData>
+</File>

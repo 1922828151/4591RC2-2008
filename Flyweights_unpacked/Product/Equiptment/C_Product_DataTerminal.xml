@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FProductInfo" ClassID="180302075" ObjectName="Product_DataTerminal" ObjectID="103401" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="3401" />
+        <DataInfo DataName="Type" DataType="Normal_UINT" />
+        <NormalData data="16" />
+        <DataInfo DataName="SubType" DataType="Normal_UINT" />
+        <NormalData data="32" />
+        <DataInfo DataName="ProductName" DataType="Normal_STRING" />
+        <NormalData data="数据终端" />
+        <DataInfo DataName="ProductIntro" DataType="Normal_STRING" />
+        <NormalData data="可与设施内的电脑建立连接，对设施进行操作，及其破解敌方设施（也包括载具）。" />
+        <DataInfo DataName="ProductShow" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_DataTerminal.dds" />
+        <DataInfo DataName="KillingIcon" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_DataTerminal.dds" />
+    </FileData>
+</File>

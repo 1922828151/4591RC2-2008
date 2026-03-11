@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FSkill" ClassID="287273" ObjectName="Skill_EMGrenade" ObjectID="903205" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="TargetType" DataType="Normal_INT" />
+        <NormalData data="1" />
+        <DataInfo DataName="OwnerType" DataType="Normal_INT" />
+        <NormalData data="3" />
+        <DataInfo DataName="OnGround" DataType="Normal_BOOL" />
+        <NormalData data="true" />
+        <DataInfo DataName="Fly" DataType="Normal_BOOL" />
+        <NormalData data="false" />
+        <DataInfo DataName="Dive" DataType="Normal_BOOL" />
+        <NormalData data="false" />
+        <DataInfo DataName="Move" DataType="Normal_BOOL" />
+        <NormalData data="false" />
+        <DataInfo DataName="Squat" DataType="Normal_BOOL" />
+        <NormalData data="false" />
+        <DataInfo DataName="Terrain" DataType="Normal_BOOL" />
+        <NormalData data="false" />
+        <DataInfo DataName="TargetRelation" DataType="Normal_INT" />
+        <NormalData data="1" />
+        <DataInfo DataName="SelectRange" DataType="Normal_INT" />
+        <NormalData data="0" />
+        <DataInfo DataName="StartupMode" DataType="Normal_INT" />
+        <NormalData data="0" />
+        <DataInfo DataName="StartupTime" DataType="Normal_FLOAT" />
+        <NormalData data="0.0000000" />
+        <DataInfo DataName="Energy" DataType="Normal_INT" />
+        <NormalData data="0" />
+        <DataInfo DataName="ExEnergy" DataType="Normal_INT" />
+        <NormalData data="0" />
+        <DataInfo DataName="LeadEnergy" DataType="Normal_FLOAT" />
+        <NormalData data="0.0000000" />
+        <DataInfo DataName="LeadExEnergy" DataType="Normal_FLOAT" />
+        <NormalData data="0.0000000" />
+        <DataInfo DataName="StartupFxName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="StartupFxPosName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="StartupAnimName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="SDStartupName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="SDStartupRange" DataType="Normal_FLOAT" />
+        <NormalData data="50.0000000" />
+        <DataInfo DataName="LeadFxName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="LeadFxPosName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="LeadAnimName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="KeepLeadAnim" DataType="Normal_BOOL" />
+        <NormalData data="false" />
+        <DataInfo DataName="FxFPVHidden" DataType="Normal_BOOL" />
+        <NormalData data="false" />
+        <DataInfo DataName="SDLeadName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="SDLeadRange" DataType="Normal_FLOAT" />
+        <NormalData data="50.0000000" />
+        <DataInfo DataName="StopFxName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="StopFxPosName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="StopAnimName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="SDStopName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="SDStopRange" DataType="Normal_FLOAT" />
+        <NormalData data="50.0000000" />
+        <DataInfo DataName="IconName" DataType="Normal_STRING" />
+        <NormalData data="" />
+    </FileData>
+</File>

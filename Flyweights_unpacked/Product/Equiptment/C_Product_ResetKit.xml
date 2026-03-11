@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FProductInfo" ClassID="180302075" ObjectName="Product_ResetKit" ObjectID="103301" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="3301" />
+        <DataInfo DataName="Type" DataType="Normal_UINT" />
+        <NormalData data="8" />
+        <DataInfo DataName="SubType" DataType="Normal_UINT" />
+        <NormalData data="16" />
+        <DataInfo DataName="ProductName" DataType="Normal_STRING" />
+        <NormalData data="启动器" />
+        <DataInfo DataName="ProductIntro" DataType="Normal_STRING" />
+        <NormalData data="可在短时间内修复机器人的机体故障，使被击倒的机器人恢复正常工作。" />
+        <DataInfo DataName="ProductShow" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_ResetKit.dds" />
+        <DataInfo DataName="ProductRadarIcon" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="KillingIcon" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_ResetKit.dds" />
+    </FileData>
+</File>

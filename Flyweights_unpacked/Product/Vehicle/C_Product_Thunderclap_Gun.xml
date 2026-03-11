@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FProductInfo" ClassID="180302075" ObjectName="Product_Thunderclap_Gun" ObjectID="114014" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="14014" />
+        <DataInfo DataName="Type" DataType="Normal_UINT" />
+        <NormalData data="32" />
+        <DataInfo DataName="SubType" DataType="Normal_UINT" />
+        <NormalData data="32" />
+        <DataInfo DataName="ProductName" DataType="Normal_STRING" />
+        <NormalData data="霹雳" />
+        <DataInfo DataName="ProductIntro" DataType="Normal_STRING" />
+        <NormalData data="风后研制的主力战车，额定乘员3人，除驾驶员外、1名炮手操控大口径电磁主炮，另一名炮手操控一门双管速射炮。" />
+        <DataInfo DataName="ProductShow" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_Thunderclap.dds" />
+        <DataInfo DataName="ProductRadarIcon" DataType="Normal_STRING" />
+        <NormalData data="Radar_Thunderclap.dds" />
+        <DataInfo DataName="KillingIcon" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_D_Thunderclap.dds" />
+    </FileData>
+</File>

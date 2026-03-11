@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FProductInfo" ClassID="180302075" ObjectName="Product_EMGrenade" ObjectID="103205" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ImageName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="3205" />
+        <DataInfo DataName="Type" DataType="Normal_UINT" />
+        <NormalData data="16" />
+        <DataInfo DataName="SubType" DataType="Normal_UINT" />
+        <NormalData data="256" />
+        <DataInfo DataName="ProductName" DataType="Normal_STRING" />
+        <NormalData data="工程炸弹" />
+        <DataInfo DataName="ProductIntro" DataType="Normal_STRING" />
+        <NormalData data="放置在地面上，用遥控器引爆，威力惊人" />
+        <DataInfo DataName="ProductShow" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_EMGrenade.dds" />
+        <DataInfo DataName="ProductRadarIcon" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="KillingIcon" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_EMGrenade.dds" />
+    </FileData>
+</File>

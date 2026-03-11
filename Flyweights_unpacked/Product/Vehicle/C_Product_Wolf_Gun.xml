@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FProductInfo" ClassID="180302075" ObjectName="Product_Wolf_Gun" ObjectID="114011" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="14011" />
+        <DataInfo DataName="Type" DataType="Normal_UINT" />
+        <NormalData data="32" />
+        <DataInfo DataName="SubType" DataType="Normal_UINT" />
+        <NormalData data="32" />
+        <DataInfo DataName="ProductName" DataType="Normal_STRING" />
+        <NormalData data="苍狼" />
+        <DataInfo DataName="ProductIntro" DataType="Normal_STRING" />
+        <NormalData data="地典军主力战车，可搭载1名驾驶员和1名炮手，炮手操控一具双管电磁炮。" />
+        <DataInfo DataName="ProductShow" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_Wolf.dds" />
+        <DataInfo DataName="ProductRadarIcon" DataType="Normal_STRING" />
+        <NormalData data="Radar_Wolf.dds" />
+        <DataInfo DataName="KillingIcon" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_D_Wolf.dds" />
+    </FileData>
+</File>

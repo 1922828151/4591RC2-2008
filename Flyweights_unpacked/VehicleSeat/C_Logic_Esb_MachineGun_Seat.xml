@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FSeat" ClassID="57251" ObjectName="Logic_Esb_MachineGun_Seat" ObjectID="4070011" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="RobotLimit" DataType="Normal_INT" />
+        <NormalData data="1" />
+        <DataInfo DataName="Breviary" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="BoardFX" DataType="Normal_STRING" />
+        <NormalData data="Decal_SeatGunner.reb" />
+        <DataInfo DataName="ControllerType" DataType="Normal_INT" />
+        <NormalData data="6" />
+        <DataInfo DataName="SeatType" DataType="Normal_INT" />
+        <NormalData data="2" />
+        <DataInfo DataName="WeaponControlPointCount" DataType="Container_INT" />
+        <ContainerData data1="2" />
+        <DataInfo DataName="WeaponControlPoint" DataType="Container_STRING" />
+        <ContainerData data1="RollingX_Point" data2="RollingY_Point" />
+        <DataInfo DataName="Movable" DataType="Normal_BOOL" />
+        <NormalData data="true" />
+        <DataInfo DataName="MaxSpeedPitch" DataType="Normal_FLOAT" />
+        <NormalData data="0.7500000" />
+        <DataInfo DataName="MaxSpeedYaw" DataType="Normal_FLOAT" />
+        <NormalData data="0.7500000" />
+        <DataInfo DataName="MaxSpeedRoll" DataType="Normal_FLOAT" />
+        <NormalData data="1.0000000" />
+        <DataInfo DataName="MaxAccelPitch" DataType="Normal_FLOAT" />
+        <NormalData data="0.5000000" />
+        <DataInfo DataName="MaxAccelYaw" DataType="Normal_FLOAT" />
+        <NormalData data="0.5000000" />
+        <DataInfo DataName="MaxAccelRoll" DataType="Normal_FLOAT" />
+        <NormalData data="1.0000000" />
+        <DataInfo DataName="MaxPitch" DataType="Normal_FLOAT" />
+        <NormalData data="0.5000000" />
+        <DataInfo DataName="MaxYaw" DataType="Normal_FLOAT" />
+        <NormalData data="9000.0000000" />
+        <DataInfo DataName="MaxRoll" DataType="Normal_FLOAT" />
+        <NormalData data="0.0000000" />
+        <DataInfo DataName="MinPtich" DataType="Normal_FLOAT" />
+        <NormalData data="-0.7500000" />
+        <DataInfo DataName="MinYaw" DataType="Normal_FLOAT" />
+        <NormalData data="-9000.0000000" />
+        <DataInfo DataName="MinRoll" DataType="Normal_FLOAT" />
+        <NormalData data="0.0000000" />
+        <DataInfo DataName="Friction" DataType="Normal_FLOAT" />
+        <NormalData data="2.0000000" />
+        <DataInfo DataName="CameraDistMin" DataType="Normal_FLOAT" />
+        <NormalData data="5.0000000" />
+        <DataInfo DataName="CameraDistMax" DataType="Normal_FLOAT" />
+        <NormalData data="15.0000000" />
+        <DataInfo DataName="ForceIntensity" DataType="Normal_FLOAT" />
+        <NormalData data="2.0000000" />
+    </FileData>
+</File>

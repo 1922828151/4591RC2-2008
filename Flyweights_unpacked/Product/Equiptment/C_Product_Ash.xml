@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FProductInfo" ClassID="180302075" ObjectName="Product_Ash" ObjectID="103106" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="3106" />
+        <DataInfo DataName="Type" DataType="Normal_UINT" />
+        <NormalData data="8" />
+        <DataInfo DataName="SubType" DataType="Normal_UINT" />
+        <NormalData data="4" />
+        <DataInfo DataName="ProductName" DataType="Normal_STRING" />
+        <NormalData data="腐尸" />
+        <DataInfo DataName="ProductIntro" DataType="Normal_STRING" />
+        <NormalData data="猎豹机器人的专用武器，发射大口径电磁炮弹，威力惊人，但射速较慢，能耗也很高。" />
+        <DataInfo DataName="ProductShow" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_Ash.dds" />
+        <DataInfo DataName="KillingIcon" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_Ash.dds" />
+    </FileData>
+</File>

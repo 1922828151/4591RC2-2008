@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FProductInfo" ClassID="180302075" ObjectName="Product_Beaconing" ObjectID="103008" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="3008" />
+        <DataInfo DataName="Type" DataType="Normal_UINT" />
+        <NormalData data="8" />
+        <DataInfo DataName="SubType" DataType="Normal_UINT" />
+        <NormalData data="4" />
+        <DataInfo DataName="ProductName" DataType="Normal_STRING" />
+        <NormalData data="信标" />
+        <DataInfo DataName="ProductIntro" DataType="Normal_STRING" />
+        <NormalData data="专用单兵防空武器，可锁定大多数飞行载具，且威力惊人。缺点是能耗极高，充能时间也很长。" />
+        <DataInfo DataName="ProductShow" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_Beaconing.dds" />
+        <DataInfo DataName="KillingIcon" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_Beaconing.dds" />
+    </FileData>
+</File>

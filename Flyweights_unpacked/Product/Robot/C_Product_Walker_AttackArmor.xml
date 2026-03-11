@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FProductInfo" ClassID="180302075" ObjectName="Product_Walker_AttackArmor" ObjectID="102212" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="2212" />
+        <DataInfo DataName="Type" DataType="Normal_UINT" />
+        <NormalData data="2" />
+        <DataInfo DataName="SubType" DataType="Normal_UINT" />
+        <NormalData data="1" />
+        <DataInfo DataName="ProductName" DataType="Normal_STRING" />
+        <NormalData data="强击甲" />
+        <DataInfo DataName="ProductIntro" DataType="Normal_STRING" />
+        <NormalData data="可变身为“强击模式”，变身后增加额外的金属装甲，且拥有近身击杀机器人的能力，维持强击模式需消耗高能。" />
+        <DataInfo DataName="ProductShow" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_Robot_Walker_AttackArmor.dds" />
+        <DataInfo DataName="ProductRadarIcon" DataType="Normal_STRING" />
+        <NormalData data="Radar_Robot.dds" />
+    </FileData>
+</File>

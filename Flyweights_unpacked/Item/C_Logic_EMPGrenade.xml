@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FItem" ClassID="56389" ObjectName="Logic_EMPGrenade" ObjectID="203206" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ImageName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="3206" />
+        <DataInfo DataName="VersionName" DataType="Normal_STRING" />
+        <NormalData data="质量-40" />
+        <DataInfo DataName="VersionIntro" DataType="Normal_STRING" />
+        <NormalData data="功率-0" />
+        <DataInfo DataName="IconName" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_EMPGrenade.dds" />
+        <DataInfo DataName="Mass" DataType="Normal_INT" />
+        <NormalData data="40" />
+        <DataInfo DataName="Power" DataType="Normal_INT" />
+        <NormalData data="0" />
+        <DataInfo DataName="MatchBodyName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="RobotTypeCanUse" DataType="Normal_UINT" />
+        <NormalData data="1" />
+        <DataInfo DataName="SystemPartType" DataType="Normal_INT" />
+        <NormalData data="4" />
+        <DataInfo DataName="EquipAnimType" DataType="Normal_INT" />
+        <NormalData data="1" />
+        <DataInfo DataName="FPVHandleType" DataType="Normal_INT" />
+        <NormalData data="1" />
+        <DataInfo DataName="HandleType" DataType="Normal_INT" />
+        <NormalData data="1" />
+        <DataInfo DataName="Unique" DataType="Normal_BOOL" />
+        <NormalData data="true" />
+        <DataInfo DataName="MaxCapacitance" DataType="Normal_INT" />
+        <NormalData data="0" />
+        <DataInfo DataName="RecruitDeltaTime" DataType="Normal_FLOAT" />
+        <NormalData data="1.0000000" />
+        <DataInfo DataName="RecruitCapacitance" DataType="Normal_INT" />
+        <NormalData data="10" />
+        <DataInfo DataName="EquipLocOffset" DataType="Special_VECTOR" />
+        <NormalData data="-0.0500000 -0.2800000 0.4500000" />
+        <DataInfo DataName="ShakeSpeed" DataType="Normal_FLOAT" />
+        <NormalData data="0.8000000" />
+        <DataInfo DataName="ShakeRange" DataType="Normal_FLOAT" />
+        <NormalData data="0.0500000" />
+        <DataInfo DataName="Path" DataType="Normal_STRING" />
+        <NormalData data="\Models\Equipment\Secondary\F_EMPGrenade\ACTLIB" />
+        <DataInfo DataName="ModelName" DataType="Normal_STRING" />
+        <NormalData data="F_EMPGrenade.reb" />
+        <DataInfo DataName="ModelNameFPV" DataType="Normal_STRING" />
+        <NormalData data="F_EMPGrenade.reb" />
+        <DataInfo DataName="ShootPointNames" DataType="Container_STRING" />
+        <ContainerData />
+        <DataInfo DataName="ShootPointNamesPFV" DataType="Container_STRING" />
+        <ContainerData />
+        <DataInfo DataName="FxUseName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="FxUseFPVName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="TexZoomCollimation" DataType="Normal_FLOAT" />
+        <NormalData data="1.0000000" />
+        <DataInfo DataName="TexAimDiffuseType" DataType="Normal_INT" />
+        <NormalData data="1" />
+        <DataInfo DataName="TexAimName" DataType="Normal_STRING" />
+        <NormalData data="Crosshairs_Hammer.dds" />
+        <DataInfo DataName="TexLockName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="TexZoomOutName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="FxAddonNameVec" DataType="Container_STRING" />
+        <ContainerData />
+        <DataInfo DataName="BoneAddonNameVec" DataType="Container_STRING" />
+        <ContainerData />
+        <DataInfo DataName="FxAddonNameFPVVec" DataType="Container_STRING" />
+        <ContainerData />
+        <DataInfo DataName="BoneAddonNameFPVVec" DataType="Container_STRING" />
+        <ContainerData />
+        <DataInfo DataName="AnimIdle" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="AnimMove" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="AnimUse" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="AnimTakeOff" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="AnimTakeUp" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="FPVAnimIdle" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="FPVAnimMove" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="FPVAnimUse" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="FPVAnimTakeOff" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="FPVAnimTakeUp" DataType="Normal_STRING" />
+        <NormalData data="F_EMPGrenade_TakeUp0" />
+        <DataInfo DataName="HandAnimIdle" DataType="Normal_STRING" />
+        <NormalData data="Hands_EMPGrenade_Idle1" />
+        <DataInfo DataName="HandAnimMove" DataType="Normal_STRING" />
+        <NormalData data="Hands_EMPGrenade_Walk1" />
+        <DataInfo DataName="HandAnimUse" DataType="Normal_STRING" />
+        <NormalData data="Hands_EMPGrenade_Use0" />
+        <DataInfo DataName="HandAnimTakeOff" DataType="Normal_STRING" />
+        <NormalData data="Hands_EMPGrenade_TakeOff0" />
+        <DataInfo DataName="HandAnimTakeUp" DataType="Normal_STRING" />
+        <NormalData data="Hands_EMPGrenade_TakeUp0" />
+        <DataInfo DataName="UAnimRobotHasEquipIdle" DataType="Normal_STRING" />
+        <NormalData data="VespidIdle1U" />
+        <DataInfo DataName="UAnimRobotHasEquipMove" DataType="Normal_STRING" />
+        <NormalData data="VespidRun1U" />
+        <DataInfo DataName="UAnimRobotHasEquipUse" DataType="Normal_STRING" />
+        <NormalData data="GrenadeUse0U" />
+        <DataInfo DataName="UAnimRobotHasEquipTakeOff" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="UAnimRobotHasEquipTakeUp" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="UAnimRobotHasEquipLookUp" DataType="Normal_STRING" />
+        <NormalData data="VespidLookUp0U" />
+        <DataInfo DataName="UAnimRobotHasEquipLookDown" DataType="Normal_STRING" />
+        <NormalData data="VespidLookDown0U" />
+        <DataInfo DataName="UAnimRobotHasEquipSquatIdle" DataType="Normal_STRING" />
+        <NormalData data="VespidSquatIdle1U" />
+        <DataInfo DataName="UAnimRobotHasEquipSquatMove" DataType="Normal_STRING" />
+        <NormalData data="VespidSquat1U" />
+        <DataInfo DataName="EnableDAnim" DataType="Normal_BOOL" />
+        <NormalData data="true" />
+        <DataInfo DataName="DAnimRobotHasEquipIdle" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="DAnimRobotHasEquipMove" DataType="Normal_STRING" />
+        <NormalData data="EquipRun1D" />
+        <DataInfo DataName="DAnimRobotHasEquipUse" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="DAnimRobotHasEquipSquatIdle" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="DAnimRobotHasEquipSquatMove" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="OtherAnimNames" DataType="Container_STRING" />
+        <ContainerData />
+        <DataInfo DataName="FxBindBoneNames" DataType="Container_STRING" />
+        <ContainerData />
+        <DataInfo DataName="SDEquipmentUseName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="SDEquipmentUseRange" DataType="Normal_FLOAT" />
+        <NormalData data="50.0000000" />
+        <DataInfo DataName="SDEquipmentUse2DName" DataType="Normal_STRING" />
+        <NormalData data="EMPGrenade_Use_2D.wav" />
+        <DataInfo DataName="SDEquipmentAbateName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="SDEquipmentTakeOffName" DataType="Normal_STRING" />
+        <NormalData data="Viper_TakeOff_2D.wav" />
+        <DataInfo DataName="SDEquipmentTakeUpName" DataType="Normal_STRING" />
+        <NormalData data="Thunderstrike_TakeUp_2D.wav" />
+        <DataInfo DataName="TurnFrameName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="TurnStartupSpeed" DataType="Normal_FLOAT" />
+        <NormalData data="0.0000000" />
+        <DataInfo DataName="TurnMaxSpeed" DataType="Normal_FLOAT" />
+        <NormalData data="0.0000000" />
+        <DataInfo DataName="PrimarySkillName" DataType="Normal_STRING" />
+        <NormalData data="Skill_EMPGrenade" />
+        <DataInfo DataName="SecondarySkillName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="UsableDistance" DataType="Normal_INT" />
+        <NormalData data="50" />
+        <DataInfo DataName="Capacitance" DataType="Normal_FLOAT" />
+        <NormalData data="0.0000000" />
+        <DataInfo DataName="CapacitanceDuration" DataType="Normal_FLOAT" />
+        <NormalData data="0.0000000" />
+    </FileData>
+</File>

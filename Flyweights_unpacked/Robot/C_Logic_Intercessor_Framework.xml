@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FRobotFramework" ClassID="2231501722" ObjectName="Logic_Intercessor_Framework" ObjectID="302220" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="CamHeightStand" DataType="Normal_FLOAT" />
+        <NormalData data="2.0000000" />
+        <DataInfo DataName="CamHeightSquat" DataType="Normal_FLOAT" />
+        <NormalData data="0.8000000" />
+        <DataInfo DataName="MaxCamDistance" DataType="Normal_FLOAT" />
+        <NormalData data="8.0000000" />
+        <DataInfo DataName="MinCamDistance" DataType="Normal_FLOAT" />
+        <NormalData data="2.0000000" />
+        <DataInfo DataName="BoxStand.max" DataType="Special_VECTOR" />
+        <NormalData data="3.0000000 2.9000001 3.0000000" />
+        <DataInfo DataName="BoxStand.min" DataType="Special_VECTOR" />
+        <NormalData data="0.0000000 0.0000000 0.0000000" />
+        <DataInfo DataName="HeightSquat" DataType="Normal_FLOAT" />
+        <NormalData data="1.3000000" />
+        <DataInfo DataName="OffsetRenderBox" DataType="Special_VECTOR" />
+        <NormalData data="0.0000000 0.0000000 -0.5000000" />
+        <DataInfo DataName="MoveType" DataType="Normal_INT" />
+        <NormalData data="1" />
+        <DataInfo DataName="SpeedForwardOnAnim" DataType="Normal_FLOAT" />
+        <NormalData data="5.0000000" />
+        <DataInfo DataName="SpeedBackwardOnAnim" DataType="Normal_FLOAT" />
+        <NormalData data="5.0000000" />
+        <DataInfo DataName="SpeedStrafeOnAnim" DataType="Normal_FLOAT" />
+        <NormalData data="5.0000000" />
+        <DataInfo DataName="SpeedSquatOnAnim" DataType="Normal_FLOAT" />
+        <NormalData data="5.0000000" />
+        <DataInfo DataName="FrameworkModelName" DataType="Normal_STRING" />
+        <NormalData data="FixArmor_Framework.reb" />
+        <DataInfo DataName="AnimationFileName" DataType="Normal_STRING" />
+        <NormalData data="Intercessor" />
+        <DataInfo DataName="AnimFilePath" DataType="Normal_STRING" />
+        <NormalData data="..\\Models\\Robots\\Intercessor" />
+        <DataInfo DataName="HandModelName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="HandAnimFilePath" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="PartVec" DataType="Container_STRING" />
+        <ContainerData data1="Body" data2="LArm" data3="LArm1" data4="LArm2" data5="LLeg" data6="LLeg1" data7="LLeg2" data8="RArm" data9="RArm1" data10="RArm2" data11="RLeg" data12="RLeg1" data13="RLeg2" data14="Head" data15="Neck" />
+        <DataInfo DataName="BoneVec" DataType="Container_STRING" />
+        <ContainerData data1="Bip01_Spine" data2="Bip01_L_UpperArm" data3="Bip01_L_Forearm" data4="Bip01_L_Hand" data5="Bip01_L_Thigh" data6="Bip01_L_Calf" data7="Bip01_L_Foot" data8="Bip01_R_UpperArm" data9="Bip01_R_Forearm" data10="Bip01_R_Hand" data11="Bip01_R_Thigh" data12="Bip01_R_Calf" data13="Bip01_R_Foot" data14="Bip01_Head" data15="Bip01_Neck" />
+        <DataInfo DataName="TurnFrame" DataType="Normal_STRING" />
+        <NormalData data="Bip01_Head" />
+        <DataInfo DataName="NameCamFrmae" DataType="Normal_STRING" />
+        <NormalData data="Weapon_Point_R" />
+        <DataInfo DataName="FxNameWaterWave" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="FxBindBoneNames" DataType="Container_STRING" />
+        <ContainerData data1="Bip01_Head" data2="Bip01" data3="Weapon_Point_R" />
+    </FileData>
+</File>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FWheelVehicleWheel" ClassID="4141856760" ObjectName="Logic_Mongoose_RWheel" ObjectID="340134" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="Height" DataType="Normal_FLOAT" />
+        <NormalData data="1.0000000" />
+        <DataInfo DataName="Size" DataType="Normal_FLOAT" />
+        <NormalData data="0.8500000" />
+        <DataInfo DataName="RotVizBias" DataType="Normal_FLOAT" />
+        <NormalData data="0.0100000" />
+        <DataInfo DataName="TransVizBias" DataType="Normal_FLOAT" />
+        <NormalData data="0.0010000" />
+        <DataInfo DataName="SpringBias" DataType="Normal_FLOAT" />
+        <NormalData data="400.0000000" />
+        <DataInfo DataName="DumperBias" DataType="Normal_FLOAT" />
+        <NormalData data="400.0000000" />
+        <DataInfo DataName="DynamicFric" DataType="Normal_FLOAT" />
+        <NormalData data="3.0000000" />
+        <DataInfo DataName="StaticFric" DataType="Normal_FLOAT" />
+        <NormalData data="4.0000000" />
+        <DataInfo DataName="DynamicFricV" DataType="Normal_FLOAT" />
+        <NormalData data="0.3000000" />
+        <DataInfo DataName="StaticFricV" DataType="Normal_FLOAT" />
+        <NormalData data="1.0000000" />
+        <DataInfo DataName="MaxSteerAngle" DataType="Normal_FLOAT" />
+        <NormalData data="0.0000000" />
+        <DataInfo DataName="HasForce" DataType="Normal_BOOL" />
+        <NormalData data="true" />
+    </FileData>
+</File>

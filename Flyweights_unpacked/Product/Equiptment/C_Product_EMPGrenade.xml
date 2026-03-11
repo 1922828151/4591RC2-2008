@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FProductInfo" ClassID="180302075" ObjectName="Product_EMPGrenade" ObjectID="103206" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="3206" />
+        <DataInfo DataName="Type" DataType="Normal_UINT" />
+        <NormalData data="16" />
+        <DataInfo DataName="SubType" DataType="Normal_UINT" />
+        <NormalData data="256" />
+        <DataInfo DataName="ProductName" DataType="Normal_STRING" />
+        <NormalData data="干扰弹" />
+        <DataInfo DataName="ProductIntro" DataType="Normal_STRING" />
+        <NormalData data="投掷后落地爆炸会产生一个电磁脉冲干扰发射源，使周围一定距离内的机器人和载具上的高能反应堆和武器装备暂时无法使用" />
+        <DataInfo DataName="ProductShow" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_EMPGrenade.dds" />
+        <DataInfo DataName="KillingIcon" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_EMPGrenade.dds" />
+    </FileData>
+</File>

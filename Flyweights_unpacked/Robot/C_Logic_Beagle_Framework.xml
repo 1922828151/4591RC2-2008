@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FRobotFramework" ClassID="2231501722" ObjectName="Logic_Beagle_Framework" ObjectID="302110" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="CamHeightStand" DataType="Normal_FLOAT" />
+        <NormalData data="0.6500000" />
+        <DataInfo DataName="CamHeightSquat" DataType="Normal_FLOAT" />
+        <NormalData data="0.3500000" />
+        <DataInfo DataName="MaxCamDistance" DataType="Normal_FLOAT" />
+        <NormalData data="4.5000000" />
+        <DataInfo DataName="MinCamDistance" DataType="Normal_FLOAT" />
+        <NormalData data="1.0000000" />
+        <DataInfo DataName="BoxStand.max" DataType="Special_VECTOR" />
+        <NormalData data="1.0000000 1.7500000 1.0000000" />
+        <DataInfo DataName="BoxStand.min" DataType="Special_VECTOR" />
+        <NormalData data="0.0000000 0.0000000 0.0000000" />
+        <DataInfo DataName="HeightSquat" DataType="Normal_FLOAT" />
+        <NormalData data="1.3000000" />
+        <DataInfo DataName="OffsetRenderBox" DataType="Special_VECTOR" />
+        <NormalData data="0.0000000 -1.0000000 0.0000000" />
+        <DataInfo DataName="MoveType" DataType="Normal_INT" />
+        <NormalData data="0" />
+        <DataInfo DataName="SpeedForwardOnAnim" DataType="Normal_FLOAT" />
+        <NormalData data="6.0000000" />
+        <DataInfo DataName="SpeedBackwardOnAnim" DataType="Normal_FLOAT" />
+        <NormalData data="4.5000000" />
+        <DataInfo DataName="SpeedStrafeOnAnim" DataType="Normal_FLOAT" />
+        <NormalData data="4.0000000" />
+        <DataInfo DataName="SpeedSquatOnAnim" DataType="Normal_FLOAT" />
+        <NormalData data="2.7000000" />
+        <DataInfo DataName="FrameworkModelName" DataType="Normal_STRING" />
+        <NormalData data="Beagle_Framework.reb" />
+        <DataInfo DataName="AnimationFileName" DataType="Normal_STRING" />
+        <NormalData data="Beagle" />
+        <DataInfo DataName="AnimFilePath" DataType="Normal_STRING" />
+        <NormalData data="..\\Models\\Robots\\Beagle" />
+        <DataInfo DataName="HandModelName" DataType="Normal_STRING" />
+        <NormalData data="1HandFPV2" />
+        <DataInfo DataName="HandAnimFilePath" DataType="Normal_STRING" />
+        <NormalData data="..\\Models\\Robots\\Hands\\ACTLIB" />
+        <DataInfo DataName="PartVec" DataType="Container_STRING" />
+        <ContainerData data1="Head" data2="Body" data3="Pelvis" data4="LUpArm" data5="LForeArm" data6="LLeg" data7="LCalf" data8="LFoot" data9="RUpArm" data10="RForeArm" data11="RLeg" data12="RCalf" data13="RFoot" />
+        <DataInfo DataName="BoneVec" DataType="Container_STRING" />
+        <ContainerData data1="Bip01_Head" data2="Bip01_Spine" data3="Bip01_Pelvis" data4="Bip01_L_UpperArm" data5="Bip01_L_Forearm" data6="Bip01_L_Thigh" data7="Bip01_L_Calf" data8="Bip01_L_Foot" data9="Bip01_R_UpperArm" data10="Bip01_R_Forearm" data11="Bip01_R_Thigh" data12="Bip01_R_Calf" data13="Bip01_R_Foot" />
+        <DataInfo DataName="TurnFrame" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="NameCamFrmae" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="FxNameWaterWave" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="FxBindBoneNames" DataType="Container_STRING" />
+        <ContainerData data1="Bip01_Spine" />
+    </FileData>
+</File>

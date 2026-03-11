@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FPedrailVehicle" ClassID="1746506307" ObjectName="Logic_SandStorm" ObjectID="204009" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ImageName" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_d_SandStorm.dds" />
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="4009" />
+        <DataInfo DataName="VersionName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="VersionIntro" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="IconName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="ModelName" DataType="Normal_STRING" />
+        <NormalData data="W_SandStorm.reb" />
+        <DataInfo DataName="NormalModelAction" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="NormalModelIdle" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="BadModelName" DataType="Normal_STRING" />
+        <NormalData data="F_SaberToothedTiger_debris.reb" />
+        <DataInfo DataName="BadModelAction" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="BadModelIdle" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="FxExplode" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="SoundExplode" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="SoundRange" DataType="Normal_FLOAT" />
+        <NormalData data="20.0000000" />
+        <DataInfo DataName="SeatPoint" DataType="Container_STRING" />
+        <ContainerData data1="Seat_Driver" />
+        <DataInfo DataName="CameraPoint" DataType="Container_STRING" />
+        <ContainerData data1="Seat_Driver" />
+        <DataInfo DataName="BoardLoc" DataType="Container_Special_VECTOR" />
+        <ContainerData data1="0.0000000 -2.0000000 -7.0000000" />
+        <DataInfo DataName="BoardVelocity" DataType="Normal_FLOAT" />
+        <NormalData data="5.0000000" />
+        <DataInfo DataName="CanBeOccupied" DataType="Normal_BOOL" />
+        <NormalData data="true" />
+        <DataInfo DataName="SeatHideModelFrameCount" DataType="Container_INT" />
+        <ContainerData data1="0" />
+        <DataInfo DataName="SeatHideModelFrame" DataType="Container_STRING" />
+        <ContainerData />
+        <DataInfo DataName="DriverSeat" DataType="Normal_INT" />
+        <NormalData data="0" />
+        <DataInfo DataName="SoundEngineIdle" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="SoundEngineIdleRange" DataType="Normal_FLOAT" />
+        <NormalData data="20.0000000" />
+        <DataInfo DataName="SoundEngineRun" DataType="Normal_STRING" />
+        <NormalData data="SandStormEngine_Run.wav" />
+        <DataInfo DataName="SoundEngineRunRange" DataType="Normal_FLOAT" />
+        <NormalData data="2.0000000" />
+        <DataInfo DataName="SoundCollision" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="SoundCollisionRange" DataType="Normal_FLOAT" />
+        <NormalData data="20.0000000" />
+        <DataInfo DataName="SoundCollisionBias" DataType="Normal_FLOAT" />
+        <NormalData data="1.0000000" />
+        <DataInfo DataName="NormDesc_AnimBegin" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="NormDesc_AnimIdle" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="NormDesc_ElespTime" DataType="Normal_FLOAT" />
+        <NormalData data="1.0000000" />
+        <DataInfo DataName="NormDesc_SoundAction" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="NormDesc_SoundActionRange" DataType="Normal_FLOAT" />
+        <NormalData data="10.0000000" />
+        <DataInfo DataName="DistDesc_Enable" DataType="Normal_BOOL" />
+        <NormalData data="false" />
+        <DataInfo DataName="DistDesc_ElespTime" DataType="Normal_FLOAT" />
+        <NormalData data="1.0000000" />
+        <DataInfo DataName="DistDesc_AnimBegin" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="DistDesc_AnimIdle" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="DistDesc_PhysicsBoxPos" DataType="Container_Special_VECTOR" />
+        <ContainerData />
+        <DataInfo DataName="DistDesc_PhysicsBoxDim" DataType="Container_Special_VECTOR" />
+        <ContainerData />
+        <DataInfo DataName="DistDesc_SpeedLimit" DataType="Normal_FLOAT" />
+        <NormalData data="10.0000000" />
+        <DataInfo DataName="DistDesc_SoundAction" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="DistDesc_SoundActionRange" DataType="Normal_FLOAT" />
+        <NormalData data="10.0000000" />
+        <DataInfo DataName="FxSpoutForward" DataType="Container_STRING" />
+        <ContainerData />
+        <DataInfo DataName="FxSpoutForwardFrame" DataType="Container_STRING" />
+        <ContainerData />
+        <DataInfo DataName="WheelCount" DataType="Normal_INT" />
+        <NormalData data="4" />
+        <DataInfo DataName="BodyDimension" DataType="Special_VECTOR" />
+        <NormalData data="7.8000002 5.0000000 12.6000004" />
+        <DataInfo DataName="BodyPos" DataType="Special_VECTOR" />
+        <NormalData data="0.0000000 0.0000000 0.0000000" />
+        <DataInfo DataName="ImpluseForward" DataType="Normal_FLOAT" />
+        <NormalData data="200.0000000" />
+        <DataInfo DataName="ImpluseForwardMin" DataType="Normal_FLOAT" />
+        <NormalData data="15.0000000" />
+        <DataInfo DataName="ImpluseBackward" DataType="Normal_FLOAT" />
+        <NormalData data="100.0000000" />
+        <DataInfo DataName="ImpluseBackwardMin" DataType="Normal_FLOAT" />
+        <NormalData data="10.0000000" />
+        <DataInfo DataName="Mass" DataType="Normal_FLOAT" />
+        <NormalData data="25.0000000" />
+        <DataInfo DataName="MassOffset" DataType="Special_VECTOR" />
+        <NormalData data="0.0000000 0.0000000 0.0000000" />
+        <DataInfo DataName="LinearDamper" DataType="Normal_FLOAT" />
+        <NormalData data="1.0000000" />
+        <DataInfo DataName="AngleDamper" DataType="Normal_FLOAT" />
+        <NormalData data="1.0000000" />
+        <DataInfo DataName="WheelFlyweightName" DataType="Container_STRING" />
+        <ContainerData data1="Logic_SandStorm_RightWheel" data2="Logic_SandStorm_RightWheel" data3="Logic_SandStorm_LeftWheel" data4="Logic_SandStorm_LeftWheel" />
+        <DataInfo DataName="RotationBones" DataType="Container_STRING" />
+        <ContainerData data1="Wheel_point01" data2="Wheel_point02" data3="Wheel_point03" data4="Wheel_point04" />
+        <DataInfo DataName="TranslationBones" DataType="Container_STRING" />
+        <ContainerData data1="Wheel_point01" data2="Wheel_point02" data3="Wheel_point03" data4="Wheel_point04" />
+        <DataInfo DataName="WheelLocation" DataType="Container_Special_VECTOR" />
+        <ContainerData data1="3.9000001 -2.0000000 6.3000002" data2="3.9000001 -2.0000000 -6.3000002" data3="-3.9000001 -2.0000000 6.3000002" data4="-3.9000001 -2.0000000 -6.3000002" />
+        <DataInfo DataName="ControllerType" DataType="Normal_INT" />
+        <NormalData data="3" />
+        <DataInfo DataName="FxWheel" DataType="Container_STRING" />
+        <ContainerData data1="" data2="" data3="FX_Wheel_g.reb" data4="FX_Wheel_g.reb" />
+        <DataInfo DataName="FxLeftMaterial" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="FxLeftMatParam" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="FxRightMaterial" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="FxRightMatParam" DataType="Normal_STRING" />
+        <NormalData data="" />
+    </FileData>
+</File>

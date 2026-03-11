@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FNonControlledEstab" ClassID="3591498806" ObjectName="Esb_RocketBase_CentralController" ObjectID="401106" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="707001" />
+        <DataInfo DataName="VersionName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="VersionIntro" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="IconName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="ModelName" DataType="Normal_STRING" />
+        <NormalData data="..\Models\scene\FC_Scene\F_screenc\F_screenc.reb" />
+        <DataInfo DataName="NormalModelAction" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="NormalModelIdle" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="BadModelName" DataType="Normal_STRING" />
+        <NormalData data="..\Models\scene\FC_Scene\F_screenc_debris\F_screenc_debris.reb" />
+        <DataInfo DataName="BadModelAction" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="BadModelIdle" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="FxExplode" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="SoundExplode" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="SoundRange" DataType="Normal_FLOAT" />
+        <NormalData data="20.0000000" />
+        <DataInfo DataName="SeatPoint" DataType="Container_STRING" />
+        <ContainerData />
+        <DataInfo DataName="CameraPoint" DataType="Container_STRING" />
+        <ContainerData />
+        <DataInfo DataName="BoardLoc" DataType="Container_Special_VECTOR" />
+        <ContainerData />
+        <DataInfo DataName="BoardVelocity" DataType="Normal_FLOAT" />
+        <NormalData data="5.0000000" />
+        <DataInfo DataName="CanBeOccupied" DataType="Normal_BOOL" />
+        <NormalData data="true" />
+        <DataInfo DataName="SeatHideModelFrameCount" DataType="Container_INT" />
+        <ContainerData />
+        <DataInfo DataName="SeatHideModelFrame" DataType="Container_STRING" />
+        <ContainerData />
+        <DataInfo DataName="StaticObject" DataType="Normal_BOOL" />
+        <NormalData data="true" />
+    </FileData>
+</File>

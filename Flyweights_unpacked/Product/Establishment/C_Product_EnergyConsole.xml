@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FProductInfo" ClassID="180302075" ObjectName="Product_EnergyConsole" ObjectID="707005" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="707005" />
+        <DataInfo DataName="Type" DataType="Normal_UINT" />
+        <NormalData data="0" />
+        <DataInfo DataName="SubType" DataType="Normal_UINT" />
+        <NormalData data="0" />
+        <DataInfo DataName="ProductName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="ProductIntro" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="ProductShow" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="ProductRadarIcon" DataType="Normal_STRING" />
+        <NormalData data="Radar_Esb_EnergyController.dds" />
+        <DataInfo DataName="KillingIcon" DataType="Normal_STRING" />
+        <NormalData data="" />
+    </FileData>
+</File>

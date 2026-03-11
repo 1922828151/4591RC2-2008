@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FNonControlledEstab" ClassID="3591498806" ObjectName="Logic_Beagle_Combat_Vehicle" ObjectID="2021110" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="0" />
+        <DataInfo DataName="VersionName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="VersionIntro" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="IconName" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_I_Beagle_CombatGun.dds" />
+        <DataInfo DataName="ModelName" DataType="Normal_STRING" />
+        <NormalData data="G_StandardGun.reb" />
+        <DataInfo DataName="NormalModelAction" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="NormalModelIdle" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="BadModelName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="BadModelAction" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="BadModelIdle" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="FxExplode" DataType="Normal_STRING" />
+        <NormalData data="Carryexplosion_S.reb" />
+        <DataInfo DataName="SoundExplode" DataType="Normal_STRING" />
+        <NormalData data="SaberTigerGun_explode.wav" />
+        <DataInfo DataName="SoundRange" DataType="Normal_FLOAT" />
+        <NormalData data="20.0000000" />
+        <DataInfo DataName="SeatPoint" DataType="Container_STRING" />
+        <ContainerData data1="G_StandardGun03" />
+        <DataInfo DataName="CameraPoint" DataType="Container_STRING" />
+        <ContainerData data1="StandardGun_Set_Point" />
+        <DataInfo DataName="BoardLoc" DataType="Container_Special_VECTOR" />
+        <ContainerData data1="0.0000000 -0.5000000 -1.5000000" />
+        <DataInfo DataName="BoardVelocity" DataType="Normal_FLOAT" />
+        <NormalData data="5.0000000" />
+        <DataInfo DataName="CanBeOccupied" DataType="Normal_BOOL" />
+        <NormalData data="false" />
+        <DataInfo DataName="SeatHideModelFrameCount" DataType="Container_INT" />
+        <ContainerData data1="1" />
+        <DataInfo DataName="SeatHideModelFrame" DataType="Container_STRING" />
+        <ContainerData data1="G_StandardGun01" />
+        <DataInfo DataName="StaticObject" DataType="Normal_BOOL" />
+        <NormalData data="false" />
+    </FileData>
+</File>

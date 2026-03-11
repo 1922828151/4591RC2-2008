@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FRobotArmor" ClassID="896920769" ObjectName="Logic_Walker_ProwlArmor" ObjectID="202213" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="2213" />
+        <DataInfo DataName="VersionName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="VersionIntro" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="Mass" DataType="Normal_INT" />
+        <NormalData data="50" />
+        <DataInfo DataName="Power" DataType="Normal_INT" />
+        <NormalData data="100" />
+        <DataInfo DataName="IconName" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_I_Robot_Walker_ProwlArmor.dds" />
+        <DataInfo DataName="RobotArmorType" DataType="Normal_INT" />
+        <NormalData data="3" />
+        <DataInfo DataName="SkillName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="PrimarySlotCount" DataType="Normal_INT" />
+        <NormalData data="0" />
+        <DataInfo DataName="SecondarySlotCount" DataType="Normal_INT" />
+        <NormalData data="1" />
+        <DataInfo DataName="ArmorType" DataType="Normal_INT" />
+        <NormalData data="2" />
+        <DataInfo DataName="MaxArmor" DataType="Normal_INT" />
+        <NormalData data="80" />
+        <DataInfo DataName="RecoverArmorUseExenergy" DataType="Normal_FLOAT" />
+        <NormalData data="0.0000000" />
+        <DataInfo DataName="RecoverArmor" DataType="Normal_FLOAT" />
+        <NormalData data="0.0000000" />
+        <DataInfo DataName="MatchBodyName" DataType="Normal_STRING" />
+        <NormalData data="Logic_Walker_Body" />
+        <DataInfo DataName="AngleUp" DataType="Normal_INT" />
+        <NormalData data="60" />
+        <DataInfo DataName="AngleDown" DataType="Normal_INT" />
+        <NormalData data="60" />
+        <DataInfo DataName="HideRadar" DataType="Normal_INT" />
+        <NormalData data="100" />
+        <DataInfo DataName="HideOptics" DataType="Normal_INT" />
+        <NormalData data="100" />
+        <DataInfo DataName="PartVec" DataType="Container_STRING" />
+        <ContainerData data1="Body" data2="LUpArm" data3="RUpArm" data4="Head" data5="LForeArm" data6="RForeArm" />
+        <DataInfo DataName="ModelVec" DataType="Container_STRING" />
+        <ContainerData data1="Walker_Body3" data2="Walker_LeftUpArm3" data3="Walker_RightUpArm3" data4="Walker_Head3" data5="Walker_LeftForeArm3" data6="Walker_RightForeArm3" />
+        <DataInfo DataName="BackPointPartVec" DataType="Container_STRING" />
+        <ContainerData />
+        <DataInfo DataName="BackPointNodeVec" DataType="Container_STRING" />
+        <ContainerData />
+    </FileData>
+</File>

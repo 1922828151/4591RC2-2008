@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FProductInfo" ClassID="180302075" ObjectName="Product_Beagle_SpyArmor" ObjectID="102113" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="2113" />
+        <DataInfo DataName="Type" DataType="Normal_UINT" />
+        <NormalData data="2" />
+        <DataInfo DataName="SubType" DataType="Normal_UINT" />
+        <NormalData data="1" />
+        <DataInfo DataName="ProductName" DataType="Normal_STRING" />
+        <NormalData data="特种甲" />
+        <DataInfo DataName="ProductIntro" DataType="Normal_STRING" />
+        <NormalData data="猎犬特种甲" />
+        <DataInfo DataName="ProductShow" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_Robot_Beagle_SpyArmor.dds" />
+        <DataInfo DataName="ProductRadarIcon" DataType="Normal_STRING" />
+        <NormalData data="Radar_Robot.dds" />
+        <DataInfo DataName="KillingIcon" DataType="Normal_STRING" />
+        <NormalData data="" />
+    </FileData>
+</File>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FRobotArmor" ClassID="896920769" ObjectName="Logic_Jaguar_StandardArmor" ObjectID="202121" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="2121" />
+        <DataInfo DataName="VersionName" DataType="Normal_STRING" />
+        <NormalData data="质量-150" />
+        <DataInfo DataName="VersionIntro" DataType="Normal_STRING" />
+        <NormalData data="功率-100" />
+        <DataInfo DataName="IconName" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_I_Robot_Jaguar_StandardArmor.dds" />
+        <DataInfo DataName="Mass" DataType="Normal_INT" />
+        <NormalData data="150" />
+        <DataInfo DataName="Power" DataType="Normal_INT" />
+        <NormalData data="100" />
+        <DataInfo DataName="RobotArmorType" DataType="Normal_INT" />
+        <NormalData data="1" />
+        <DataInfo DataName="SkillName" DataType="Normal_STRING" />
+        <NormalData data="Skill_JaguarStandardTransform" />
+        <DataInfo DataName="PrimarySlotCount" DataType="Normal_INT" />
+        <NormalData data="0" />
+        <DataInfo DataName="SecondarySlotCount" DataType="Normal_INT" />
+        <NormalData data="0" />
+        <DataInfo DataName="ArmorType" DataType="Normal_INT" />
+        <NormalData data="4" />
+        <DataInfo DataName="MaxArmor" DataType="Normal_INT" />
+        <NormalData data="80" />
+        <DataInfo DataName="RecoverArmorUseExenergy" DataType="Normal_FLOAT" />
+        <NormalData data="0.0000000" />
+        <DataInfo DataName="RecoverArmor" DataType="Normal_FLOAT" />
+        <NormalData data="0.0000000" />
+        <DataInfo DataName="MatchBodyName" DataType="Normal_STRING" />
+        <NormalData data="Logic_Jaguar_Body" />
+        <DataInfo DataName="AngleUp" DataType="Normal_INT" />
+        <NormalData data="60" />
+        <DataInfo DataName="AngleDown" DataType="Normal_INT" />
+        <NormalData data="15" />
+        <DataInfo DataName="HideRadar" DataType="Normal_INT" />
+        <NormalData data="100" />
+        <DataInfo DataName="HideOptics" DataType="Normal_INT" />
+        <NormalData data="100" />
+        <DataInfo DataName="PartVec" DataType="Container_STRING" />
+        <ContainerData data1="LLeg" data2="RLeg" data3="LKnee" data4="RKnee" data5="LCalf" data6="RCalf" data7="LFoot" data8="RFoot" data9="Engine" data10="Pelvis" />
+        <DataInfo DataName="ModelVec" DataType="Container_STRING" />
+        <ContainerData data1="Jaguar_G_Leg1" data2="Jaguar_G_Leg1" data3="Jaguar_G_HorseLink1" data4="Jaguar_G_HorseLink1" data5="Jaguar_G_Calf1" data6="Jaguar_G_Calf1" data7="Jaguar_G_Foot1" data8="Jaguar_G_Foot1" data9="Jaguar_G_Engine1" data10="Jaguar_G_Pelvis1" />
+        <DataInfo DataName="BackPointPartVec" DataType="Container_STRING" />
+        <ContainerData />
+        <DataInfo DataName="BackPointNodeVec" DataType="Container_STRING" />
+        <ContainerData />
+    </FileData>
+</File>

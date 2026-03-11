@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FBullet" ClassID="1389946" ObjectName="Logic_Beagle_Combat_Gun_Bullet" ObjectID="621111101" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ImageName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="BulletType" DataType="Normal_INT" />
+        <NormalData data="0" />
+        <DataInfo DataName="DamageRange" DataType="Normal_INT" />
+        <NormalData data="0" />
+        <DataInfo DataName="Flyable" DataType="Normal_BOOL" />
+        <NormalData data="true" />
+        <DataInfo DataName="FlyTime" DataType="Normal_FLOAT" />
+        <NormalData data="1.0000000" />
+        <DataInfo DataName="FlySpeed" DataType="Normal_INT" />
+        <NormalData data="400" />
+        <DataInfo DataName="Gravity" DataType="Normal_INT" />
+        <NormalData data="0" />
+        <DataInfo DataName="Explode" DataType="Normal_BOOL" />
+        <NormalData data="false" />
+        <DataInfo DataName="TrackType" DataType="Normal_INT" />
+        <NormalData data="0" />
+        <DataInfo DataName="TrackRadius" DataType="Normal_FLOAT" />
+        <NormalData data="10.0000000" />
+        <DataInfo DataName="TrackAngle" DataType="Normal_FLOAT" />
+        <NormalData data="0.5235988" />
+        <DataInfo DataName="TrackLoseAngle" DataType="Normal_FLOAT" />
+        <NormalData data="6.2831855" />
+        <DataInfo DataName="FxFlyName" DataType="Normal_STRING" />
+        <NormalData data="StandardGun_Bullet" />
+        <DataInfo DataName="FxExplodeName" DataType="Normal_STRING" />
+        <NormalData data="StandardGun_Hit" />
+        <DataInfo DataName="SDFlyName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="SDFlyRange" DataType="Normal_FLOAT" />
+        <NormalData data="10.0000000" />
+        <DataInfo DataName="SDExplodeName" DataType="Normal_STRING" />
+        <NormalData data="F_PositiveIonBombardmentGun_hit.wav" />
+        <DataInfo DataName="SDExplodeRange" DataType="Normal_FLOAT" />
+        <NormalData data="10.0000000" />
+        <DataInfo DataName="ShakeCamera" DataType="Normal_BOOL" />
+        <NormalData data="true" />
+        <DataInfo DataName="EffectRange" DataType="Normal_FLOAT" />
+        <NormalData data="1.0000000" />
+        <DataInfo DataName="StartScope" DataType="Normal_FLOAT" />
+        <NormalData data="0.5000000" />
+        <DataInfo DataName="SpringBackRate" DataType="Normal_FLOAT" />
+        <NormalData data="0.5000000" />
+        <DataInfo DataName="CameraSpeed" DataType="Normal_FLOAT" />
+        <NormalData data="100.0000000" />
+    </FileData>
+</File>

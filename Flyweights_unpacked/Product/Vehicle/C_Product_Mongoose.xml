@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FProductInfo" ClassID="180302075" ObjectName="Product_Mongoose" ObjectID="104013" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="4013" />
+        <DataInfo DataName="Type" DataType="Normal_UINT" />
+        <NormalData data="32" />
+        <DataInfo DataName="SubType" DataType="Normal_UINT" />
+        <NormalData data="4" />
+        <DataInfo DataName="ProductName" DataType="Normal_STRING" />
+        <NormalData data="猫鼬" />
+        <DataInfo DataName="ProductIntro" DataType="Normal_STRING" />
+        <NormalData data="装甲运兵车，除驾驶员外另可乘载5名普通装机器人、5名重装机器人和1名炮手，搭载一门小口径电磁榴弹炮" />
+        <DataInfo DataName="ProductShow" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_Mongoose.dds" />
+        <DataInfo DataName="ProductRadarIcon" DataType="Normal_STRING" />
+        <NormalData data="Radar_Mongoose.dds" />
+        <DataInfo DataName="KillingIcon" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_D_Mongoose.dds" />
+    </FileData>
+</File>

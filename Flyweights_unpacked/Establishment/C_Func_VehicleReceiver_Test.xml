@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FFunc_VehicleReceive" ClassID="1712748900" ObjectName="Func_VehicleReceiver_Test" ObjectID="951001" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ReceiveLoc" DataType="Special_VECTOR" />
+        <NormalData data="0.0000000 0.0000000 0.0000000" />
+        <DataInfo DataName="EffectRange" DataType="Normal_FLOAT" />
+        <NormalData data="5.0000000" />
+        <DataInfo DataName="EffectHeight" DataType="Normal_FLOAT" />
+        <NormalData data="5.0000000" />
+    </FileData>
+</File>

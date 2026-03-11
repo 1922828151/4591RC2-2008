@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FAMovement" ClassID="170308066" ObjectName="Effect_Run" ObjectID="2222" Version="1" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="AuraType" DataType="Normal_INT" />
+        <NormalData data="0" />
+        <DataInfo DataName="AuraPeriodicityType" DataType="Normal_INT" />
+        <NormalData data="0" />
+        <DataInfo DataName="AuraCapacity" DataType="Normal_INT" />
+        <NormalData data="0" />
+        <DataInfo DataName="Duration" DataType="Normal_FLOAT" />
+        <NormalData data="-1.0000000" />
+        <DataInfo DataName="Periodicity" DataType="Normal_FLOAT" />
+        <NormalData data="0.0000000" />
+        <DataInfo DataName="FxName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="FxBoneName" DataType="Normal_STRING" />
+        <NormalData data="SpinePoint" />
+        <DataInfo DataName="FxFPVHidden" DataType="Normal_BOOL" />
+        <NormalData data="false" />
+        <DataInfo DataName="TexName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="SoundName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="SoundRange" DataType="Normal_INT" />
+        <NormalData data="3" />
+        <DataInfo DataName="DependUserDir" DataType="Normal_BOOL" />
+        <NormalData data="false" />
+        <DataInfo DataName="MoveSpeedPercent" DataType="Normal_FLOAT" />
+        <NormalData data="1.0000000" />
+        <DataInfo DataName="UpSpeed" DataType="Normal_FLOAT" />
+        <NormalData data="0.0000000" />
+    </FileData>
+</File>

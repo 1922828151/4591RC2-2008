@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FSeat" ClassID="57251" ObjectName="Logic_DeathWing_DriverSeat" ObjectID="640101" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="RobotLimit" DataType="Normal_INT" />
+        <NormalData data="1" />
+        <DataInfo DataName="Breviary" DataType="Normal_STRING" />
+        <NormalData data="HUD_Seat_Driver.dds" />
+        <DataInfo DataName="BoardFX" DataType="Normal_STRING" />
+        <NormalData data="Decal_SeatDriver.reb" />
+        <DataInfo DataName="ControllerType" DataType="Normal_INT" />
+        <NormalData data="4" />
+        <DataInfo DataName="WeaponControlPoint" DataType="Container_STRING" />
+        <ContainerData />
+        <DataInfo DataName="WeaponShootPoint" DataType="Container_STRING" />
+        <ContainerData />
+        <DataInfo DataName="CameraDistMin" DataType="Normal_FLOAT" />
+        <NormalData data="15.0000000" />
+        <DataInfo DataName="CameraDistMax" DataType="Normal_FLOAT" />
+        <NormalData data="30.0000000" />
+    </FileData>
+</File>

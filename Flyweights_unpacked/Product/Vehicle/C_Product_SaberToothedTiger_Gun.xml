@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FProductInfo" ClassID="180302075" ObjectName="Product_SaberToothedTiger_Gun" ObjectID="114002" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="14002" />
+        <DataInfo DataName="Type" DataType="Normal_UINT" />
+        <NormalData data="32" />
+        <DataInfo DataName="SubType" DataType="Normal_UINT" />
+        <NormalData data="32" />
+        <DataInfo DataName="ProductName" DataType="Normal_STRING" />
+        <NormalData data="剑齿虎" />
+        <DataInfo DataName="ProductIntro" DataType="Normal_STRING" />
+        <NormalData data="轻型单人战车，悬浮驱动，有一门大口径电磁炮，弹道平直，弹速极快。" />
+        <DataInfo DataName="ProductShow" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_SaberToothedTiger.dds" />
+        <DataInfo DataName="ProductRadarIcon" DataType="Normal_STRING" />
+        <NormalData data="Radar_SaberToothedTiger.dds" />
+        <DataInfo DataName="KillingIcon" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_D_SaberToothedTiger.dds" />
+    </FileData>
+</File>

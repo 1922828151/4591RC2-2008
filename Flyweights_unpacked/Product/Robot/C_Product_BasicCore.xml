@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FProductInfo" ClassID="180302075" ObjectName="Product_BasicCore" ObjectID="102001" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="2001" />
+        <DataInfo DataName="Type" DataType="Normal_UINT" />
+        <NormalData data="4" />
+        <DataInfo DataName="SubType" DataType="Normal_UINT" />
+        <NormalData data="0" />
+        <DataInfo DataName="ProductName" DataType="Normal_STRING" />
+        <NormalData data="标准核心" />
+        <DataInfo DataName="ProductIntro" DataType="Normal_STRING" />
+        <NormalData data="机器人的“心脏”，是动力来源和控制系统。" />
+        <DataInfo DataName="ProductShow" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_BasicCore.dds" />
+    </FileData>
+</File>

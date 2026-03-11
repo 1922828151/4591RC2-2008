@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FFunc_RobotReceive" ClassID="3570183938" ObjectName="Func_RobotPlatform_Receive" ObjectID="505002" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ReceiveLoc" DataType="Special_VECTOR" />
+        <NormalData data="0.0000000 0.0000000 0.0000000" />
+        <DataInfo DataName="EffectRange" DataType="Normal_FLOAT" />
+        <NormalData data="10.0000000" />
+        <DataInfo DataName="EffectHeight" DataType="Normal_FLOAT" />
+        <NormalData data="4.0000000" />
+    </FileData>
+</File>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FRobotArmor" ClassID="896920769" ObjectName="Logic_Beagle_CombatArmor" ObjectID="202111" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ImageName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="2111" />
+        <DataInfo DataName="VersionName" DataType="Normal_STRING" />
+        <NormalData data="质量-80" />
+        <DataInfo DataName="VersionIntro" DataType="Normal_STRING" />
+        <NormalData data="功率-100" />
+        <DataInfo DataName="IconName" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_I_Robot_Beagle_CombatArmor.dds" />
+        <DataInfo DataName="Mass" DataType="Normal_INT" />
+        <NormalData data="80" />
+        <DataInfo DataName="Power" DataType="Normal_INT" />
+        <NormalData data="90" />
+        <DataInfo DataName="RobotArmorType" DataType="Normal_INT" />
+        <NormalData data="1" />
+        <DataInfo DataName="SkillName" DataType="Normal_STRING" />
+        <NormalData data="Skill_BeagleCombatTransform" />
+        <DataInfo DataName="PrimarySlotCount" DataType="Normal_INT" />
+        <NormalData data="2" />
+        <DataInfo DataName="SecondarySlotCount" DataType="Normal_INT" />
+        <NormalData data="0" />
+        <DataInfo DataName="ArmorType" DataType="Normal_INT" />
+        <NormalData data="2" />
+        <DataInfo DataName="MaxArmor" DataType="Normal_INT" />
+        <NormalData data="100" />
+        <DataInfo DataName="RecoverArmorUseExenergy" DataType="Normal_FLOAT" />
+        <NormalData data="0.0000000" />
+        <DataInfo DataName="RecoverArmor" DataType="Normal_FLOAT" />
+        <NormalData data="0.0000000" />
+        <DataInfo DataName="MatchBodyName" DataType="Normal_STRING" />
+        <NormalData data="Logic_Beagle_Body" />
+        <DataInfo DataName="AngleUp" DataType="Normal_INT" />
+        <NormalData data="60" />
+        <DataInfo DataName="AngleDown" DataType="Normal_INT" />
+        <NormalData data="30" />
+        <DataInfo DataName="RadirRange" DataType="Normal_INT" />
+        <NormalData data="200" />
+        <DataInfo DataName="HideRadar" DataType="Normal_INT" />
+        <NormalData data="100" />
+        <DataInfo DataName="HideOptics" DataType="Normal_INT" />
+        <NormalData data="100" />
+        <DataInfo DataName="PartVec" DataType="Container_STRING" />
+        <ContainerData data1="Body" data2="Head" data3="LUpArm" data4="LForeArm" data5="RUpArm" data6="RForeArm" />
+        <DataInfo DataName="ModelVec" DataType="Container_STRING" />
+        <ContainerData data1="Beagle_Spine1" data2="Beagle_Head1" data3="Beagle_LeftUpArm1" data4="Beagle_LeftForeArm1" data5="Beagle_RightUpArm1" data6="Beagle_RightForeArm1" />
+        <DataInfo DataName="BackPointPartVec" DataType="Container_STRING" />
+        <ContainerData data1="Body" data2="Body" />
+        <DataInfo DataName="BackPointNodeVec" DataType="Container_STRING" />
+        <ContainerData data1="Back_Point_1" data2="Back_Point_2" />
+    </FileData>
+</File>

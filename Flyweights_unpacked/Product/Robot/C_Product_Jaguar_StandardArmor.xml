@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FProductInfo" ClassID="180302075" ObjectName="Product_Jaguar_StandardArmor" ObjectID="102121" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="2121" />
+        <DataInfo DataName="Type" DataType="Normal_UINT" />
+        <NormalData data="2" />
+        <DataInfo DataName="SubType" DataType="Normal_UINT" />
+        <NormalData data="2" />
+        <DataInfo DataName="ProductName" DataType="Normal_STRING" />
+        <NormalData data="猎豹标准甲" />
+        <DataInfo DataName="ProductIntro" DataType="Normal_STRING" />
+        <NormalData data="可变形为一辆悬浮载具，虽然没有武器，但行进速度极快。" />
+        <DataInfo DataName="ProductShow" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_Robot_Jaguar_StandardArmor.dds" />
+        <DataInfo DataName="ProductRadarIcon" DataType="Normal_STRING" />
+        <NormalData data="Radar_RockStone.dds" />
+    </FileData>
+</File>

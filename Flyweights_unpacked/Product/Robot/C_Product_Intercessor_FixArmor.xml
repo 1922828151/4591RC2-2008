@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FProductInfo" ClassID="180302075" ObjectName="Product_Intercessor_FixArmor" ObjectID="102222" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="2222" />
+        <DataInfo DataName="Type" DataType="Normal_UINT" />
+        <NormalData data="2" />
+        <DataInfo DataName="SubType" DataType="Normal_UINT" />
+        <NormalData data="2" />
+        <DataInfo DataName="ProductName" DataType="Normal_STRING" />
+        <NormalData data="仲裁者固化甲" />
+        <DataInfo DataName="ProductIntro" DataType="Normal_STRING" />
+        <NormalData data="可变身为“固定模式”，无法移动，但可为武器连续供能，使其可长时间持续射击。" />
+        <DataInfo DataName="ProductShow" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_Robot_Intercessor_FixArmor.dds" />
+        <DataInfo DataName="ProductRadarIcon" DataType="Normal_STRING" />
+        <NormalData data="Radar_RockStone.dds" />
+    </FileData>
+</File>

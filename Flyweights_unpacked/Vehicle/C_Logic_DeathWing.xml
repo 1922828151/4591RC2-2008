@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FAircraftVehicle" ClassID="2207714774" ObjectName="Logic_DeathWing" ObjectID="204010" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ImageName" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_d_DeathWing.dds" />
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="4010" />
+        <DataInfo DataName="VersionName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="VersionIntro" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="ModelName" DataType="Normal_STRING" />
+        <NormalData data="M_DeathWing.reb" />
+        <DataInfo DataName="BadModelName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="SeatPoint" DataType="Container_STRING" />
+        <ContainerData data1="Seat_Point01" data2="Seat_Point02" />
+        <DataInfo DataName="CameraPoint" DataType="Container_STRING" />
+        <ContainerData data1="Seat_Point01" data2="Seat_Point02" />
+        <DataInfo DataName="BoardLoc" DataType="Container_Special_VECTOR" />
+        <ContainerData data1="0.0000000 -2.0000000 8.0000000" data2="0.0000000 -2.0000000 -8.0000000" />
+        <DataInfo DataName="BoardVelocity" DataType="Normal_FLOAT" />
+        <NormalData data="5.0000000" />
+        <DataInfo DataName="CanBeOccupied" DataType="Normal_BOOL" />
+        <NormalData data="true" />
+        <DataInfo DataName="SeatHideModelFrameCount" DataType="Container_INT" />
+        <ContainerData data1="1" data2="1" />
+        <DataInfo DataName="SeatHideModelFrame" DataType="Container_STRING" />
+        <ContainerData data1="M_DeathWing01" data2="M_DeathWing01" />
+        <DataInfo DataName="DriverSeat" DataType="Normal_INT" />
+        <NormalData data="0" />
+        <DataInfo DataName="SoundEngineIdle" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="SoundEngineIdleRange" DataType="Normal_FLOAT" />
+        <NormalData data="20.0000000" />
+        <DataInfo DataName="SoundEngineRun" DataType="Normal_STRING" />
+        <NormalData data="DeathWing_run.wav" />
+        <DataInfo DataName="SoundEngineRunRange" DataType="Normal_FLOAT" />
+        <NormalData data="10.0000000" />
+        <DataInfo DataName="NormDesc_AnimBegin" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="NormDesc_AnimIdle" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="NormDesc_ElespTime" DataType="Normal_FLOAT" />
+        <NormalData data="1.0000000" />
+        <DataInfo DataName="DistDesc_Enable" DataType="Normal_BOOL" />
+        <NormalData data="false" />
+        <DataInfo DataName="DistDesc_ElespTime" DataType="Normal_FLOAT" />
+        <NormalData data="1.0000000" />
+        <DataInfo DataName="DistDesc_AnimBegin" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="DistDesc_AnimIdle" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="DistDesc_PhysicsBoxPos" DataType="Container_Special_VECTOR" />
+        <ContainerData />
+        <DataInfo DataName="DistDesc_PhysicsBoxDim" DataType="Container_Special_VECTOR" />
+        <ContainerData />
+        <DataInfo DataName="DistDesc_SpeedLimit" DataType="Normal_FLOAT" />
+        <NormalData data="10.0000000" />
+        <DataInfo DataName="BodyDimension" DataType="Special_VECTOR" />
+        <NormalData data="26.0000000 5.0000000 13.5000000" />
+        <DataInfo DataName="BodyPos" DataType="Special_VECTOR" />
+        <NormalData data="0.0000000 0.0000000 0.0000000" />
+        <DataInfo DataName="ImpluseForward" DataType="Normal_FLOAT" />
+        <NormalData data="100.0000000" />
+        <DataInfo DataName="ImpluseForwardMin" DataType="Normal_FLOAT" />
+        <NormalData data="50.0000000" />
+        <DataInfo DataName="ImpluseBackward" DataType="Normal_FLOAT" />
+        <NormalData data="50.0000000" />
+        <DataInfo DataName="Mass" DataType="Normal_FLOAT" />
+        <NormalData data="22.0000000" />
+        <DataInfo DataName="MassOffset" DataType="Special_VECTOR" />
+        <NormalData data="0.0000000 0.0000000 0.0000000" />
+        <DataInfo DataName="LinearDamper" DataType="Normal_FLOAT" />
+        <NormalData data="1.0000000" />
+        <DataInfo DataName="AngleDamper" DataType="Normal_FLOAT" />
+        <NormalData data="1.0000000" />
+        <DataInfo DataName="ImpluseSide" DataType="Normal_FLOAT" />
+        <NormalData data="100.0000000" />
+        <DataInfo DataName="ImpluseUpDown" DataType="Normal_FLOAT" />
+        <NormalData data="100.0000000" />
+        <DataInfo DataName="ImpluseOffset" DataType="Normal_FLOAT" />
+        <NormalData data="0.0000000" />
+        <DataInfo DataName="SteerTorqueX" DataType="Normal_FLOAT" />
+        <NormalData data="1.0000000" />
+        <DataInfo DataName="SteerTorqueY" DataType="Normal_FLOAT" />
+        <NormalData data="1.0000000" />
+        <DataInfo DataName="SteerMaxX" DataType="Normal_FLOAT" />
+        <NormalData data="0.4000000" />
+        <DataInfo DataName="SteerMinX" DataType="Normal_FLOAT" />
+        <NormalData data="0.0000000" />
+        <DataInfo DataName="BalanceX" DataType="Normal_FLOAT" />
+        <NormalData data="100.0000000" />
+        <DataInfo DataName="BalanceZ" DataType="Normal_FLOAT" />
+        <NormalData data="100.0000000" />
+        <DataInfo DataName="SteerYEffectSteerZ" DataType="Normal_FLOAT" />
+        <NormalData data="0.0010000" />
+        <DataInfo DataName="MoveEffectSteerX" DataType="Normal_FLOAT" />
+        <NormalData data="0.0010000" />
+        <DataInfo DataName="MoveToHeadDir" DataType="Normal_BOOL" />
+        <NormalData data="true" />
+        <DataInfo DataName="ImpluseSideSlide" DataType="Normal_FLOAT" />
+        <NormalData data="1.0000000" />
+        <DataInfo DataName="DamperVertical" DataType="Normal_FLOAT" />
+        <NormalData data="1.0000000" />
+        <DataInfo DataName="InputSteerBias" DataType="Normal_FLOAT" />
+        <NormalData data="500.0000000" />
+        <DataInfo DataName="InputResume" DataType="Normal_FLOAT" />
+        <NormalData data="200.0000000" />
+        <DataInfo DataName="ControllerType" DataType="Normal_INT" />
+        <NormalData data="4" />
+    </FileData>
+</File>

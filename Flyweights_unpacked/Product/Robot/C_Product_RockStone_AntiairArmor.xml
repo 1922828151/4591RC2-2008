@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FProductInfo" ClassID="180302075" ObjectName="Product_RockStone_AntiairArmor" ObjectID="102322" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="2322" />
+        <DataInfo DataName="Type" DataType="Normal_UINT" />
+        <NormalData data="2" />
+        <DataInfo DataName="SubType" DataType="Normal_UINT" />
+        <NormalData data="2" />
+        <DataInfo DataName="ProductName" DataType="Normal_STRING" />
+        <NormalData data="磐石防空甲" />
+        <DataInfo DataName="ProductIntro" DataType="Normal_STRING" />
+        <NormalData data="内置锁定飞行载具目标的能力，配合冰锥使用可追踪攻击飞行载具。" />
+        <DataInfo DataName="ProductShow" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_Robot_RockStone_AntiAirArmor.dds" />
+        <DataInfo DataName="ProductRadarIcon" DataType="Normal_STRING" />
+        <NormalData data="Radar_RockStone.dds" />
+    </FileData>
+</File>

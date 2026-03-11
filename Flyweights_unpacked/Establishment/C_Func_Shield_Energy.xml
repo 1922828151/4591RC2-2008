@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FFunc_Power" ClassID="876520594" ObjectName="Func_Shield_Energy" ObjectID="502011" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="MaxEnergy" DataType="Normal_FLOAT" />
+        <NormalData data="0.0000000" />
+        <DataInfo DataName="MaxHyperEnergy" DataType="Normal_FLOAT" />
+        <NormalData data="0.0000000" />
+        <DataInfo DataName="CanGenerateEnergy" DataType="Normal_BOOL" />
+        <NormalData data="true" />
+        <DataInfo DataName="GenerateSpeed" DataType="Normal_FLOAT" />
+        <NormalData data="1000.0000000" />
+        <DataInfo DataName="CanGenerateHyper" DataType="Normal_BOOL" />
+        <NormalData data="false" />
+        <DataInfo DataName="ConsumeEnergy" DataType="Normal_FLOAT" />
+        <NormalData data="0.0000000" />
+        <DataInfo DataName="ChangeRate" DataType="Normal_FLOAT" />
+        <NormalData data="0.0000000" />
+        <DataInfo DataName="HeatRate" DataType="Normal_FLOAT" />
+        <NormalData data="0.0000000" />
+        <DataInfo DataName="CoolSpeed" DataType="Normal_FLOAT" />
+        <NormalData data="0.0000000" />
+        <DataInfo DataName="MaxHeat" DataType="Normal_FLOAT" />
+        <NormalData data="0.0000000" />
+        <DataInfo DataName="UsableHeat" DataType="Normal_FLOAT" />
+        <NormalData data="0.0000000" />
+        <DataInfo DataName="OutputLocation" DataType="Special_VECTOR" />
+        <NormalData data="0.0000000 0.0000000 0.0000000" />
+        <DataInfo DataName="OutputRange" DataType="Normal_FLOAT" />
+        <NormalData data="5.0000000" />
+        <DataInfo DataName="OutputHeight" DataType="Normal_FLOAT" />
+        <NormalData data="5.0000000" />
+    </FileData>
+</File>

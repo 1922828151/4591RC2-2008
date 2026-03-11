@@ -1,0 +1,14 @@
+﻿file,ClassName,ObjectName,ObjectID,ProductID,VersionName,VersionIntro,Mass,Power,ModelName,IconName,ImageName
+C_Logic_DataTerminal.xml,FItem,Logic_DataTerminal,203401,3401,质量-10,功率-10,10,10,F_PersonalDataTerminal_3p.reb,Icon_HUD_P_DataTerminal.dds,
+C_Logic_EMGrenade.xml,FItem,Logic_EMGrenade,203205,3205,质量-30,功率-50,30,50,F_EMGrenade_3p.reb,Icon_HUD_P_EMGrenade.dds,Icon_HUD_D_EMGrenade.dds
+C_Logic_EMGrenade_Console.xml,FItem,Logic_EMGrenade_Console,203205211,0,,,1,1,F_EMGrenade_Y_3p.reb,Icon_HUD_P_EMGrenadeY.dds,
+C_Logic_EMGrenade_DEItem.xml,FDamageEquip,Logic_EMGrenade_DEItem,2032051,13205,,,1,1,F_EMGrenade_3p.reb,,Icon_HUD_D_EMGrenade.dds
+C_Logic_EMMine.xml,FItem,Logic_EMMine,203204,3204,质量-20,功率-0,20,0,F_EMMine_3p.reb,Icon_HUD_P_EMMine.dds,Icon_HUD_D_EMMine.dds
+C_Logic_EMMine_DEItem.xml,FDamageEquip,Logic_EMMine_DEItem,2032041,13204,,,1,1,F_EMMine_3p.reb,,Icon_HUD_D_EMMine.dds
+C_Logic_EMPGrenade.xml,FItem,Logic_EMPGrenade,203206,3206,质量-40,功率-0,40,0,F_EMPGrenade.reb,Icon_HUD_P_EMPGrenade.dds,
+C_Logic_EMPGrenade_DEItem.xml,FDamageEquip,Logic_EMPGrenade_DEItem,2032061,0,,,1,1,F_EMPGrenade.reb,,
+C_Logic_InductionSiren.xml,FItem,Logic_InductionSiren,203403,3403,质量-20,功率-0,20,0,F_InductionSiren_3p.reb,Icon_HUD_P_InductionSiren.dds,
+C_Logic_InductionSiren_DEItem.xml,FDamageEquip,Logic_InductionSiren_DEItem,2034031,0,,,1,1,F_InductionSiren_3p.reb,,
+C_Logic_RepairSet.xml,FItem,Logic_RepairSet,203402,3402,质量-100,功率-200,100,200,F_EMCuringAdhesive_3p.reb,Icon_HUD_P_RepairSet.dds,
+C_Logic_ResetKit.xml,FItem,Logic_ResetKit,203301,3301,质量-100,功率-250,100,250,F_RepairSet_3p.reb,Icon_HUD_P_ResetKit.dds,
+C_Logic_SSC.xml,FItem,Logic_SSC,903302,3302,质量-80,功率-100,80,100,F_SSC_3p.reb,Icon_HUD_P_SSC.dds,

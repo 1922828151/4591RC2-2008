@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FBullet" ClassID="1389946" ObjectName="Logic_Harpoon_Bullet" ObjectID="331041" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="BulletType" DataType="Normal_INT" />
+        <NormalData data="0" />
+        <DataInfo DataName="Flyable" DataType="Normal_BOOL" />
+        <NormalData data="true" />
+        <DataInfo DataName="FlyTime" DataType="Normal_FLOAT" />
+        <NormalData data="2.0000000" />
+        <DataInfo DataName="FlySpeed" DataType="Normal_INT" />
+        <NormalData data="150" />
+        <DataInfo DataName="Gravity" DataType="Normal_INT" />
+        <NormalData data="0" />
+        <DataInfo DataName="Explode" DataType="Normal_BOOL" />
+        <NormalData data="false" />
+        <DataInfo DataName="FxFlyName" DataType="Normal_STRING" />
+        <NormalData data="FX_Harpoon_Bullet" />
+        <DataInfo DataName="FxExplodeName" DataType="Normal_STRING" />
+        <NormalData data="FX_Harpoon_Explode" />
+        <DataInfo DataName="SDFlyName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="SDFlyRange" DataType="Normal_FLOAT" />
+        <NormalData data="10.0000000" />
+        <DataInfo DataName="SDExplodeName" DataType="Normal_STRING" />
+        <NormalData data="M_Harpoon_Explode.wav" />
+        <DataInfo DataName="SDExplodeRange" DataType="Normal_FLOAT" />
+        <NormalData data="10.0000000" />
+        <DataInfo DataName="ShakeCamera" DataType="Normal_BOOL" />
+        <NormalData data="true" />
+        <DataInfo DataName="EffectRange" DataType="Normal_FLOAT" />
+        <NormalData data="2.0000000" />
+        <DataInfo DataName="StartScope" DataType="Normal_FLOAT" />
+        <NormalData data="1.0000000" />
+        <DataInfo DataName="SpringBackRate" DataType="Normal_FLOAT" />
+        <NormalData data="0.5000000" />
+        <DataInfo DataName="CameraSpeed" DataType="Normal_FLOAT" />
+        <NormalData data="100.0000000" />
+    </FileData>
+</File>

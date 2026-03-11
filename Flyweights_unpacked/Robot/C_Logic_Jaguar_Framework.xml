@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FRobotFramework" ClassID="2231501722" ObjectName="Logic_Jaguar_Framework" ObjectID="302120" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="CamHeightStand" DataType="Normal_FLOAT" />
+        <NormalData data="1.6000000" />
+        <DataInfo DataName="CamHeightSquat" DataType="Normal_FLOAT" />
+        <NormalData data="0.8000000" />
+        <DataInfo DataName="MaxCamDistance" DataType="Normal_FLOAT" />
+        <NormalData data="8.0000000" />
+        <DataInfo DataName="MinCamDistance" DataType="Normal_FLOAT" />
+        <NormalData data="2.0000000" />
+        <DataInfo DataName="BoxStand.max" DataType="Special_VECTOR" />
+        <NormalData data="2.9000001 3.6000001 3.0000000" />
+        <DataInfo DataName="BoxStand.min" DataType="Special_VECTOR" />
+        <NormalData data="0.0000000 0.0000000 0.0000000" />
+        <DataInfo DataName="HeightSquat" DataType="Normal_FLOAT" />
+        <NormalData data="1.3000000" />
+        <DataInfo DataName="OffsetRenderBox" DataType="Special_VECTOR" />
+        <NormalData data="0.0000000 0.0000000 0.0000000" />
+        <DataInfo DataName="MoveType" DataType="Normal_INT" />
+        <NormalData data="0" />
+        <DataInfo DataName="SpeedForwardOnAnim" DataType="Normal_FLOAT" />
+        <NormalData data="6.5000000" />
+        <DataInfo DataName="SpeedBackwardOnAnim" DataType="Normal_FLOAT" />
+        <NormalData data="5.5000000" />
+        <DataInfo DataName="SpeedStrafeOnAnim" DataType="Normal_FLOAT" />
+        <NormalData data="4.0000000" />
+        <DataInfo DataName="SpeedSquatOnAnim" DataType="Normal_FLOAT" />
+        <NormalData data="1.5000000" />
+        <DataInfo DataName="FrameworkModelName" DataType="Normal_STRING" />
+        <NormalData data="Jaguar_Framework.reb" />
+        <DataInfo DataName="AnimationFileName" DataType="Normal_STRING" />
+        <NormalData data="Jaguar" />
+        <DataInfo DataName="AnimFilePath" DataType="Normal_STRING" />
+        <NormalData data="..\\Models\\Robots\\Jaguar" />
+        <DataInfo DataName="HandModelName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="HandAnimFilePath" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="PartVec" DataType="Container_STRING" />
+        <ContainerData data1="Body" data2="LLeg" data3="LKnee" data4="LCalf" data5="LFoot" data6="RLeg" data7="RKnee" data8="RCalf" data9="RFoot" data10="Engine" data11="Head" data12="Pelvis" />
+        <DataInfo DataName="BoneVec" DataType="Container_STRING" />
+        <ContainerData data1="Bip01_Spine" data2="Bip01_L_Thigh" data3="Bip01_L_HorseLink" data4="Bip01_L_Calf" data5="Bip01_L_Foot" data6="Bip01_R_Thigh" data7="Bip01_R_HorseLink" data8="Bip01_R_Calf" data9="Bip01_R_Foot" data10="Engine_Point" data11="Bip01_Head" data12="Bip01_Pelvis" />
+        <DataInfo DataName="TurnFrame" DataType="Normal_STRING" />
+        <NormalData data="Bip01_Head" />
+        <DataInfo DataName="NameCamFrmae" DataType="Normal_STRING" />
+        <NormalData data="Bip01_Head" />
+        <DataInfo DataName="FxNameWaterWave" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="FxBindBoneNames" DataType="Container_STRING" />
+        <ContainerData data1="Bip01_Head" data2="Bip01_Spine" />
+    </FileData>
+</File>

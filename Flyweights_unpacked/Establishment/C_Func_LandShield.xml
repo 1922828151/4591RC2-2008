@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FFunc_Sheild" ClassID="87638594" ObjectName="Func_LandShield" ObjectID="509001" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="SheildModel" DataType="Normal_STRING" />
+        <NormalData data="...\Models\scene\WC_Scene\WC_InvincibilityBall\WC_InvincibilityBall.reb" />
+    </FileData>
+</File>

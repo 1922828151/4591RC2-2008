@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FProductInfo" ClassID="180302075" ObjectName="Product_RepairSet" ObjectID="103402" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="3402" />
+        <DataInfo DataName="Type" DataType="Normal_UINT" />
+        <NormalData data="16" />
+        <DataInfo DataName="SubType" DataType="Normal_UINT" />
+        <NormalData data="16" />
+        <DataInfo DataName="ProductName" DataType="Normal_STRING" />
+        <NormalData data="维修器" />
+        <DataInfo DataName="ProductIntro" DataType="Normal_STRING" />
+        <NormalData data="可用于维修机器人和载具上装配的复合甲和金属甲，但无法修复机体所用的纤维甲。" />
+        <DataInfo DataName="ProductShow" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_RepairSet.dds" />
+        <DataInfo DataName="KillingIcon" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_RepairSet.dds" />
+    </FileData>
+</File>

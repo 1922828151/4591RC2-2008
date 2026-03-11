@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FBooty" ClassID="277351" ObjectName="Logic_Booty_G" ObjectID="520001" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="OpenRange" DataType="Normal_FLOAT" />
+        <NormalData data="3.0000000" />
+        <DataInfo DataName="NxBoxMax" DataType="Special_VECTOR" />
+        <NormalData data="0.5000000 0.5000000 0.5000000" />
+        <DataInfo DataName="NxBoxMin" DataType="Special_VECTOR" />
+        <NormalData data="0.0000000 0.0000000 0.0000000" />
+        <DataInfo DataName="ModelName" DataType="Normal_STRING" />
+        <NormalData data="g_Materialpack.reb" />
+    </FileData>
+</File>

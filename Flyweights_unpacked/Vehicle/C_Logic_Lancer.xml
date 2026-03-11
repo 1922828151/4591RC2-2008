@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FSuspendVehicle" ClassID="1446962340" ObjectName="Logic_Lancer" ObjectID="204012" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="ImageName" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_d_Lancer.dds" />
+        <DataInfo DataName="ProductID" DataType="Normal_UINT" />
+        <NormalData data="4012" />
+        <DataInfo DataName="VersionName" DataType="Normal_STRING" />
+        <NormalData data="悬浮式" />
+        <DataInfo DataName="VersionIntro" DataType="Normal_STRING" />
+        <NormalData data="额定乘员-2" />
+        <DataInfo DataName="IconName" DataType="Normal_STRING" />
+        <NormalData data="Icon_HUD_P_Lancer.dds" />
+        <DataInfo DataName="ModelName" DataType="Normal_STRING" />
+        <NormalData data="M_Lancer.reb" />
+        <DataInfo DataName="NormalModelAction" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="NormalModelIdle" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="BadModelName" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="BadModelAction" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="BadModelIdle" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="FxExplode" DataType="Normal_STRING" />
+        <NormalData data="Carryexplosion_B.reb" />
+        <DataInfo DataName="SoundExplode" DataType="Normal_STRING" />
+        <NormalData data="SaberTigerGun_explode.wav" />
+        <DataInfo DataName="SoundRange" DataType="Normal_FLOAT" />
+        <NormalData data="30.0000000" />
+        <DataInfo DataName="SeatPoint" DataType="Container_STRING" />
+        <ContainerData data1="Seat_Point01" data2="Seat_Point02" />
+        <DataInfo DataName="CameraPoint" DataType="Container_STRING" />
+        <ContainerData data1="Seat_Point01" data2="Seat_Point02" />
+        <DataInfo DataName="BoardLoc" DataType="Container_Special_VECTOR" />
+        <ContainerData data1="0.0000000 2.0000000 6.5000000" data2="0.0000000 2.0000000 -6.5000000" />
+        <DataInfo DataName="BoardVelocity" DataType="Normal_FLOAT" />
+        <NormalData data="3.0000000" />
+        <DataInfo DataName="CanBeOccupied" DataType="Normal_BOOL" />
+        <NormalData data="true" />
+        <DataInfo DataName="SeatHideModelFrameCount" DataType="Container_INT" />
+        <ContainerData data1="1" data2="1" />
+        <DataInfo DataName="SeatHideModelFrame" DataType="Container_STRING" />
+        <ContainerData data1="M_Lancer_Gun_Point" data2="M_Lancer_Gun02" />
+        <DataInfo DataName="DriverSeat" DataType="Normal_INT" />
+        <NormalData data="0" />
+        <DataInfo DataName="SoundEngineIdle" DataType="Normal_STRING" />
+        <NormalData data="Lancer_Idle.wav" />
+        <DataInfo DataName="SoundEngineIdleRange" DataType="Normal_FLOAT" />
+        <NormalData data="2.0000000" />
+        <DataInfo DataName="SoundEngineRun" DataType="Normal_STRING" />
+        <NormalData data="Lancer_run.wav" />
+        <DataInfo DataName="SoundEngineRunRange" DataType="Normal_FLOAT" />
+        <NormalData data="20.0000000" />
+        <DataInfo DataName="SoundCollision" DataType="Normal_STRING" />
+        <NormalData data="F_Collision.wav" />
+        <DataInfo DataName="SoundCollisionRange" DataType="Normal_FLOAT" />
+        <NormalData data="20.0000000" />
+        <DataInfo DataName="SoundCollisionBias" DataType="Normal_FLOAT" />
+        <NormalData data="1.0000000" />
+        <DataInfo DataName="NormDesc_AnimBegin" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="NormDesc_AnimIdle" DataType="Normal_STRING" />
+        <NormalData data="M_Lancer_Idle1.X" />
+        <DataInfo DataName="NormDesc_ElespTime" DataType="Normal_FLOAT" />
+        <NormalData data="1.0000000" />
+        <DataInfo DataName="NormDesc_SoundAction" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="NormDesc_SoundActionRange" DataType="Normal_FLOAT" />
+        <NormalData data="10.0000000" />
+        <DataInfo DataName="DistDesc_Enable" DataType="Normal_BOOL" />
+        <NormalData data="false" />
+        <DataInfo DataName="DistDesc_ElespTime" DataType="Normal_FLOAT" />
+        <NormalData data="1.0000000" />
+        <DataInfo DataName="DistDesc_AnimBegin" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="DistDesc_AnimIdle" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="DistDesc_PhysicsBoxPos" DataType="Container_Special_VECTOR" />
+        <ContainerData />
+        <DataInfo DataName="DistDesc_PhysicsBoxDim" DataType="Container_Special_VECTOR" />
+        <ContainerData />
+        <DataInfo DataName="DistDesc_SpeedLimit" DataType="Normal_FLOAT" />
+        <NormalData data="10.0000000" />
+        <DataInfo DataName="DistDesc_SoundAction" DataType="Normal_STRING" />
+        <NormalData data="" />
+        <DataInfo DataName="DistDesc_SoundActionRange" DataType="Normal_FLOAT" />
+        <NormalData data="10.0000000" />
+        <DataInfo DataName="FxSpoutForward" DataType="Container_STRING" />
+        <ContainerData />
+        <DataInfo DataName="FxSpoutForwardFrame" DataType="Container_STRING" />
+        <ContainerData />
+        <DataInfo DataName="WheelCount" DataType="Normal_INT" />
+        <NormalData data="4" />
+        <DataInfo DataName="BodyDimension" DataType="Special_VECTOR" />
+        <NormalData data="3.0000000 1.3000000 4.5999999" />
+        <DataInfo DataName="BodyPos" DataType="Special_VECTOR" />
+        <NormalData data="0.0000000 1.6000000 0.0000000" />
+        <DataInfo DataName="ImpluseForward" DataType="Normal_FLOAT" />
+        <NormalData data="550.0000000" />
+        <DataInfo DataName="ImpluseForwardMin" DataType="Normal_FLOAT" />
+        <NormalData data="10.0000000" />
+        <DataInfo DataName="ImpluseBackward" DataType="Normal_FLOAT" />
+        <NormalData data="300.0000000" />
+        <DataInfo DataName="ImpluseBackwardMin" DataType="Normal_FLOAT" />
+        <NormalData data="10.0000000" />
+        <DataInfo DataName="MaxImpluseSide" DataType="Normal_FLOAT" />
+        <NormalData data="300.0000000" />
+        <DataInfo DataName="MinImpluseSide" DataType="Normal_FLOAT" />
+        <NormalData data="10.0000000" />
+        <DataInfo DataName="Mass" DataType="Normal_FLOAT" />
+        <NormalData data="20.0000000" />
+        <DataInfo DataName="MassOffset" DataType="Special_VECTOR" />
+        <NormalData data="0.0000000 0.0000000 0.0000000" />
+        <DataInfo DataName="LinearDamper" DataType="Normal_FLOAT" />
+        <NormalData data="0.3000000" />
+        <DataInfo DataName="AngleDamper" DataType="Normal_FLOAT" />
+        <NormalData data="0.3000000" />
+        <DataInfo DataName="WheelFlyweightName" DataType="Container_STRING" />
+        <ContainerData data1="Logic_SaberToothedTiger_Wheel" data2="Logic_SaberToothedTiger_Wheel" data3="Logic_SaberToothedTiger_Wheel" data4="Logic_SaberToothedTiger_Wheel" />
+        <DataInfo DataName="RotationBones" DataType="Container_STRING" />
+        <ContainerData data1="WheelPoint01" data2="WheelPoint02" data3="WheelPoint03" data4="WheelPoint04" />
+        <DataInfo DataName="TranslationBones" DataType="Container_STRING" />
+        <ContainerData data1="WheelPoint01" data2="WheelPoint02" data3="WheelPoint03" data4="WheelPoint04" />
+        <DataInfo DataName="WheelLocation" DataType="Container_Special_VECTOR" />
+        <ContainerData data1="2.9000001 0.0000000 4.5000000" data2="2.9000001 0.0000000 -4.5000000" data3="-2.9000001 0.0000000 4.5000000" data4="-2.9000001 0.0000000 -4.5000000" />
+        <DataInfo DataName="ImpluseOffset" DataType="Normal_FLOAT" />
+        <NormalData data="0.0010000" />
+        <DataInfo DataName="SteerBias" DataType="Normal_FLOAT" />
+        <NormalData data="0.4000000" />
+        <DataInfo DataName="FxSpout" DataType="Container_STRING" />
+        <ContainerData data1="Lancer_Whell.reb" />
+        <DataInfo DataName="FxSpoutFrame" DataType="Container_STRING" />
+        <ContainerData data1="M_Lancer_Point" />
+        <DataInfo DataName="ControllerType" DataType="Normal_INT" />
+        <NormalData data="2" />
+    </FileData>
+</File>

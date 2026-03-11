@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<File>
+    <FileInfo>
+        <Info ClassName="FFunc_Store" ClassID="876522946" ObjectName="Func_RobotStore_Test" ObjectID="950002" Version="0" />
+    </FileInfo>
+    <FileData>
+        <DataInfo DataName="MaxStocks" DataType="Normal_INT" />
+        <NormalData data="100" />
+        <DataInfo DataName="MaxEachStocks" DataType="Normal_INT" />
+        <NormalData data="5" />
+    </FileData>
+</File>
